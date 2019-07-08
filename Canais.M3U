@@ -1,0 +1,374 @@
+#EXTM3U
+
+
+EM CARTAZ 
+
+
+
+
+
+TV ABERTA 
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO RIO  
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5622.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO SP
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5619.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="",GLOBO INTERNACIONAL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="",GLOBO BRASÍLIA 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5995.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5994.ts
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="",RECORD 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5990.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="",RECORD HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6184.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="",SBT 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="",SBT HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6194.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6196.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
+
+#EXTINF:0tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="",TV CULTURA 
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:0tvg-logo="https://i.imgur.com/erib2xQ.png " group-title="",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",NOVO TEMPO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
+
+#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rede_aparecida_de_comunicacao.jpg/200px-Rede_aparecida_de_comunicacao.jpg" group-title="",APARECIDA 
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:0tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:0tvg-logo="https://i.imgur.com/9Txygan.jpg " group-title="",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+
+
+
+ ////////////  NOTÍCIAS \\\\\\\\
+
+
+#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS 
+http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_W76zKbN245HU&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=4d70e0fc515fd1621495819a4b89a9b1
+
+#EXTINF:0 tvg-logo="" group-title="",RECORD NEWS 
+http://192.119.9.66:80/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_QwU1Hel7XVqf&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=8a456b88991be5f7b4074da7ef1bb033
+
+#EXTINF:0 tvg-logo="" group-title="",BAND NEWS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5991.ts
+                
+
+
+///////////// DOCUMENTARIOS \\\\\\\\\\\
+
+
+#EXTINF:0 tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6250.ts
+
+#EXTINF:0 tvg-logo="" group-title="",Discovery Channel
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12152.ts
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY CIVILIZATION
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6247.ts
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY SCIENCE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6134.ts
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY/THEATER
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6132.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HISTÓRY/CHANNEL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6256.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HISTORY 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6255.ts
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY TURBO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6130.ts
+
+#EXTINF:0 tvg-logo="" group-title="",NAT/ GEOGRAPHY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6252.ts
+
+#EXTINF:0 tvg-logo="" group-title="",NAT GEO/WILD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6239.ts
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY H&H
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12153.ts
+
+#EXTINF:0 tvg-logo="" group-title="",OFF
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12171.ts
+
+
+    ////////////// VARIEDDADES\\\\\\\\
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
+http://192.119.9.66:80/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_v7IPMmBX0qLb&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=a09745b551defb79bb0fc575281be207
+
+#EXTINF:0 tvg-logo="" group-title="",MTV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6788.ts
+
+#EXTINF:0 tvg-logo="" group-title="",MULTISHOW 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3839.ts
+
+#EXTINF:0 tvg-logo="" group-title="",COMEDY CENTRAL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6206.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TLC
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6633.ts
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL VIVA
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
+
+
+                    ESPORTES Com Bugs
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
+
+#EXTINF:0 tvg-logo="" group-title="",COMBATE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6217.ts
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5586.ts
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN 2 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5585.ts
+
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN BRASIL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5588.ts
+
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5584.ts
+
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5582.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="",SPORTV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5594.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="",SPORTV 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5592.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png  " group-title="",SPORTV 3
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5591.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",PREMIERE CLUBE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6237.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",PREMIERE CLUBE HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6236.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6234.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 3
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6232.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 4
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6230.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 5 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6228.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 6 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6226.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 7
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6224.ts
+
+
+
+                   
+         ///////////// NFANTIL \\\\\\\\\\
+
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3920.ts
+
+#EXTINF:0 tvg-logo="" group-title="",CARTOON NETWORK
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6214.ts
+
+#EXTINF:0 tvg-logo="" group-title="",DISNEY JÚNIOR 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6213.ts
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY KIDS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3919.ts
+
+#EXTINF:0 tvg-logo="" group-title="",GLOOB
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6279.ts
+
+#EXTINF:0 tvg-logo="" group-title="",ZOOMOO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12150.ts
+
+#EXTINF:0 tvg-logo="" group-title="",BABY TV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/11365.ts
+
+#EXTINF:0 tvg-logo="" group-title="",NICK JR
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3914.ts
+
+#EXTINF:0 tvg-logo="" group-title="",NICKLONDEM 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3915.ts
+
+
+                     FILMES & SÉRIES Com Bugs
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",SPACE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5673.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TNT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5677.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TNT SÉRIES 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6198.ts
+
+#EXTINF:0 tvg-logo="" group-title="",MAX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6281.ts
+
+#EXTINF:0 tvg-logo="" group-title="",MAX UP
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6287.ts
+
+#EXTINF:0 tvg-logo="" group-title="",MAXPRIME
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6283.ts
+
+#EXTINF:0 tvg-logo="" group-title="",MAXPRIME*é
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6285.ts
+
+#EXTINF:0 tvg-logo="" group-title="",MEGAPIX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5675.ts
+
+#EXTINF:0 tvg-logo="" group-title="",PARAMOONT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5667.ts
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL SONY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5652.ts
+
+#EXTINF:0 tvg-logo="" group-title="",STUDIO UNIVERSAL 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5669.ts
+
+#EXTINF:0 tvg-logo="" group-title="",UNIVERSAL  CHANNEL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5656.ts
+
+#EXTINF:0 tvg-logo="" group-title="",A&E
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16030.ts
+
+#EXTINF:0 tvg-logo="" group-title="",AXN
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3847.ts
+
+#EXTINF:0 tvg-logo="" group-title="",CINEMAX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5671.ts
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL FOX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6203.ts
+
+#EXTINF:0 tvg-logo="" group-title="",FX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5651.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",TCM
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5665.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",AMC
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5563.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HBO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3849.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HBO 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3848.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HBO FAMILY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3853.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HBO PLUS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3852.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HBO PLUS*é
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3851.ts
+
+#EXTINF:0 tvg-logo="" group-title="",HBO SIGNATURE 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3850.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE ACTION 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3858.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE FUN
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3857.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PIPOCA
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5661.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PREMIUM
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3859.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE TOUCHE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5658.ts
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE CULT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3854.ts
+
+
+                
+                  CANAIS  ADULTOS
+
+
+#EXTINF:0 tvg-logo="" group-title="", Virgin
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6606.ts
+
+#EXTINF:0 tvg-logo="" group-title="CANAIS/ADULTOS",PLAYBOY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6608.ts
+
+#EXTINF:0 tvg-logo="" group-title="",PINK O
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6613.ts
+
+#EXTINF:0 tvg-logo="" group-title="",SEXTREME
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6609.ts
+
+#EXTINF:0 tvg-logo="" group-title="",SEX HOT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6610.ts
+
+#EXTINF:0 tvg-logo="" group-title="",VENUS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16426.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X1uSmEU.jpg" group-title="",UM MALUCO NO PEDAÇO 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16424.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fzJfjiR.jpg " group-title="",A FAMILIA DINONSAURO 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16420.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aItqI46.jpg " group-title="",TODO MUNDO ODEIA O CRIS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16425.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6oPK2LE.jpg  " group-title="",A GALINHA PINTADINHA 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16419.ts
+
+
+
