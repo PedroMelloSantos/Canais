@@ -4,65 +4,104 @@
 
                             Teste
 
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6600.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6601.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6602.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6603.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6604.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6605.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6606.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6607.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6608.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6609.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6610.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6612.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6613.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6614.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6615.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6616.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6617.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6618.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6619.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6620.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6621.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6622.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6623.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6624.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6625.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6626.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6627.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6628.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6629.ts
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6630.ts
+#EXTINF:0 tvg-logo="" group-title="",0001
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0001.ts
+#EXTINF:0 tvg-logo="" group-title="",0002
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0002.ts
+#EXTINF:0 tvg-logo="" group-title="",0003
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0003.ts
+#EXTINF:0 tvg-logo="" group-title="",0004
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0004.ts
+#EXTINF:0 tvg-logo="" group-title="",0005
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0005.ts
+#EXTINF:0 tvg-logo="" group-title="",0006
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0006.ts
+#EXTINF:0 tvg-logo="" group-title="",0007
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0007.ts
+#EXTINF:0 tvg-logo="" group-title="",0008
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0008.ts
+#EXTINF:0 tvg-logo="" group-title="",0009
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0009.ts
+#EXTINF:0 tvg-logo="" group-title="",0010
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0010.ts
+#EXTINF:0 tvg-logo="" group-title="",0011
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0011.ts
+#EXTINF:0 tvg-logo="" group-title="",0012
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0012.ts
+#EXTINF:0 tvg-logo="" group-title="",0013
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0013.ts
+#EXTINF:0 tvg-logo="" group-title="",0014
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0014.ts
+#EXTINF:0 tvg-logo="" group-title="",0015
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0015.ts
+#EXTINF:0 tvg-logo="" group-title="",0016
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0016.ts
+#EXTINF:0 tvg-logo="" group-title="",0017
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0017.ts
+#EXTINF:0 tvg-logo="" group-title="",0018
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0018.ts
+#EXTINF:0 tvg-logo="" group-title="",0019
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0019.ts
+#EXTINF:0 tvg-logo="" group-title="",0020
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0020.ts
+#EXTINF:0 tvg-logo="" group-title="",0021
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0021.ts
+#EXTINF:0 tvg-logo="" group-title="",0022
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0022.ts
+#EXTINF:0 tvg-logo="" group-title="",0023
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0023.ts
+#EXTINF:0 tvg-logo="" group-title="",0024
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0024.ts
+#EXTINF:0 tvg-logo="" group-title="",0025
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0025.ts
+#EXTINF:0 tvg-logo="" group-title="",0026
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0026.ts
+#EXTINF:0 tvg-logo="" group-title="",0027
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0027.ts
+#EXTINF:0 tvg-logo="" group-title="",0028
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0028.ts
+#EXTINF:0 tvg-logo="" group-title="",0029
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0029.ts
+#EXTINF:0 tvg-logo="" group-title="",0030
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0030.ts
+#EXTINF:0 tvg-logo="" group-title="",0031
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0031.ts
+#EXTINF:0 tvg-logo="" group-title="",0032
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0032.ts
+#EXTINF:0 tvg-logo="" group-title="",0033
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0033.ts
+#EXTINF:0 tvg-logo="" group-title="",0034
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0034.ts
+#EXTINF:0 tvg-logo="" group-title="",0035
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0035.ts
+#EXTINF:0 tvg-logo="" group-title="",0036
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0036.ts
+#EXTINF:0 tvg-logo="" group-title="",0037
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0037.ts
+#EXTINF:0 tvg-logo="" group-title="",0038
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0038.ts
+#EXTINF:0 tvg-logo="" group-title="",0039
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0039.ts
+#EXTINF:0 tvg-logo="" group-title="",0040
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0040.ts
+#EXTINF:0 tvg-logo="" group-title="",0041
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0041.ts
+#EXTINF:0 tvg-logo="" group-title="",0042
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0042.ts
+#EXTINF:0 tvg-logo="" group-title="",0043
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0043.ts
+#EXTINF:0 tvg-logo="" group-title="",0044
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0044.ts
+#EXTINF:0 tvg-logo="" group-title="",0045
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0045.ts
+#EXTINF:0 tvg-logo="" group-title="",0046
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0046.ts
+#EXTINF:0 tvg-logo="" group-title="",0047
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0047.ts
+#EXTINF:0 tvg-logo="" group-title="",0048
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0048.ts
+#EXTINF:0 tvg-logo="" group-title="",0049
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0049.ts
+#EXTINF:0 tvg-logo="" group-title="",0050
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/0050.ts
+
