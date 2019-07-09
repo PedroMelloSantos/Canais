@@ -53,7 +53,7 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/erib2xQ.png " group-title="",Rede Brasil
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",NOVO TEMPO
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1138618024/logo_2009_3.JPG" group-title="",NOVO TEMPO
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
 
 #EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rede_aparecida_de_comunicacao.jpg/200px-Rede_aparecida_de_comunicacao.jpg" group-title="",APARECIDA 
@@ -72,13 +72,13 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
  ////////////  NOTÍCIAS \\\\\\\\
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS 
+#EXTINF:0 tvg-logo="https://www.franquiaeducacional.com/wp-content/uploads/globo-news.jpg" group-title="NOTÍCIAS",GLOBO NEWS 
 http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_W76zKbN245HU&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=4d70e0fc515fd1621495819a4b89a9b1
 
-#EXTINF:0 tvg-logo="" group-title="",RECORD NEWS 
+#EXTINF:0 tvg-logo="https://acontecendoaqui.com.br/sites/default/files/styles/full_content/public/record-news.jpg?itok=9mg9SiLp" group-title="",RECORD NEWS 
 http://192.119.9.66:80/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_QwU1Hel7XVqf&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=8a456b88991be5f7b4074da7ef1bb033
 
-#EXTINF:0 tvg-logo="" group-title="",BAND NEWS
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-vq9CkCMbWP0/WRz9xqGvqTI/AAAAAAAA5mY/ocy3WFbS4KYHHdKmphXJ8-txNqi2ovAlwCLcB/s640/bandnews.png" group-title="",BAND NEWS
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5991.ts
                 
 
@@ -149,7 +149,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
 #EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
 
-#EXTINF:0 tvg-logo="" group-title="",COMBATE
+#EXTINF:0 tvg-logo="https://netcombogoiania.com/wp-content/uploads/2015/04/canal-combate-300x210.png" group-title="",COMBATE
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6217.ts
 
 #EXTINF:0 tvg-logo="" group-title="",ESPN
