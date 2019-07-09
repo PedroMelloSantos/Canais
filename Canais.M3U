@@ -350,5 +350,15 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16425.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/6oPK2LE.jpg  " group-title="",A GALINHA PINTADINHA 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16419.ts
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/RCzuYGg.jpg" group-title="",SIMPSONS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16416.ts
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/FaiJIGS.png" group-title="",PICA-PAU
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16418.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/unq23Gc.jpg" group-title="",PATO DONALD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16421.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qjnSLHw.jpg" group-title="",BOB ESPONJA
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
