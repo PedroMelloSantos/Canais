@@ -47,23 +47,23 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6196.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV HD
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
 
-#EXTINF:0tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="",TV CULTURA 
+#EXTINF:0tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2016/12/tv-cultura-logo.png" group-title="",TV CULTURA 
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:0tvg-logo="https://i.imgur.com/erib2xQ.png " group-title="",Rede Brasil
+#EXTINF:0tvg-logo="http://retrotv.com.br/wp-content/uploads/2014/09/rede-brasil-logo2014b.png " group-title="",Rede Brasil
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1138618024/logo_2009_3.JPG" group-title="",NOVO TEMPO
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
 
-#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rede_aparecida_de_comunicacao.jpg/200px-Rede_aparecida_de_comunicacao.jpg" group-title="",APARECIDA 
+#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png/200px-Rede_aparecida_de_comunicacao.jpg" group-title="",APARECIDA 
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
-#EXTINF:0tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="",REDE MINAS
+#EXTINF:0tvg-logo="https://yt3.ggpht.com/a/AGF-l7_Ohe_UOsBGPzK4E8uNG-mYLR49Kuj1ScLk7A=s900-mo-c-c0xffffffff-rj-k-no" group-title="",REDE MINAS
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
 
-#EXTINF:0tvg-logo="https://i.imgur.com/9Txygan.jpg " group-title="",AMAZON SAT
+#EXTINF:0tvg-logo="https://idesam.org/wp-content/uploads/2017/09/AmazonSat.jpeg " group-title="",AMAZON SAT
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 
