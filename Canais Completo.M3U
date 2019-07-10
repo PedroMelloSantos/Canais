@@ -1,14 +1,6 @@
 #EXTM3U
 
 
-EM CARTAZ 
-
-
-
-
-
-TV ABERTA 
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO RIO  
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5622.ts
 
@@ -21,13 +13,11 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="",GLOBO BRASÍLIA 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
 
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5995.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND HD
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5994.ts
-
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="",RECORD 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5990.ts
@@ -62,14 +52,13 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:0tvg-logo="https://yt3.ggpht.com/a/AGF-l7_Ohe_UOsBGPzK4E8uNG-mYLR49Kuj1ScLk7A=s900-mo-c-c0xffffffff-rj-k-no" group-title="",REDE MINAS
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
-
 #EXTINF:0tvg-logo="https://idesam.org/wp-content/uploads/2017/09/AmazonSat.jpeg " group-title="",AMAZON SAT
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 
 
 
- ////////////  NOTÍCIAS \\\\\\\\
+
 
 
 #EXTINF:0 tvg-logo="https://www.franquiaeducacional.com/wp-content/uploads/globo-news.jpg" group-title="NOTÍCIAS",GLOBO NEWS 
@@ -83,7 +72,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5991.ts
                 
 
 
-///////////// DOCUMENTARIOS \\\\\\\\\\\
+
 
 
 #EXTINF:0 tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET
@@ -123,7 +112,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12153.ts
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12171.ts
 
 
-    ////////////// VARIEDDADES\\\\\\\\
+
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
 http://192.119.9.66:80/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_v7IPMmBX0qLb&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=a09745b551defb79bb0fc575281be207
@@ -144,7 +133,9 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6633.ts
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
 
 
-                    ESPORTES Com Bugs
+
+
+
 
 #EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
@@ -157,7 +148,6 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5586.ts
 
 #EXTINF:0 tvg-logo="" group-title="",ESPN 2 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5585.ts
-
 
 #EXTINF:0 tvg-logo="" group-title="",ESPN BRASIL
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5588.ts
@@ -204,7 +194,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6224.ts
 
 
                    
-         ///////////// NFANTIL \\\\\\\\\\
+
 
 
 #EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
@@ -235,7 +225,9 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3914.ts
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3915.ts
 
 
-                     FILMES & SÉRIES Com Bugs
+
+
+
 
 
 #EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",SPACE
@@ -333,7 +325,8 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3854.ts
 
 
                 
-                  CANAIS  ADULTOS
+
+
 
 
 #EXTINF:0 tvg-logo="" group-title="", Virgin
@@ -353,6 +346,11 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6610.ts
 
 #EXTINF:0 tvg-logo="" group-title="",VENUS
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
+
+
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
