@@ -60,7 +60,6 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 
 
 
-
 #EXTINF:0 tvg-logo="https://www.franquiaeducacional.com/wp-content/uploads/globo-news.jpg" group-title="NOTÍCIAS",GLOBO NEWS 
 http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_W76zKbN245HU&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=4d70e0fc515fd1621495819a4b89a9b1
 
@@ -114,6 +113,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12171.ts
 
 
 
+
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
 http://192.119.9.66:80/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_v7IPMmBX0qLb&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=a09745b551defb79bb0fc575281be207
 
@@ -131,7 +131,6 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6633.ts
 
 #EXTINF:0 tvg-logo="" group-title="",CANAL VIVA
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
-
 
 
 
@@ -195,8 +194,6 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6224.ts
 
                    
 
-
-
 #EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3920.ts
 
@@ -223,8 +220,6 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3914.ts
 
 #EXTINF:0 tvg-logo="" group-title="",NICKLONDEM 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3915.ts
-
-
 
 
 
@@ -327,8 +322,6 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3854.ts
                 
 
 
-
-
 #EXTINF:0 tvg-logo="" group-title="", Virgin
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6606.ts
 
@@ -346,9 +339,6 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6610.ts
 
 #EXTINF:0 tvg-logo="" group-title="",VENUS
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
-
-
-
 
 
 
@@ -379,4 +369,8 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16421.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qjnSLHw.jpg" group-title="",BOB ESPONJA
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
+
+
+
+
 
