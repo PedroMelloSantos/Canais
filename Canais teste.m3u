@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+Teste
+
+
+#EXTINF:0 tvg-logo="" group-title="", 01
+https://netflix.com/browse/genre/1365
+
+#EXTINF:0 tvg-logo="" group-title="", 02
+https://netflix.com/browse/genre/2125
+
+
 TESTE ADL
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2HnVv0J" group-title="SERIES" pltv-subgroup="MR ROBOT",MR ROBOT
