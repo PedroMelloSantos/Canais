@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO RIO  
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5622.ts
 
@@ -121,6 +122,9 @@ http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="AGRO BRASIL" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", AGRO BRASIL
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Agro Canal" tvg-name="Agro Canal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal
+http://tv.factoryiptv.com:80/3298211500/329821/40244
+
 #EXTINF:-1 tvg-id="CANAL RURAL X" tvg-logo="https://i.imgur.com/FdKHLtc.png?1" group-title="Canais",CANAL RURAL X
 http://77149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
  
@@ -139,7 +143,7 @@ http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
 
 
-
+NOTICIAS
 
 #EXTINF:0 tvg-logo="https://www.franquiaeducacional.com/wp-content/uploads/globo-news.jpg" group-title="NOTÍCIAS",GLOBO NEWS 
 http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_W76zKbN245HU&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=4d70e0fc515fd1621495819a4b89a9b1
@@ -153,7 +157,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5991.ts
 
 
 
-
+DOCUMENTARIOS
 
 #EXTINF:0 tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6250.ts
@@ -193,7 +197,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12171.ts
 
 
 
-
+ENTRETERIMENTO
 
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
 http://192.119.9.66:80/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_v7IPMmBX0qLb&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=a09745b551defb79bb0fc575281be207
@@ -214,7 +218,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6633.ts
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
 
 
-
+ESPORTES
 
 #EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png" group-title="Canais", JOGO ABERTO
 http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
@@ -227,6 +231,18 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
 
 #EXTINF:0 tvg-logo="https://netcombogoiania.com/wp-content/uploads/2015/04/canal-combate-300x210.png" group-title="",COMBATE
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6217.ts
+
+#EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
+http://tv.factoryiptv.com:80/3298211500/329821/37119
+
+#EXTINF:-1 tvg-id="CombateHD" tvg-name="COMBATE 4K" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais 4K",COMBATE 4K
+http://tv.factoryiptv.com:80/3298211500/329821/42635
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate FHD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Full HD",Combate FHD
+http://tv.factoryiptv.com:80/3298211500/329821/38428
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
+http://tv.factoryiptv.com:80/3298211500/329821/36986
 
 #EXTINF:0 tvg-logo="" group-title="",ESPN
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5586.ts
@@ -279,6 +295,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6224.ts
 
 
                    
+INFANTIL
 
 #EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3920.ts
@@ -310,6 +327,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3915.ts
 
 
 
+FILMES & SERIES
 
 #EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",SPACE
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5673.ts
@@ -349,6 +367,24 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5656.ts
 
 #EXTINF:0 tvg-logo="" group-title="",A&E
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16030.ts
+
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
+http://tv.factoryiptv.com:80/3298211500/329821/37130
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/825.png" group-title="Canais | Full HD",A&E FHD
+http://tv.factoryiptv.com:80/3298211500/329821/40263
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
+http://tv.factoryiptv.com:80/3298211500/329821/36929
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
+http://tv.factoryiptv.com:80/3298211500/329821/41087
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Full HD",AMC FHD
+http://tv.factoryiptv.com:80/3298211500/329821/40262
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC HD
+http://tv.factoryiptv.com:80/3298211500/329821/36928
 
 #EXTINF:0 tvg-logo="" group-title="",AXN
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3847.ts
@@ -405,14 +441,31 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5658.ts
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3854.ts
 
 
-                
+
+SHOWS
+
+#EXTINF:-1 tvg-id="" tvg-name="Aeromsith" tvg-logo="" group-title="Shows",Aeromsith
+http://tv.factoryiptv.com:80/3298211500/329821/42571
 
 
-#EXTINF:0 tvg-logo="" group-title="", Virgin
+
+
+ADULTO
+
+#EXTINF:0 tvg-logo="" group-title="", PLATIUM PLUS
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6606.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Jasmin TV" tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="Canais | Adultos",[XX] Jasmin TV
+http://tv.factoryiptv.com:80/3298211500/329821/40305
 
 #EXTINF:0 tvg-logo="" group-title="CANAIS/ADULTOS",PLAYBOY
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6608.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] PLAYBOY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | Adultos",[XX] PLAYBOY H265
+http://tv.factoryiptv.com:80/3298211500/329821/51258
+
+#EXTINF:-1 tvg-id="PlayboyTV FHD" tvg-name="[XX] Playboy TV  FHD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV  FHD
+http://tv.factoryiptv.com:80/3298211500/329821/41513
 
 #EXTINF:0 tvg-logo="" group-title="",PINK O
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6613.ts
@@ -426,8 +479,96 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6610.ts
 #EXTINF:0 tvg-logo="" group-title="",VENUS
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD  [Alternativo]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES SD  [Alternativo]
+http://tv.factoryiptv.com:80/3298211500/329821/51122
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 1" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 1
+http://tv.factoryiptv.com:80/3298211500/329821/52276
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 2" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 2
+http://tv.factoryiptv.com:80/3298211500/329821/52277
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 3" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 3
+http://tv.factoryiptv.com:80/3298211500/329821/52278
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 4" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 4
+http://tv.factoryiptv.com:80/3298211500/329821/52279
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 5" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 5
+http://tv.factoryiptv.com:80/3298211500/329821/52280
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 6" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 6
+http://tv.factoryiptv.com:80/3298211500/329821/52281
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 7" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 7
+http://tv.factoryiptv.com:80/3298211500/329821/52282
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 8" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 8
+http://tv.factoryiptv.com:80/3298211500/329821/52283
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 9" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 9
+http://tv.factoryiptv.com:80/3298211500/329821/52284
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 10" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 10
+http://tv.factoryiptv.com:80/3298211500/329821/52285
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Visit-X HD" tvg-logo="http://urlcurta.ml/gbkuw" group-title="Canais | Adultos",[XX] Visit-X HD
+http://tv.factoryiptv.com:80/3298211500/329821/40151
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 9" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 9
+http://tv.factoryiptv.com:80/3298211500/329821/52284
+
+#EXTINF:-1 tvg-id="" tvg-name="([XX] ADULTO 11" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",([XX] ADULTO 11
+http://tv.factoryiptv.com:80/3298211500/329821/57091
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 12)" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 12)
+http://tv.factoryiptv.com:80/3298211500/329821/57092
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 13" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 13
+http://tv.factoryiptv.com:80/3298211500/329821/57093
+
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 14" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 14
+http://tv.factoryiptv.com:80/3298211500/329821/57094
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 15" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 15
+http://tv.factoryiptv.com:80/3298211500/329821/57095
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 16" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 16
+http://tv.factoryiptv.com:80/3298211500/329821/57096
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 17" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 17
+http://tv.factoryiptv.com:80/3298211500/329821/57097
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 18" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 18
+http://tv.factoryiptv.com:80/3298211500/329821/57098
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 19" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 19
+http://tv.factoryiptv.com:80/3298211500/329821/57099
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 20" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 20
+http://tv.factoryiptv.com:80/3298211500/329821/57100
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 21" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 21
+http://tv.factoryiptv.com:80/3298211500/329821/57101
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 22" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 22
+http://tv.factoryiptv.com:80/3298211500/329821/57102
+
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 23" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 23
+http://tv.factoryiptv.com:80/3298211500/329821/57113
+
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin HD XX" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",Jasmin HD XX
+http://tv.factoryiptv.com:80/3298211500/329821/56409
+
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latina XX" tvg-logo="http://urlcurta.ml/WwbGE" group-title="Canais | Adultos",Miami TV Latina XX
+http://tv.factoryiptv.com:80/3298211500/329821/56406
+
+#EXTINF:-1 tvg-id="" tvg-name="Visit-X" tvg-logo="http://urlcurta.ml/gbkuw" group-title="Canais | Adultos",Visit-X
+http://tv.factoryiptv.com:80/3298211500/329821/56407
 
 
+
+ESPECIFICOS
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16426.ts
@@ -456,7 +597,10 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16421.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/qjnSLHw.jpg" group-title="",BOB ESPONJA
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa [24h]" tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Canais | 24 Horas",A Pantera Cor de Rosa [24h]
+http://tv.factoryiptv.com:80/3298211500/329821/39576
 
-
+#EXTINF:-1 tvg-id="" tvg-name="amigaozao [24h]" tvg-logo="https://media.fstatic.com/yx2ORRqyHCShqDHo1PhyHdy7Qd4=/fit-in/290x478/smart/media/movies/covers/2017/01/amigaozao.png" group-title="Canais | 24 Horas",amigaozao [24h]
+http://tv.factoryiptv.com:80/3298211500/329821/40786
 
 
