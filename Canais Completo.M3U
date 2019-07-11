@@ -37,6 +37,24 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6196.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV HD
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
 
+#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="CAT TVE" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+
 #EXTINF:0tvg-logo="https://odia.ig.com.br/_midias/jpg/2019/06/09/novo_canal_mce_tv_eh_lancado_pela_tv_cultura-11497495.jpg" group-title="",TV CULTURA 
 http://200.189.113.201/hls/tve.m3u8
 
@@ -46,6 +64,30 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1138618024/logo_2009_3.JPG" group-title="",NOVO TEMPO
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
 
+#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/IQGpdyD.png" group-title="Canais", TV FUTURA HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/IQGpdyD.png" group-title="Canais", TV FUTURA HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w895775698.m3u8
+
+#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+
+#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TV ESCOLA" tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV ESCOLA" tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2
+
+#EXTINF:-1 tvg-id="TV DIARIO" tvg-logo="https://i.imgur.com/QbosxSO.png" group-title="Canais", TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="1001 NOITES" tvg-logo="https://i.imgur.com/ojWfXDH.png" group-title="Canais",1001 NOITES
+http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8
+
 #EXTINF:0tvg-logo="https://https://portal4.files.wordpress.com/2012/12/aparecida.jpg" group-title="",APARECIDA 
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
@@ -54,6 +96,45 @@ http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
 #EXTINF:0tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple1/v4/38/75/e8/3875e88d-c18a-23a8-0c01-81aab01201f5/source/512x512bb.jpg " group-title="",AMAZON SAT
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+ 
+#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="Canais", TV CÂMARA
+http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
+
+#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="Canais", TV CÂMARA
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="Canais", TV CÂMARA
+http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="https://i.imgur.com/6MSLLIa.png" group-title="Canais",TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
+
+#EXTINF:-1 tvg-id="NOVO CANAL" tvg-logo="https://i.imgur.com/SganCH2.png?1" group-title="Canais", NOVO CANAL
+http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="AGRO BRASIL" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL RURAL X" tvg-logo="https://i.imgur.com/FdKHLtc.png?1" group-title="Canais",CANAL RURAL X
+http://77149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="Canais", CANAL DO BOI
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais",CANAL RURAL
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-id="POLISHOP TV" tvg-logo="https://i.imgur.com/1bg86Dc.png?1" group-title="Canais", POLISHOP TV
+http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/chunklist_w1266858146.m3u8
+
+#EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="Canais", CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8 
 
 
 
@@ -135,6 +216,11 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
 
 
 
+#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png" group-title="Canais", JOGO ABERTO
+http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
+
+#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", OS DONOS DA BOLA 
+http://evpp.mm.uol.com.br/geob_band/donosdabola/chunklist_w167933638.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
