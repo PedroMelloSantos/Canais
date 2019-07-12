@@ -401,6 +401,36 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16421.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/qjnSLHw.jpg" group-title="",BOB ESPONJA
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Galinha_Pintadinha.png" group-title="INFANTIL", Galinha Pintadinha 1
+http://proxy-048.dc3.dailymotion.com/sec(2338e6ad4dc9ae27ff328206a4fe78fc)/video/641/915/352519146_mp4_h264_aac_ld.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Galinha_Pintadinha.png" group-title="INFANTIL", Galinha Pintadinha 2
+http://proxy-036.dc3.dailymotion.com/sec(44ad8b86cf4a8254f261ef92459bce57)/video/541/915/352519145_mp4_h264_aac_ld.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Galinha_Pintadinha.png" group-title="INFANTIL", Galinha Pintadinha 3
+http://proxy-037.dc3.dailymotion.com/sec(f9a54611474073b3c4916f43e947dea5)/video/969/684/318486969_mp4_h264_aac.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3eVtPan.jpg" group-title="INFANTIL", Galinha Pintadinha 4
+http://proxy-06.nyc.dailymotion.com/sec(3b4d678049ad10b7474a0accbca1949f)/video/426/816/108618624_mp4_h264_aac_ld_2.m3u8
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-KBZzM2HUcUs/VyFqWoKPprI/AAAAAAAAIn8/Qi8DmdBp6R8ufGJjfhFJcHRyjBcJznOLQCLcB/s640/Imagem12.png" group-title="INFANTIL", Contos de fadas
+http://proxy-17.nyc.dailymotion.com/sec(ec82e30dd857d9406adfb0f5547f3422)/video/561/956/107659165_mp4_h264_aac_ld_2.m3u8
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-KBZzM2HUcUs/VyFqWoKPprI/AAAAAAAAIn8/Qi8DmdBp6R8ufGJjfhFJcHRyjBcJznOLQCLcB/s640/Imagem12.png" group-title="INFANTIL", Contos de fadas 2
+http://proxy-034.dc3.dailymotion.com/sec(ec45a41ab4a16ea906be7f6f4a20f0c3)/video/050/857/61758050_mp4_h264_aac_ld.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-oSAbz46-1qw/AAAAAAAAAAI/AAAAAAAAAAA/UzFF1NAQRSo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INFANTIL", Peppa Pig
+http://proxy-043.dc3.dailymotion.com/sec(a1b9672b162a1b1b79d3a1afda4c225c)/video/865/298/186892568_mp4_h264_aac_1.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-oSAbz46-1qw/AAAAAAAAAAI/AAAAAAAAAAA/UzFF1NAQRSo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INFANTIL", Peppa Pig Espanhol
+http://proxy-011.ix7.dailymotion.com/sec(9822edddf8e4d11ee0473d2cc4b358bb)/video/572/176/298671275_mp4_h264_aac_ld.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/877549966817980417/hWqhfIrm.jpg" group-title="INFANTIL",Patati e Patata
+http://proxy-043.dc3.dailymotion.com/sec(6d724d52167149741628d2564d68862f)/video/502/525/378525205_mp4_h264_aac_ld.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/877549966817980417/hWqhfIrm.jpg" group-title="INFANTIL",Patati e Patata - Volta ao Mundo
+http://proxy-033.dc3.dailymotion.com/sec(a75d370e96ce5f96abc2aa7db3fd7097)/video/885/443/358344588_mp4_h264_aac.m3u8
+
+#EXTINF:0 tvg-logo="http://is3.mzstatic.com/image/thumb/Music71/v4/cf/31/4c/cf314c6f-a0aa-8990-1354-2a5875b2c3c8/source/600x600bb.jpg" group-title="INFANTIL",CANTAR E BRINCAR VOL 1 
 
 
