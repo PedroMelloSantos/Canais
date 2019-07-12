@@ -38,19 +38,19 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6196.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV HD
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
 
-#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
+#EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+#EXTINF:0 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+#EXTINF:0 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
 http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
  
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA
+#EXTINF:0 tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-id="CAT TVE" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
