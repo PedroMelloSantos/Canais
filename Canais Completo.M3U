@@ -443,35 +443,28 @@ http://192.99.150.31:8849/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fm1sMNV.jpg" group-title=" RÁDIO" , Axé Folia
 http://192.99.150.31:8305/stream
 
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Carnaval Carioca 1
-http://173.236.30.162:8251/;
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Carnaval Carioca 2
-http://78.129.187.57:4990/;
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Bota Pagodao
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Bota Pagodao
 http://stm16.srvstm.com:11294//;stream.mp3
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Viva o Samba
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Viva o Samba
 http://servidor33.brlogic.com:8020/live
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio AxÃ© Bahia
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Bahia
 http://euroticast1.euroti.com.br:8070//;stream.mp3
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Skate Metal Old
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Skate Metal Old
 http://stm32.streaminghd.net.br:12406//;stream.mp3
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Jukebox
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Jukebox
 http://streaming08.hstbr.net:8240/live
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Mistureba online
-rtmp://wz2.dnip.com.br/sc_mistu//sc_mistu.stream
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Aloha Web RÃ¡dio
+
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Aloha Web Rádio
 http://216.245.194.244:8156/live
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, RÃ¡dio Infantil
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Infantil
 http://192.99.150.31:8371/;
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, RÃ¡dio Almanaque
-http://stm23.srvstm.com:21690/;stream.mp3
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, RÃ¡dio Poesia do Nordeste
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Poesia do Nordeste
 http://s01.hstbr.net:8044/live
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, WEB RÃDIO ATLÃ‚NTIDA
-http://5.133.182.164:28799/;stream
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, RÃ¡dio ModÃ£o
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Modão
 http://192.99.150.31:8105/;stream.mp3
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, RÃ¡dio ViamÃ£o
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Viamão
 http://149.56.200.90:20042/;stream/1
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Amigos Do Sertanejo
 http://stm20.voxstream.com.br:33144/;stream.mp3
