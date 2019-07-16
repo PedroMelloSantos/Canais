@@ -409,39 +409,55 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 Teste
 
 
-#EXTINF:-1 tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Canais | 24 Horas",A Pantera Cor de Rosa [24h]
-http://tv.factoryiptv.com:80/3298211500/329821/39576
+//// RÁDIOS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
-http://tv.factoryiptv.com:80/3298211500/329821/37130
+#EXTINF:-1 tvg-logo="http://www.bastidoresdoradio.com/102fm_sc.jpg" group-title="ESTÚDIO RÁDIOS" , Estudio 102 FM Itajaí - SC
+http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/825.png" group-title="Canais | Full HD",A&E FHD
-http://tv.factoryiptv.com:80/3298211500/329821/40263
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nxf9az8.jpg" group-title="ESTÚDIO RÁDIOS" , Estudio 91.7 FM Cascavel - PR
+http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
-http://tv.factoryiptv.com:80/3298211500/329821/36929
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Wp8Ri9u.png" group-title="ESTÚDIO RÁDIOS" , Estudio FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Shows",Aeromsith
-http://tv.factoryiptv.com:80/3298211500/329821/42571
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KVDWK8P.jpg" group-title="ESTÚDIO RÁDIOS" , Transamérica Pop
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal
-http://tv.factoryiptv.com:80/3298211500/329821/40244
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X3dyBbf.jpg" group-title="ESTÚDIO RÁDIOS" , Transamérica Hits
+http://transamerica.crossdigital.com.br:1935/transasp01/transasp01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
-http://tv.factoryiptv.com:80/3298211500/329821/41087
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FVhEYxG.png" group-title="ESTÚDIO RÁDIOS" , RADIO TAORMINA TV
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Full HD",AMC FHD
-http://tv.factoryiptv.com:80/3298211500/329821/40262
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QhR7Tgm.png" group-title="ESTÚDIO RÁDIOS" , Slam FM
+http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC HD
-http://tv.factoryiptv.com:80/3298211500/329821/36928
+#EXTINF:-1 tvg-logo="http://i.imgur.com/h5AFAvg.png" group-title="RÁDIO" , BOA FM
+http://painel.amsolution.net.br:8080/boa
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/yx2ORRqyHCShqDHo1PhyHdy7Qd4=/fit-in/290x478/smart/media/movies/covers/2017/01/amigaozao.png" group-title="Canais | 24 Horas",amigaozao [24h]
-http://tv.factoryiptv.com:80/3298211500/329821/40786
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UI7H44x.png" group-title="RÁDIO" , MEIO NORTE FM
+http://painel.amsolution.net.br:8080/live
 
-#EXTINF:-1 tvg-logo="http://urlcurta.ml/ms5Ec" group-title="Canais | Alternativos",Angel TV [Alternativo]
-http://tv.factoryiptv.com:80/3298211500/329821/43000
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="RÁDIO" , Mix FM
+http://mixaac.crossradio.com.br:1100/live
 
+#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="RÁDIO" , Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 tvg-logo="http://www.radiofunk.tv/template/img/logo.png" group-title="RÁDIO" , RÁDIO DO FUNK
+http://radio.bluedesign.com.br:8150/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S1cWMRy.jpg" group-title="RÁDIO" , Saudade Anos 80
+http://192.99.150.31:8697/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zopk5A6.png" group-title="RÁDIO" , Gospel
+http://192.99.150.31:9101/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zOCTXzk.png" group-title="RÁDIO" , Versão Brasileira
+http://192.99.150.31:8849/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fm1sMNV.jpg" group-title=" RÁDIO" , Axé Folia
+http://192.99.150.31:8305/stream
 
 
 
