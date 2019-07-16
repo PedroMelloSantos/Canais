@@ -408,33 +408,39 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
 Teste
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Aparecida FM
-http://tv.factoryiptv.com:80/3298211500/329821/49923
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Axe
-http://tv.factoryiptv.com:80/3298211500/329821/49908
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Forró
-http://tv.factoryiptv.com:80/3298211500/329821/49942
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Funk
-http://tv.factoryiptv.com:80/3298211500/329821/49909
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Funk Pesado
-http://tv.factoryiptv.com:80/3298211500/329821/49943
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Hunter
-http://tv.factoryiptv.com:80/3298211500/329821/49895
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Jovem Pan FM
-http://tv.factoryiptv.com:80/3298211500/329821/49894
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Kpop
-http://tv.factoryiptv.com:80/3298211500/329821/49977
-"https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Sertanejo
-http://tv.factoryiptv.com:80/3298211500/329821/49910
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Light
-http://tv.factoryiptv.com:80/3298211500/329821/49912
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Metalica
-http://tv.factoryiptv.com:80/3298211500/329821/49913
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Metropolitana
-http://tv.factoryiptv.com:80/3298211500/329821/49944
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Pagode
-http://tv.factoryiptv.com:80/3298211500/329821/49879
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio POP
-http://tv.factoryiptv.com:80/3298211500/329821/49911
-#EXTINF:0 tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",[RD] Radio Reggae
-http://tv.factoryiptv.com:80/3298211500/329821/49975
+
+#EXTINF:-1 tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Canais | 24 Horas",A Pantera Cor de Rosa [24h]
+http://tv.factoryiptv.com:80/3298211500/329821/39576
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
+http://tv.factoryiptv.com:80/3298211500/329821/37130
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/825.png" group-title="Canais | Full HD",A&E FHD
+http://tv.factoryiptv.com:80/3298211500/329821/40263
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
+http://tv.factoryiptv.com:80/3298211500/329821/36929
+
+#EXTINF:-1 tvg-logo="" group-title="Shows",Aeromsith
+http://tv.factoryiptv.com:80/3298211500/329821/42571
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal
+http://tv.factoryiptv.com:80/3298211500/329821/40244
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
+http://tv.factoryiptv.com:80/3298211500/329821/41087
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Full HD",AMC FHD
+http://tv.factoryiptv.com:80/3298211500/329821/40262
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC HD
+http://tv.factoryiptv.com:80/3298211500/329821/36928
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/yx2ORRqyHCShqDHo1PhyHdy7Qd4=/fit-in/290x478/smart/media/movies/covers/2017/01/amigaozao.png" group-title="Canais | 24 Horas",amigaozao [24h]
+http://tv.factoryiptv.com:80/3298211500/329821/40786
+
+#EXTINF:-1 tvg-logo="http://urlcurta.ml/ms5Ec" group-title="Canais | Alternativos",Angel TV [Alternativo]
+http://tv.factoryiptv.com:80/3298211500/329821/43000
+
+
+
