@@ -1,13 +1,6 @@
 #EXTM3U
 
 
-
-
-
-
-
-
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO RIO  
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5622.ts
 
@@ -44,36 +37,69 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6196.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV HD
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
 
-#EXTINF:0tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="",TV CULTURA 
+#EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+
+#EXTINF:0 tvg-logo="https://odia.ig.com.br/_midias/jpg/2019/06/09/novo_canal_mce_tv_eh_lancado_pela_tv_cultura-11497495.jpg" group-title="",TV CULTURA 
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:0tvg-logo="https://i.imgur.com/erib2xQ.png " group-title="",Rede Brasil
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e.jpg" group-title="",Rede Brasil
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",NOVO TEMPO
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1138618024/logo_2009_3.JPG" group-title="",NOVO TEMPO
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
 
-#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rede_aparecida_de_comunicacao.jpg/200px-Rede_aparecida_de_comunicacao.jpg" group-title="",APARECIDA 
+#EXTINF:0 tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://portal4.files.wordpress.com/2012/12/aparecida.jpg" group-title="",APARECIDA 
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
-#EXTINF:0tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="",REDE MINAS
+#EXTINF:0 tvg-logo="" group-title="http://redeminas.tv/wp-content/uploads/2018/10/avatarRedeMinas-360x240.jpg",REDE MINAS
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
-#EXTINF:0tvg-logo="https://i.imgur.com/9Txygan.jpg " group-title="",AMAZON SAT
+#EXTINF:0 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple1/v4/38/75/e8/3875e88d-c18a-23a8-0c01-81aab01201f5/source/512x512bb.jpg " group-title="",AMAZON SAT
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
+#EXTINF:0 tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+ 
+#EXTINF:0 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="Canais", CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8 
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS 
+
+
+NOTICIAS
+
+#EXTINF:0 tvg-logo="https://www.franquiaeducacional.com/wp-content/uploads/globo-news.jpg" group-title="NOTÍCIAS",GLOBO NEWS 
 http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_W76zKbN245HU&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=4d70e0fc515fd1621495819a4b89a9b1
 
-#EXTINF:0 tvg-logo="" group-title="",RECORD NEWS 
+#EXTINF:0 tvg-logo="https://acontecendoaqui.com.br/sites/default/files/styles/full_content/public/record-news.jpg?itok=9mg9SiLp" group-title="",RECORD NEWS 
 http://192.119.9.66:80/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_QwU1Hel7XVqf&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=8a456b88991be5f7b4074da7ef1bb033
 
-#EXTINF:0 tvg-logo="" group-title="",BAND NEWS
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-vq9CkCMbWP0/WRz9xqGvqTI/AAAAAAAA5mY/ocy3WFbS4KYHHdKmphXJ8-txNqi2ovAlwCLcB/s640/bandnews.png" group-title="",BAND NEWS
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5991.ts
                 
 
+
+
+DOCUMENTARIOS
 
 #EXTINF:0 tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6250.ts
@@ -113,6 +139,8 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12171.ts
 
 
 
+ENTRETERIMENTO
+
 #EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
 http://192.119.9.66:80/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_v7IPMmBX0qLb&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=a09745b551defb79bb0fc575281be207
 
@@ -132,11 +160,15 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6633.ts
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
 
 
-              
+ESPORTES
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png" group-title="Canais", JOGO ABERTO
+http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
 
-#EXTINF:0 tvg-logo="" group-title="",COMBATE
+#EXTINF:0 tvg-logo="https://netcombogoiania.com/wp-content/uploads/2015/04/canal-combate-300x210.png" group-title="",COMBATE
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6217.ts
 
 #EXTINF:0 tvg-logo="" group-title="",ESPN
@@ -189,8 +221,8 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6224.ts
 
 
 
-
-
+                   
+INFANTIL
 
 #EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3920.ts
@@ -220,8 +252,9 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3914.ts
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3915.ts
 
 
-                    
 
+
+FILMES & SERIES
 
 #EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",SPACE
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5673.ts
@@ -274,10 +307,10 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6203.ts
 #EXTINF:0 tvg-logo="" group-title="",FX
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5651.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",TCM
+#EXTINF:0 tvg-logo="http://goo.gl/M9RuAA?" group-title="",TCM
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5665.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",AMC
+#EXTINF:0 tvg-logo="http://goo.gl/M9RuAA?" group-title="",AMC
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5563.ts
 
 #EXTINF:0 tvg-logo="" group-title="",HBO
@@ -316,9 +349,9 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5658.ts
 #EXTINF:0 tvg-logo="" group-title="",TELECINE CULT
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3854.ts
 
-            
-                  
 
+
+ESPECIFICOS
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16426.ts
@@ -341,7 +374,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16416.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/FaiJIGS.png" group-title="",PICA-PAU
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16418.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/unq23Gc.jpg" group-title="",PATO DONALD
+#EXTINF:0 tvg-logo="https://i.imgur.com/unq23Gc.jpg" group-title="",WALT DISNEY
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16421.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qjnSLHw.jpg" group-title="",BOB ESPONJA
