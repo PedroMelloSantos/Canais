@@ -454,6 +454,8 @@ http://192.99.150.31:8105/;stream.mp3
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Brega
 http://sk7.org:8090/;
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Estações
 http://streaming08.hstbr.net:8240/live?1503535965776
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Smooth Jazz 
@@ -466,26 +468,34 @@ http://radio5.logicahost.com.br:9812/;
 http://45.43.208.138:27854/;
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Funk Brasil
-
 http://player.srvstm.com/player/12206/iphone.m3u
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Eurodance 90
 http://192.99.150.31:8056/stream?MWINFO
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Sertanejo Universitario
 http://192.99.150.31:9191/stream?MWINFO
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Sertanejo Raizes
 http://192.99.150.31:9155/stream?MWINFO
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Jovem Guarda
 http://192.99.150.31:8801/stream?MWINFO
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, ROBERTO CARLOS
 http://192.99.150.31:9137/stream
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Bossa Nova 
 http://6d9a.webradio.upx.net.br:9974/stream
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pagode 
 http://6d9a.webradio.upx.net.br:9061/stream
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Anos 2000 
 http://6d9a.webradio.upx.net.br:9940/stream
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop Rock 
 http://6d9a.webradio.upx.net.br:8016/stream
+
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop Hits 
-http://6d9a.webradio.upx.net.br:9046/stream
+http://6d9a.webradio.upx.net.br:90
