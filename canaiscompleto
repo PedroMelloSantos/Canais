@@ -600,3 +600,41 @@ http://6d9a.webradio.upx.net.br:9046/stream
 http://6d9a.webradio.upx.net.br:9898/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUoW6us.png" group-title="RADIOS",CBN 
+http://201.7.179.194/CBNRD/cbnsp.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bf7nfQ5.png" group-title="RADIOS",Rádio Globo SP 
+http://media.sgr.globo.com:1935/RadioGloboRD/gamsp.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bf7nfQ5.png" group-title="RADIOS",Rádio Globo RJ 
+http://media.sgr.globo.com:1935/RadioGloboRD/gamrj.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KxZXUg6.png" group-title="RADIOS",BH FM 
+http://media.sgr.globo.com:1935/MusicalRD/bhfm.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NCWRLpV.png" group-title="RADIOS",Joven Pan AM 
+http://evp.mm.uol.com.br:1935/jovempan/_definst_/jpam.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/um5nJdM.png" group-title="RADIOS",Joven Pan FM 
+http://evp.mm.uol.com.br:1935/jovempanfm/jovempanfm.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9IEBKS4.png" group-title="RADIOS",Transamérica 
+http://transamerica.crossradio.com.br:9100/live.aac
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Xai7F0P.png" group-title="RADIOS",Nativa 
+http://evp.mm.uol.com.br:1935/nativa_sp/nativa_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/owW4B56.png" group-title="RADIOS",Band News FM 
+http://evp.mm.uol.com.br:1935/bnewsfm_sp/bnewsfm_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/COH52eu.png" group-title="RADIOS",Verdes Mares 
+http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fYQq2gg.png" group-title="RADIOS", Bandeirantes 
+http://evp.mm.uol.com.br/radioam_sp/radioam_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WisDrRs.png" group-title="RADIOS",Band FM 
+http://evp.mm.uol.com.br:1935/bandfm_sp/bandfm_sp/playlist.m3u8
+
