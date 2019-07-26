@@ -668,4 +668,22 @@ http://6d9a.webradio.upx.net.br:9898/stream
 http://6d9a.webradio.upx.net.br:9896/stream
 
 
+TESTE
 
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB-19**
+http://fonte.iptvmaishd.com:25461/9247/9247/137031
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB-19*
+http://fonte.iptvmaishd.com:25461/9247/9247/137032
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E
+http://clienteworld.com:8080/lu/lu/8156
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E ²
+http://clienteworld.com:8080/lu/lu/12719
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E HD
+http://clienteworld.com:8080/lu/lu/8241
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E HD ²
+http://clienteworld.com:8080/lu/lu/12720
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",AMC
+http://clienteworld.com:8080/lu/lu/8155
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",AMC ²
+http://clienteworld.com:8080/lu/lu/12717
