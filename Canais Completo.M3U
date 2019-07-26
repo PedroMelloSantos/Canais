@@ -413,7 +413,7 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
 RÁDIOS
 
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] Rádio Globo - 98.1 FM" tvg-logo="https://static.psrv.io/logos/radios/radioglobo-981.png" group-title="Radios",[RJ] Rádio Globo - 98.1 FM
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radioglobo-981.png" group-title="Radios",[RJ] Rádio Globo - 98.1 FM
 http://psrv.io:80/dJNUn7w3/eAtDx3cG/539
 
 
