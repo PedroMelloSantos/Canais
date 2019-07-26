@@ -380,19 +380,8 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
 
 
 
-ESPECIFICOS
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16426.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/X1uSmEU.jpg" group-title="",UM MALUCO NO PEDAÇO 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16424.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/fzJfjiR.jpg " group-title="",A FAMILIA DINONSAURO 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16420.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/aItqI46.jpg " group-title="",TODO MUNDO ODEIA O CRIS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16425.ts
+DESENHOS
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/6oPK2LE.jpg  " group-title="",A GALINHA PINTADINHA 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16419.ts
@@ -408,6 +397,25 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16421.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qjnSLHw.jpg" group-title="",BOB ESPONJA
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
+
+
+
+
+SÉRIES
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16426.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X1uSmEU.jpg" group-title="",UM MALUCO NO PEDAÇO 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16424.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fzJfjiR.jpg " group-title="",A FAMILIA DINONSAURO 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16420.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aItqI46.jpg " group-title="",TODO MUNDO ODEIA O CRIS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16425.ts
+
+
 
 
 
@@ -466,7 +474,6 @@ http://psrv.io:80/dJNUn7w3/eAtDx3cG/539
 
 #EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiomania-911.png" group-title="Radios",[RJ] Rádio Mania FM - 91.1 FM
 http://psrv.io:80/dJNUn7w3/eAtDx3cG/535
-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9IEBKS4.png" group-title="RADIOS",Transamérica 
 http://transamerica.crossradio.com.br:9100/live.aac
