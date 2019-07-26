@@ -413,42 +413,66 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
 RÁDIOS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUoW6us.png" group-title="RADIOS",CBN 
-http://201.7.179.194/CBNRD/cbnsp.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/alvoradafm-949.png" group-title="Radios",[MG] Alvorada FM - 94.9 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/549
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Bf7nfQ5.png" group-title="RADIOS",Rádio Globo SP 
-http://media.sgr.globo.com:1935/RadioGloboRD/gamsp.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/autenticafavela-1067.png" group-title="Radios",[MG] Autêntica Favela FM - 106.7 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/556
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Bf7nfQ5.png" group-title="RADIOS",Rádio Globo RJ 
-http://media.sgr.globo.com:1935/RadioGloboRD/gamrj.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bandnews-895.png" group-title="Radios",[MG] BandNews FM - 89.5 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/547
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KxZXUg6.png" group-title="RADIOS",BH FM 
-http://media.sgr.globo.com:1935/MusicalRD/bhfm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bhfm-1021.png" group-title="Radios",[MG] BHFM - 102.1 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/552
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NCWRLpV.png" group-title="RADIOS",Joven Pan AM 
-http://evp.mm.uol.com.br:1935/jovempan/_definst_/jpam.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/cdl-1029.png" group-title="Radios",[MG] CDL FM - 102.9 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/554
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/um5nJdM.png" group-title="RADIOS",Joven Pan FM 
-http://evp.mm.uol.com.br:1935/jovempanfm/jovempanfm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/extrafm-1039.png" group-title="Radios",[MG] Extra FM - 103.9 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/555
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/jovempan-991.png" group-title="Radios",[MG] Jovem Pan FM - 99.1 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/550
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/inconfidencia-1009.png" group-title="Radios",[MG] Rádio Inconfidência - 100.9 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/551
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/itatiaia-957.png" group-title="Radios",[MG] Rádio Itatiaia - 95.7 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/553
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiomania-903.png" group-title="Radios",[MG] Rádio Mania FM - 90.3 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/548
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/transamerica-887.png" group-title="Radios",[MG] Transamérica Hits - 88.7 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/546
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/antena1-1037.png" group-title="Radios",[RJ] Antena 1 - 103.7 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/545
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bandnews-903.png" group-title="Radios",[RJ] BandNews FM - 90.3 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/536
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/fmodia-1005.png" group-title="Radios",[RJ] FM O Dia - 100.5 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/541
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/jbfm-999.png" group-title="Radios",[RJ] JB FM - 99.9 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/540
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiocidade-1029.png" group-title="Radios",[RJ] Rádio Cidade FM - 102.9 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/544
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radioglobo-981.png" group-title="Radios",[RJ] Rádio Globo - 98.1 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/539
+
+#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiomania-911.png" group-title="Radios",[RJ] Rádio Mania FM - 91.1 FM
+http://psrv.io:80/dJNUn7w3/eAtDx3cG/535
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9IEBKS4.png" group-title="RADIOS",Transamérica 
 http://transamerica.crossradio.com.br:9100/live.aac
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Xai7F0P.png" group-title="RADIOS",Nativa 
-http://evp.mm.uol.com.br:1935/nativa_sp/nativa_sp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/owW4B56.png" group-title="RADIOS",Band News FM 
-http://evp.mm.uol.com.br:1935/bnewsfm_sp/bnewsfm_sp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/COH52eu.png" group-title="RADIOS",Verdes Mares 
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fYQq2gg.png" group-title="RADIOS", Bandeirantes 
-http://evp.mm.uol.com.br/radioam_sp/radioam_sp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WisDrRs.png" group-title="RADIOS",Band FM 
-http://evp.mm.uol.com.br:1935/bandfm_sp/bandfm_sp/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Wp8Ri9u.png" group-title="ESTÚDIO RÁDIOS" , Estudio FM O DIA TV
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
