@@ -413,6 +413,9 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
 RÁDIOS
 
+Radio Globo AM
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUoW6us.png" group-title="RADIOS",CBN 
 http://201.7.179.194/CBNRD/cbnsp.sdp/playlist.m3u8
 
