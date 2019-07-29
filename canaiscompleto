@@ -380,19 +380,8 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
 
 
 
-ESPECIFICOS
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16426.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/X1uSmEU.jpg" group-title="",UM MALUCO NO PEDAÇO 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16424.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/fzJfjiR.jpg " group-title="",A FAMILIA DINONSAURO 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16420.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/aItqI46.jpg " group-title="",TODO MUNDO ODEIA O CRIS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16425.ts
+DESENHOS
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/6oPK2LE.jpg  " group-title="",A GALINHA PINTADINHA 
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16419.ts
@@ -411,61 +400,44 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16422.ts
 
 
 
+
+SÉRIES
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1809bSV.jpg" group-title=" SERIES/24 HORAS",EU A PATROA E AS CRIANÇAS 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16426.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X1uSmEU.jpg" group-title="",UM MALUCO NO PEDAÇO 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16424.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fzJfjiR.jpg " group-title="",A FAMILIA DINONSAURO 
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16420.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aItqI46.jpg " group-title="",TODO MUNDO ODEIA O CRIS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16425.ts
+
+
+
+
+
 RÁDIOS
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/alvoradafm-949.png" group-title="Radios",[MG] Alvorada FM - 94.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/549
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Z7uuqP.png" group-title="RÁDIOS",Rádio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/autenticafavela-1067.png" group-title="Radios",[MG] Autêntica Favela FM - 106.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/556
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VNdI6Wt.png" group-title="RÁDIOS",Rádio BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bandnews-895.png" group-title="Radios",[MG] BandNews FM - 89.5 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/547
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3dgGC7H.png" group-title="RÁDIOS",Rádio CBN AM
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bhfm-1021.png" group-title="Radios",[MG] BHFM - 102.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/552
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/cdl-1029.png" group-title="Radios",[MG] CDL FM - 102.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/554
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/extrafm-1039.png" group-title="Radios",[MG] Extra FM - 103.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/555
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/jovempan-991.png" group-title="Radios",[MG] Jovem Pan FM - 99.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/550
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/inconfidencia-1009.png" group-title="Radios",[MG] Rádio Inconfidência - 100.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/551
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/itatiaia-957.png" group-title="Radios",[MG] Rádio Itatiaia - 95.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/553
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiomania-903.png" group-title="Radios",[MG] Rádio Mania FM - 90.3 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/548
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/transamerica-887.png" group-title="Radios",[MG] Transamérica Hits - 88.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/546
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/antena1-1037.png" group-title="Radios",[RJ] Antena 1 - 103.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/545
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bandnews-903.png" group-title="Radios",[RJ] BandNews FM - 90.3 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/536
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/fmodia-1005.png" group-title="Radios",[RJ] FM O Dia - 100.5 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/541
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/jbfm-999.png" group-title="Radios",[RJ] JB FM - 99.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/540
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiocidade-1029.png" group-title="Radios",[RJ] Rádio Cidade FM - 102.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/544
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radioglobo-981.png" group-title="Radios",[RJ] Rádio Globo - 98.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/539
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiomania-911.png" group-title="Radios",[RJ] Rádio Mania FM - 91.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/535
+#EXTINF:-1 tvg-logo="http://i.imgur.com/O3eKMIz.png" group-title="RÁDIOS",Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9IEBKS4.png" group-title="RADIOS",Transamérica 
@@ -661,4 +633,22 @@ http://6d9a.webradio.upx.net.br:9898/stream
 http://6d9a.webradio.upx.net.br:9896/stream
 
 
+TESTE
 
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB-19**
+http://fonte.iptvmaishd.com:25461/9247/9247/137031
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB-19*
+http://fonte.iptvmaishd.com:25461/9247/9247/137032
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E
+http://clienteworld.com:8080/lu/lu/8156
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E ²
+http://clienteworld.com:8080/lu/lu/12719
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E HD
+http://clienteworld.com:8080/lu/lu/8241
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",A&E HD ²
+http://clienteworld.com:8080/lu/lu/12720
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",AMC
+http://clienteworld.com:8080/lu/lu/8155
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1768/WV7D8e.png" group-title="",AMC ²
+http://clienteworld.com:8080/lu/lu/12717
