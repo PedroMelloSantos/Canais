@@ -1,0 +1,956 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="", A&E FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12072
+#EXTINF:-1 tvg-logo="" group-title="",  A&E HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12110
+#EXTINF:-1 tvg-logo="" group-title="",  Agro Brasil HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12331
+#EXTINF:-1 tvg-logo="" group-title="",  AMC HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12109
+#EXTINF:-1 tvg-logo="" group-title="",  Animal Planet HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12108
+#EXTINF:-1 tvg-logo="" group-title="",  AXN FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12069
+#EXTINF:-1 tvg-logo="" group-title="",  AXN HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12330
+#EXTINF:-1 tvg-logo="" group-title="",  Band News HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12329
+#EXTINF:-1 tvg-logo="" group-title="",  Band Nordeste HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12107
+#EXTINF:-1 tvg-logo="" group-title="",  Band Sports HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12327
+#EXTINF:-1 tvg-logo="" group-title="",  BIS HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12326
+#EXTINF:-1 tvg-logo="" group-title="",  boomerang HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12106
+#EXTINF:-1 tvg-logo="" group-title="",  Canal Brasil HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12325
+#EXTINF:-1 tvg-logo="" group-title="",  Canal OFF FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12066
+#EXTINF:-1 tvg-logo="" group-title="",  Canal Sony HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12324
+#EXTINF:-1 tvg-logo="" group-title="",  Cartoon Network HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12105
+#EXTINF:-1 tvg-logo="" group-title="",  Cinemax HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12323
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery Channel HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12322
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery Civilization HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12321
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12104
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery Home & Health HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12320
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery KIDS HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12103
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery Science HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12319
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery Theater HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12318
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery Turbo HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12317
+#EXTINF:-1 tvg-logo="" group-title="",  Discovery World HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12316
+#EXTINF:-1 tvg-logo="" group-title="",  Disney Channel HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12315
+#EXTINF:-1 tvg-logo="" group-title="",  Disney JR FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12062
+#EXTINF:-1 tvg-logo="" group-title="",  DisneyJR HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12102
+#EXTINF:-1 tvg-logo="" group-title="",  E! HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12314
+#EXTINF:-1 tvg-logo="" group-title="",  EI Maxx 2 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12313
+#EXTINF:-1 tvg-logo="" group-title="",  Espn Brasil FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12061
+#EXTINF:-1 tvg-logo="" group-title="",  Espn Brasil HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12101
+#EXTINF:-1 tvg-logo="" group-title="",  ESPN HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12311
+#EXTINF:-1 tvg-logo="" group-title="",  FOOD NETWORK HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12310
+#EXTINF:-1 tvg-logo="" group-title="",  FoodNetwork HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12099
+#EXTINF:-1 tvg-logo="" group-title="",  Fox FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12058
+#EXTINF:-1 tvg-logo="" group-title="",  Fox HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12098
+#EXTINF:-1 tvg-logo="" group-title="",  Fox Life HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12309
+#EXTINF:-1 tvg-logo="" group-title="",  Fox Premium 1 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12308
+#EXTINF:-1 tvg-logo="" group-title="",  Fox Premium 2 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12307
+#EXTINF:-1 tvg-logo="" group-title="",  Fox Sports 2 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12306
+#EXTINF:-1 tvg-logo="" group-title="",  FX HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12304
+#EXTINF:-1 tvg-logo="" group-title="",  Globo Brasilia SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12208
+#EXTINF:-1 tvg-logo="" group-title="",  Globo News HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12303
+#EXTINF:-1 tvg-logo="" group-title="",  Globo News SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12207
+#EXTINF:-1 tvg-logo="" group-title="",  Globo Nordeste HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12097
+#EXTINF:-1 tvg-logo="" group-title="",  Globo Rio HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12302
+#EXTINF:-1 tvg-logo="" group-title="",  Globo Rio SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12205
+#EXTINF:-1 tvg-logo="" group-title="",  Globo SP SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12204
+#EXTINF:-1 tvg-logo="" group-title="",  Gloob HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12301
+#EXTINF:-1 tvg-logo="" group-title="",  Gloob SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12203
+#EXTINF:-1 tvg-logo="" group-title="",  GNT HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12300
+#EXTINF:-1 tvg-logo="" group-title="",  GNT SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12202
+#EXTINF:-1 tvg-logo="" group-title="",  H2 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12299
+#EXTINF:-1 tvg-logo="" group-title="",  HBO Family HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12297
+#EXTINF:-1 tvg-logo="" group-title="",  HBO Signature HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12295
+#EXTINF:-1 tvg-logo="" group-title="",  History FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12055
+#EXTINF:-1 tvg-logo="" group-title="",  History HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12095
+#EXTINF:-1 tvg-logo="" group-title="",  LIFETIME HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12293
+#EXTINF:-1 tvg-logo="" group-title="",  Mais Globosat HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12292
+#EXTINF:-1 tvg-logo="" group-title="",  MAX HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12291
+#EXTINF:-1 tvg-logo="" group-title="",  Max Prime E SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12188
+#EXTINF:-1 tvg-logo="" group-title="",  MAX Prime HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12290
+#EXTINF:-1 tvg-logo="" group-title="",  Max Prime SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12187
+#EXTINF:-1 tvg-logo="" group-title="",  MAX SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12186
+#EXTINF:-1 tvg-logo="" group-title="",  Max UP HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12289
+#EXTINF:-1 tvg-logo="" group-title="",  Megapix HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12288
+#EXTINF:-1 tvg-logo="" group-title="",  MTV HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12287
+#EXTINF:-1 tvg-logo="" group-title="",  Multishow HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12094
+#EXTINF:-1 tvg-logo="" group-title="",  Nat Geo FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12053
+#EXTINF:-1 tvg-logo="" group-title="",  NatGeo Kids HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12286
+#EXTINF:-1 tvg-logo="" group-title="",  NatGeo Wild HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12285
+#EXTINF:-1 tvg-logo="" group-title="",  NatGeoKids HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12093
+#EXTINF:-1 tvg-logo="" group-title="",  National Geographic HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12092
+#EXTINF:-1 tvg-logo="" group-title="",  Nick-JR HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12091
+#EXTINF:-1 tvg-logo="" group-title="",  OffHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12049
+#EXTINF:-1 tvg-logo="" group-title="",  Premiere Futebol Clube HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12090
+#EXTINF:-1 tvg-logo="" group-title="",  Record HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12274
+#EXTINF:-1 tvg-logo="" group-title="",  Rede Brasil SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12157
+#EXTINF:-1 tvg-logo="" group-title="",  Rede TV HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12272
+#EXTINF:-1,..Rede Vida SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12155
+#EXTINF:-1 tvg-logo="" group-title="",  SBT HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12271
+#EXTINF:-1 tvg-logo="" group-title="",  SBT NORDESTE FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12046
+#EXTINF:-1 tvg-logo="" group-title="",  Sbt Nordeste HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12088
+#EXTINF:-1 tvg-logo="" group-title="",  Sony SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12151
+#EXTINF:-1 tvg-logo="" group-title="",  Space FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12044
+#EXTINF:-1 tvg-logo="" group-title="",  Space HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12086
+#EXTINF:-1 tvg-logo="" group-title="",  SporTV 3 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12269
+#EXTINF:-1 tvg-logo="" group-title="",  SporTV 3 SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12148
+#EXTINF:-1 tvg-logo="" group-title="",  SporTV FHD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12043
+#EXTINF:-1 tvg-logo="" group-title="",  Sportv HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12085
+#EXTINF:-1 tvg-logo="" group-title="",  Studio Universal SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12146
+#EXTINF:-1 tvg-logo="" group-title="",  TBS SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12144
+#EXTINF:-1 tvg-logo="" group-title="",  Telecine Touch HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12078
+#EXTINF:-1 tvg-logo="" group-title="",  The History Channel HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12267
+#EXTINF:-1 tvg-logo="" group-title="",  TLC HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12266
+#EXTINF:-1 tvg-logo="" group-title="",  TNT HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12265
+#EXTINF:-1 tvg-logo="" group-title="",  TNT Series HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12264
+#EXTINF:-1 tvg-logo="" group-title="",  Tv Brasil HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12077
+#EXTINF:-1 tvg-logo="" group-title="",  Universal Channel HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12261
+#EXTINF:-1 tvg-logo="" group-title="",  VH1 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12260
+#EXTINF:-1 tvg-logo="" group-title="",  Viva HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12258
+#EXTINF:-1 tvg-logo="" group-title="",  Warner HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12257
+#EXTINF:-1 tvg-logo="" group-title="",  Premiere 2 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12280
+#EXTINF:-1 tvg-logo="" group-title="",  Record News HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12273
+#EXTINF:-1 tvg-logo="" group-title="",  SporTV 2 HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12270
+#EXTINF:-1 tvg-logo="" group-title="",  SyFy HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12083
+#EXTINF:-1 tvg-logo="" group-title="",  TCM SD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12143
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A festa nunca termina 
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Garota dos Meus Sonhos 
+http://media-br-am.crackle.com/1/v/z6/gsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Grande Jogada 
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Guerra De Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Heranca de Mr. Deeds 
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Hora do Rango 
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Informante 
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Lula e a Baleia
+http://media-br-am.crackle.com/1/5/f6/17ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Primeira Vista
+http://media-br-am.crackle.com/1/h/16/zaylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Ultima Missao 
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Vida e Bela
+http://media-br-am.crackle.com/1/s/z6/3j3lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Adeus Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,All That Jazz: O Show Deve Continuar 
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Almondegas 4 - Ferias de Verao 
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Amar  Trair e Roubar 
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ameaca Virtual
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Amigo de Casa 
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Anjos da Noite 3 - A Rebeliao
+http://media-br-am.crackle.com/1/2/16/dp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Aprendendo A Viver 
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Duas Faces Da Lei 
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Faces de Helen 
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Panteras
+http://media-br-am.crackle.com/1/8/16/3p1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Panteras Detonando
+http://media-br-am.crackle.com/1/o/96/e31lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Assalto Sobre Trilhos 
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Atraidos Pelo Destino 
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Beast Wars - Fim Da Linha 
+http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bolas em Panico 
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bon Jovi - Stadium Concert
+http://media-br-am.crackle.com/1/j/f6/j2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brinquedo Assassino 
+http://media-br-am.crackle.com/1/j/l6/0dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brokeback Mountain
+http://media-br-am.crackle.com/1/t/am/vddyb_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Caes de Guerra 
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Caminhos Opostos 
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Casamento as Avessas 
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cativeiro 
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cinturao Vermelho 
+http://media-br-am.crackle.com/1/g/v6/fjvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Coisas Belas E Sujas 
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Como Conquistar Uma Mulher 
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Corpo em Evidencia 
+http://media-br-am.crackle.com/1/j/16/97wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Crash: No Limite 
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Desafio Radical 
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Detona Ralph
+http://media-br-am.crackle.com/1/n/x6/gp4lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Divisao de Homicidios 
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Encontros ao Acaso 
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Enquanto Ela Esta Fora 
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Equilibrio 
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Estranha Obsessao 
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Eu Sei Quem Me Matou 
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Excesso de Bagagem 
+http://media-br-am.crackle.com/1/v/z6/esvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Femme Fatale 
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fido - O Mascote 
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Flores Partidas 
+http://media-br-am.crackle.com/1/j/z6/0tvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gattaca  a Experiencia Genetica
+http://media-br-am.crackle.com/1/r/z6/yuvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gleria
+http://media-br-am.crackle.com/1/w/n6/k6ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Godzilla 
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Grande Hotel 
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Greta 
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Harley Davidson E Marlboro Man - Cacada Sem Tregua 
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Haven 
+http://media-br-am.crackle.com/1/h/16/yaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Herois Imaginarios 
+http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homens Perigosos 
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homens de Preto
+http://media-br-am.crackle.com/1/h/v6/hmvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Honra & Coragem - As Quatro Plumas 
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,HOOK. A volta do capitao gancho
+http://media-br-am.crackle.com/1/c/p6/jkwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hooligans: Furia nos campos 
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Horas de Desespero 
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hotel Ruanda 
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Impacto Mortal 
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Inocente ou Culpado 
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,JCVD 
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jogando com Prazer 
+http://media-br-am.crackle.com/1/v/z6/fsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jogos Trapacas E dois Canos Fumegantes 
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jogue a Mamae do Trem - Comedia
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kalifornia - Uma Viagem ao Inferno 
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p_1mbps.mp4?LHMTv					
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kung-Fu Futebol Clube 
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lembrancas de Hollywood 
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lendas da Paixao
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Malicia
+http://media-br-am.crackle.com/1/g/16/taylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Marcas do Passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Matador de Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mergulho Radical 2
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Meu Primeiro Amor 
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Modigliani
+http://media-br-am.crackle.com/1/w/z6/isvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,NAO Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,NAO eh Mais Um Besteirol Americano
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,NAO Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nem por cima do Meu Cadaver
+http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nem Tudo eh o Que Parece
+http://media-br-am.crackle.com/1/j/z6/2qvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Cantor
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Despertar de Uma Paixao
+http://media-br-am.crackle.com/1/w/h6/77vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Guardiao
+http://media-br-am.crackle.com/1/k/l6/3dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Guardiao 2
+http://media-br-am.crackle.com/1/g/16/vaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Guardiao 3 
+http://media-br-am.crackle.com/1/i/16/4aylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Julgamento de Paris
+http://media-br-am.crackle.com/1/b/16/99wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Justiceiro
+http://media-br-am.crackle.com/1/q/96/o01lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Paciente Ingles
+http://media-br-am.crackle.com/1/b/z6/4h3lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Paraiso eh Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Povo contra Larry Flint
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Retorno do Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Senhor Das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Sequestro do Metro
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Tango e o Assassino
+http://media-br-am.crackle.com/1/h/d6/5yvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Vigarista do Ano
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Reis de dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os safados
+http://media-br-am.crackle.com/1/a/16/96wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Seus os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Poder e Corrupcao
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Procurando Encrenca
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Procura-se um Bum Bum Desesperadamente
+http://media-br-am.crackle.com/1/o/j6/byulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Provas e Trapacas
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Red: Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Risco Absoluto
+http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,RONIN
+http://media-br-am.crackle.com/1/p/d6/02vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,S.W.A.T.
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sedutora e Diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sitie
+http://media-br-am.crackle.com/1/g/f6/54ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sob Suspeita (2006)
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Soldado Universal 3
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Solteira Procura 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Superbad - Eh Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Swingers - Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tentaculos
+http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Final Cut
+http://media-br-am.crackle.com/1/j/4l/1wcyb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Woman In The Fifth
+http://media-br-am.crackle.com/1/j/il/49owb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tres Formas de Amar
+http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tres Mulheres Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tudo que voce precisa saber sobre Sexo
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Turma do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Voo Muito Louco
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Tira Muito Suspeito
+http://media-br-am.crackle.com/1/f/h6/75vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Segredo entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ninja em Beverly Hills
+http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Homem Fora de Serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Dia Muito Louco
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Crime entre Amigas
+http://media-br-am.crackle.com/1/e/n6/h7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Beijo Roubado
+http://media-br-am.crackle.com/1/z/z6/tsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vou te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Violacao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vinganca
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vidas que se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vestida para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vamos Nessa
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,xXx 2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,ZOHAN. O Agente Bom de Corte
+http://media-br-am.crackle.com/1/u/96/531lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra O foguete da Morte
+http://balder.lhmtv.gq/redecanais/0071979CNTROFGUT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Cassino Royale
+http://balder.lhmtv.gq/redecanais/0072006CSNRYL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra A chantagem atomica
+http://balder.lhmtv.gq/redecanais/0071965CNTRACTGMATN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 A servico secreto da sua majestade
+http://balder.lhmtv.gq/redecanais/0071969ASVCSCRT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra Goldeneye
+http://balder.lhmtv.gq/redecanais/0071995CNTRGLDNE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra Goldfinger
+http://balder.lhmtv.gq/redecanais/0071964CNTRGLDFNG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra o homem com a pistola de ouro
+http://balder.lhmtv.gq/redecanais/0071974CNTROHMN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra O satanico Dr. No
+http://balder.lhmtv.gq/redecanais/0071962CNTROSTNC.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra Octopussy
+http://balder.lhmtv.gq/redecanais/0071983CNTROPCTPS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra Spectre
+http://balder.lhmtv.gq/redecanais/0072016CNTRSPCTR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Marcado para Morte
+http://balder.lhmtv.gq/redecanais/0071987MRCDOMRT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Na mira dos assassinos
+http://balder.lhmtv.gq/redecanais/0071985NMRDSASNS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 O Amanha nunca morre
+http://balder.lhmtv.gq/redecanais/0071997OAMNHNCM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 O espiao que me amava
+http://balder.lhmtv.gq/redecanais/0071977OESPNHQMA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 O Mundo NAO e o bastante
+http://balder.lhmtv.gq/redecanais/0071999OMNDNAOEOBST.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Operacao SkyFall
+http://balder.lhmtv.gq/redecanais/0072012SKYFL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 OS diamantes sao eternos
+http://balder.lhmtv.gq/redecanais/0071971OSDAMTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Permissao para matar
+http://balder.lhmtv.gq/redecanais/0071989PRMSPMTR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Quantum of Solage
+http://balder.lhmtv.gq/redecanais/0072008QNTOFSLC.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 So se vive 2 vezes
+http://balder.lhmtv.gq/redecanais/0071967CM007SSVDV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Somente para seus olhos
+http://balder.lhmtv.gq/redecanais/0071981SMNTPSOLHS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Um novo dia para morrer
+http://balder.lhmtv.gq/redecanais/0072002UNDPM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Viva e deixe morrer
+http://balder.lhmtv.gq/redecanais/0071973VIVADXMR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Toy Story 3
+http://tyr.lhmtv.gq/redecanais/TYSTRY3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Toy Story 2
+http://tyr.lhmtv.gq/redecanais/TYSTRY2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Toy Story: Um Mundo de Aventuras
+http://tyr.lhmtv.gq/redecanais/TYSTRY1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Corcunda de Notre Dame 2
+http://tyr.lhmtv.gq/redecanais/OCRCNDDNTRDM2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Corcunda de Notre Dame
+http://tyr.lhmtv.gq/redecanais/OCRCNDDNTRDM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Shrek para Sempre
+http://tyr.lhmtv.gq/redecanais/SHREKPRSMPR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Shrek Terceiro
+http://tyr.lhmtv.gq/redecanais/SHREK03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Shrek 2
+http://tyr.lhmtv.gq/redecanais/SHREK02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Shrek
+http://tyr.lhmtv.gq/redecanais/SHREK01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Rei Leao 3: Hakuna Matata
+http://tyr.lhmtv.gq/redecanais/REILAO03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Rei Leao 2: O Reino de Simba
+http://tyr.lhmtv.gq/redecanais/REILAO02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Rei Leao
+http://tyr.lhmtv.gq/redecanais/REILAO01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Pequena Sereia II: O Retorno Para o Mar
+http://tyr.lhmtv.gq/redecanais/APQNSRAFILME02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Pequena Sereia
+http://tyr.lhmtv.gq/redecanais/APQNSRAFILME01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Madagascar 3: Os Procurados
+http://tyr.lhmtv.gq/redecanais/MDGSCR03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Madagascar 2: A Grande Escapada
+http://tyr.lhmtv.gq/redecanais/MDGSCR02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Madagascar
+http://tyr.lhmtv.gq/redecanais/MDGSCR01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Era do Gelo 4
+http://tyr.lhmtv.gq/redecanais/AERDGL4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Era do Gelo 3
+http://tyr.lhmtv.gq/redecanais/AERDGL3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Era do Gelo 2
+http://tyr.lhmtv.gq/redecanais/AERDGL2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Era do Gelo
+http://tyr.lhmtv.gq/redecanais/AERDGL1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,De Volta para o Futuro 3
+http://tyr.lhmtv.gq/redecanais/DVLTPROFUT3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,De Volta para o Futuro 2
+http://tyr.lhmtv.gq/redecanais/DVLTPROFUT2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,De Volta para o Futuro
+http://tyr.lhmtv.gq/redecanais/DVLTPROFUT1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Uma Noite no Museu 3: O Segredo da Tumba
+http://tyr.lhmtv.gq/redecanais/UNTNMSU3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Uma Noite no Museu 2
+http://tyr.lhmtv.gq/redecanais/UNTNMSU2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Uma Noite no Museu
+http://tyr.lhmtv.gq/redecanais/UNTNMSU1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,As Branquelas
+http://tyr.lhmtv.gq/redecanais/ASBRNQLS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Todo Mundo em Panico 5
+http://tyr.lhmtv.gq/redecanais/TDMNDEMPNC5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Todo Mundo em Panico 4
+http://tyr.lhmtv.gq/redecanais/TDMNDEMPNC4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Todo Mundo em Panico 3
+http://tyr.lhmtv.gq/redecanais/TDMNDEMPNC3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Todo Mundo em Panico 2
+http://tyr.lhmtv.gq/redecanais/TDMNDEMPNC2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Todo Mundo em Panico
+http://tyr.lhmtv.gq/redecanais/TDMNDEMPNC1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie: O Reencontro
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE8.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie: O Livro do Amor
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE7.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie: Caindo em Tentacao
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE6.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie 5: O ultimo Stifler Virgem
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie 4: Tocando a Maior Zona
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie: O Casamento
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie 2: A Segunda Vez e Ainda Melhor
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,American Pie: A 1 Vez e Inesquecivel
+http://tyr.lhmtv.gq/redecanais/AMRCNPIE1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Maquina do tempo
+http://balder.lhmtv.gq/redecanais/AMQNDTMP.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera 4
+http://tyr.lhmtv.gq/redecanais/MQNMRTFR04.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera 3
+http://tyr.lhmtv.gq/redecanais/MQNMRTFR03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera 2
+http://tyr.lhmtv.gq/redecanais/MQNMRTFR02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera
+http://tyr.lhmtv.gq/redecanais/MQNMRTFR01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,MIB: Homens de Preto 3
+http://tyr.lhmtv.gq/redecanais/MIBHMDPRT03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,MIB: Homens de Preto 2
+http://tyr.lhmtv.gq/redecanais/MIBHMDPRT02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,MIB: Homens de Preto
+http://tyr.lhmtv.gq/redecanais/MIBHMDPRT01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Loucademia de Policia 7: Missao Moscou
+http://tyr.lhmtv.gq/redecanais/LCDMDPLC07.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Loucademia de Policia 6
+http://tyr.lhmtv.gq/redecanais/LCDMDPLC06.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Loucademia de Policia 5: Missao Miami Beach
+http://tyr.lhmtv.gq/redecanais/LCDMDPLC05.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Loucademia de Policia 4: O Cidadao Se Defende 
+http://tyr.lhmtv.gq/redecanais/LCDMDPLC04.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Loucademia de Policia 3: De Volta ao Treinamento 
+http://tyr.lhmtv.gq/redecanais/LCDMDPLC03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Loucademia de Policia 2: A Primeira Missao
+http://tyr.lhmtv.gq/redecanais/LCDMDPLC02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Loucademia de Policia
+http://tyr.lhmtv.gq/redecanais/LCDMDPLC01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Eu. Christiane F drogada e prostituida
+http://lhmtv.ga/Christiane-F
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Debi & Loide 2
+http://tyr.lhmtv.gq/redecanais/DBELID2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Debi & Loide: Dois Idiotas em Apuros
+http://tyr.lhmtv.gq/redecanais/DBELID1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Maskara
+http://tyr.lhmtv.gq/redecanais/OMSKR01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Superman
+http://tyr.lhmtv.gq/redecanais/SPRMN1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Superman 2
+http://tyr.lhmtv.gq/redecanais/SPRMN2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Superman 3
+http://tyr.lhmtv.gq/redecanais/SPRMN3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Uma licao de amor
+http://tyr.lhmtv.gq/redecanais/UMLCDAMR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Edward Maos de Tesoura
+http://tyr.lhmtv.gq/redecanais/EDWRDMSDTSR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Bad Boys I
+http://tyr.lhmtv.gq/redecanais/BDBYS1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Bad Boys II
+http://tyr.lhmtv.gq/redecanais/BDBYS2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Big Time Rush: O Filme
+http://tyr.lhmtv.gq/redecanais/BTRSHOFILME.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Patch Adams: O Amor e Contagioso
+http://tyr.lhmtv.gq/redecanais/PTCHADMSOAMRECNTG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Familia Addams
+http://tyr.lhmtv.gq/redecanais/AFMLADMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Hora do Rush 3
+http://tyr.lhmtv.gq/redecanais/AHRDRSH03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Hora do Rush 2
+http://tyr.lhmtv.gq/redecanais/AHRDRSH02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,A Hora do Rush
+http://tyr.lhmtv.gq/redecanais/AHRDRSH01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Matrix
+http://freya.lhmtv.gq/redecanais/MTRX.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Matrix Reloaded
+http://freya.lhmtv.gq/redecanais/MTRXRLD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Matrix Revolutions
+http://freya.lhmtv.gq/redecanais/MTRXREV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Happy Feet
+http://freya.lhmtv.gq/redecanais/HPYFT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Happy Feet 2: O Pinguim
+http://freya.lhmtv.gq/redecanais/HPYFT2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Os Normais: O Filme
+http://freya.lhmtv.gq/redecanais/OSNRMASOFLM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Os Normais 2
+http://freya.lhmtv.gq/redecanais/OSNRMAS2NTMLC.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Maze Runner: Prova de Fogo
+http://freya.lhmtv.gq/redecanais/MZRNRPRVDFG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Ela Danca, Eu Danco
+http://freya.lhmtv.gq/redecanais/ELDNCEUDNC1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Ela Danca, Eu Danco 2
+http://freya.lhmtv.gq/redecanais/ELDNCEUDNC2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Ela Danca, Eu Danco 3
+http://freya.lhmtv.gq/redecanais/ELDNCEUDNC3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Ela Danca, Eu Danco 4
+http://freya.lhmtv.gq/redecanais/ELDNCEUDNC4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Ela Danca, Eu Danco 5: Tudo ou Nada
+http://freya.lhmtv.gq/redecanais/ELDNCEUDNC5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Busca Explosiva
+http://freya.lhmtv.gq/redecanais/BSCEXPLSV1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Busca Explosiva 2
+http://freya.lhmtv.gq/redecanais/BSCEXPLSV2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Busca Explosiva 3
+http://freya.lhmtv.gq/redecanais/BSCEXPLSV3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Busca Explosiva 4
+http://freya.lhmtv.gq/redecanais/BSCEXPLSV4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Busca Explosiva 5: Campo de Batalha
+http://freya.lhmtv.gq/redecanais/BSCEXPLSV5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Cruzeiro das Loucas
+http://freya.lhmtv.gq/redecanais/OCRZRDLCS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Auto da Compadecida
+http://freya.lhmtv.gq/redecanais/OATDCPDCDA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Lisbela e o Prisioneiro
+http://freya.lhmtv.gq/redecanais/LSBLEOPRSNRO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Uma Noite de Crime
+http://freya.lhmtv.gq/redecanais/UMNTDCRM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Uma Noite de Crime 2:Anarquia
+http://freya.lhmtv.gq/redecanais/UMNTDCRM2ARQU.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Uma Noite de Crime 3
+http://freya.lhmtv.gq/redecanais/UMNTDCRM3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Rio
+http://freya.lhmtv.gq/redecanais/RIO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Rio 2
+http://freya.lhmtv.gq/redecanais/RIO2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Pianista
+http://hestia.lhmtv.gq/redecanais/OPNSTA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Mad Max
+http://tyr.lhmtv.gq/redecanais/MDMX01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Mad Max 2: A Cacada continua
+http://tyr.lhmtv.gq/redecanais/MDMX02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Mad Max: Alem da cupula do dragao
+http://tyr.lhmtv.gq/redecanais/MDMX03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Mad Max: Estrada da furia
+http://tyr.lhmtv.gq/redecanais/MDMXESTDFUR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Rocky: V
+http://media-br-am.crackle.com/1/e/16/nz4lf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Rocky: Iv
+http://media-br-am.crackle.com/1/c/d6/i1vlf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Rocky: III O Desafio Supremo
+http://media-br-am.crackle.com/1/c/d6/h1vlf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Rocky: II A Revanche
+http://media-br-am.crackle.com/1/e/16/oz4lf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,MIB - Homens De Preto Desenho
+http://media-br-am.crackle.com/1/h/v6/hmvlf_480p_1mbps.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Impacto Mortal 
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p_1mbps.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,As Panteras Detonando 
+http://media-br-am.crackle.com/1/o/96/e31lf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Questao De Honra 
+http://media-br-am.crackle.com/1/o/56/474lf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,O Homem Sem Sombra
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Karate Kid - A Hora Da Verdade 
+http://media-br-am.crackle.com/1/-/j6/w45lf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Karate Kid 2	
+http://media-br-am.crackle.com/1/9/j6/t45lf_480p.mp4?lhmtv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,Karate Kid 3 O Desafio Final
+http://media-br-am.crackle.com/1/z/n6/275lf_480p.mp4?lhmtv
