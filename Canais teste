@@ -1,0 +1,2850 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg",[COLOR orange]<=====(CATEGORIA)=====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL RADIO",[COLOR yellow]<====(CANAL RADIO)=====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/ebd3xe.jpg",BAND FM
+rtmp://aa.stm-ip.com:1935/shoutcast playpath=http://192.187.106.154:8758/ swfUrl=http://184.95.53.54/player-html5.swf live=1 pageUrl=http://184.95.53.54/player-html5/T0RjMU9BPT0rRA==?skin=html5&cor=00000
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2v3347m.jpg",GAZETA FM
+rtmp://wz4.dnip.com.br/gazetacuiabahd/ playpath=gazetacuiabahd.stream swfUrl=http://robertdev.influxis.com/videos/hls/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://helloradio.com.br/helloradio/gazeta/novo/player/
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2pzmpfr.jpg",HUNTER FM
+http://streaming.shoutcast.com/RadioHunter-TheHitzChannel
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/1zfh0nm.jpg",JOVEM PAN FM
+rtmp://evp.mm.uol.com.br/jovempanfm playpath=jovempanfm.sdp swfUrl=http://jovempanfm.uol.com.br/static/libs/website/player/content/soundmanager2/swf/soundmanager2_flash9_debug.swf live=1 pageUrl=http://jovempanfm.uol.com.br/
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2nasd3o.jpg",MEGA FM
+rtmp://hdpanel.oficialserver.com:1935/7075_aac playpath=default.stream swfUrl=http://www.mega95fm.com.br/site/player/mega95fm.swf live=1 pageUrl=http://www.mega95fm.com.br/site/player.php
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2yo27vq.jpg",NATIVA FM
+rtmp://wz1.dnip.com.br/nativafm32k/ playpath=nativafm32k.stream swfUrl=http://www.nativa87fm.com.br/play.swf live=1 pageUrl=http://www.nativa87fm.com.br/play.html
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/a2aosz.jpg",SERRA FM
+http://server2.webradios.com.br:9190/;
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/vx8au_th.jpg" group-title="REALITY SHOW",[COLOR yellow]<====(REALITY SHOW)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://s9.tinypic.com/2zr3rti_th.jpg",BBB 17
+http://217.23.2.169:8081/look/looktvsbbb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s9.tinypic.com/2zr3rti_th.jpg",BBB 17
+http://tv.redecanais.com:1935/redecanaisbbb/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s9.tinypic.com/2zr3rti_th.jpg",BBB 17
+http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL MUSICA",[COLOR yellow]<====(CANAL MUSICA)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/11249qa.jpg",1HD MUSIC TELEVISION
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/w6t8u9.jpg",AMAZING
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2u584kp.jpg",ATOMIC
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2qbannb.jpg",BIS
+http://192.99.148.73:8080/live/andersonvertes/av785214/37.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/k1p5jp.jpg",CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2rel1ts.jpg",CITY TELEVISION
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w1409174839.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2rdzy2g.jpg",CVCLAVOZ
+http://control1.worldkast.com/cvclavoz/ngrp:cvclavoz_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/qn6usj.jpg",DOT DANCE
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/wbcgep.jpg",DJING 
+http://www.djing.com/tv/01.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/wbcgep.jpg",DJING 2
+http://www.djing.com/tv/a-01.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/wbcgep.jpg",DJING 3
+http://www.djing.com/tv/u-01.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/wbcgep.jpg",DJING 4
+http://www.djing.com/tv/d-02.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2vmakp3.jpg",DREAM
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/3092c04.jpg",ESKA BEST MUSIC TV
+rtmp://stream.smcloud.net/tv/best/ playpath=best_720p swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/eska-best-music-tv
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/21enm94.jpg",ESKA ROCK TV
+rtmp://stream.smcloud.net/tv/eska_rock/ playpath=eska_rock_720p swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/eska-rock-tv
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/16gfpt2.jpg",ESKA PARTY TV
+rtmp://stream.smcloud.net/tv/eska_party/ playpath=eska_party_720p swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/eska-party-tv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2mw6r8g.jpg",ESKA TV
+rtmp://stream.smcloud.net/tv/eskatv/ playpath=eskatv_480p swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/eska-tv
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/aymruc.jpg",EUROPA PLUS TV
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/14niotz.jpg",ELECTRO SOUND
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2cdf61.jpg",FOR MUSIC TV
+http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2lkbl92.jpg",FRESH TV
+rtmp://wse.planeta-online.tv:1935/live/ playpath=channel_4 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/fresh-tv-russia
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/mmwpwo.jpg",FUSION PLUS TV
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/nzpycj.jpg",G2P TV
+rtmp://srv3.zoeweb.tv/z474-live/ playpath=aovivo swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/g2p-tv
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ihxkyc.jpg",HARD LIFE TV
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2j1x8nd.jpg",HEAVY METAL TELEVISION
+http://70.166.98.130:1935/hmtv/myStream/chunklist_w1669380141.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2rz9xxv.jpg",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/rrqx42.jpg",HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/6od09k.jpg",MULTISHOW
+http://192.99.148.73:8080/live/andersonvertes/av785214/39.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/fapk6f.jpg",MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/atvkzm.jpg",M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2qlxqq8.jpg",MUSIC VOX TV
+http://s4w.deb1.scdn.smcloud.net/tv/vox/vox_360p/chunklist_w2138214891.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/295fvxg.jpg",MFM TV
+http://ec.playmedia.fr/mfmtv/live/chunklist_w1372809233.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2wqe992.jpg",MTV
+http://193.23.58.156:4025/udp/234.1.20.36:1234
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2wqe992.jpg",MTV
+rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/5fgm7m.jpg",NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w237950951.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2mwz705.jpg",OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM/chunklist_w1815714176.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2iqzeb6.jpg",OCKO EXPRESS
+http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/25s3p6t.jpg",OCKO TV
+http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/28hgdat.jpg",OCKO GOLD
+http://se02.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2ch4x88.jpg",PLANET TV
+rtmp://196.46.185.32/livepkgr/ playpath=livestream swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/planet-tv
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/25kinme.jpg",POLO TV
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/b5fhmu.jpg",RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/25f6fio.jpg",RADIOU TV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2komyo.jpg",RADIO 105 NETWORK TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2dvivx2.jpg",RADIO VIRGIN TV
+rtmp://tv.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/com/universalmind/swf/videoPlayerTV.swf?xmlPath=http://video.virginradioitaly.it/com/universalmind/tv/virgin/videoXML.xml pageUrl=http://www.vertvgratuita.com/cn/inicial2.htm
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/fndbur.jpg",RADIO TV MENINA FM
+http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/344d3l0.jpg",RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/jgiohd.jpg",SUPER SONIC TV
+http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2c0ig2.jpg",SI TV
+http://hd.worldkast.com:1935/8436/8436/chunklist_w535447123.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/25ozya1.jpg",TV MOL
+http://hd4.com.br:1935/mataoonline/mataoonline/chunklist_w1074095418.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2dkmx41.jpg",TV SERTANEJA
+http://caikrondatacenter.com.br:1935/tvsertaneja/tvsertaneja.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2ef23xz.jpg",TV INTERNAUTA
+rtmp://104.156.60.74:1935/tvinternauta/ playpath=tvinternauta swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-internauta
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/rk7i44.jpg",VISUAL RADIO TV
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ecgntj.jpg",VEVO
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ecgntj.jpg",VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ecgntj.jpg",VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL ABERTO",[COLOR yellow]<====(CANAL ABERTO)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wlvp8x.jpg",AGRO CANAL
+rtmp://live.sba1.com/liveac playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=liveac&largura=662&altura=394
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2qdagr7.jpg",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/167se45.jpg",BAND
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/167se45.jpg",BAND
+http://217.23.2.169:8081/look/band/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/167se45.jpg",BAND PA
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/xp6gbs.jpg",CONEXAO
+rtmp://live.sba1.com/livecx playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livecx&largura=662&altura=394
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/23mopbm.jpg",CANAL DO BOI
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2mh6bn.jpg",CANAL RURAL
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/bk2kw.jpg",CANAL RURAL X
+http://d1crvprst9xtzs.cloudfront.net/hlsverylow/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/23htzy9.jpg",DMTV
+rtmp://tv.dm.com.br/live/ playpath=dmtv swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/dmtv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/8xsfvp.jpg",FUTURA 
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/jt2a08.jpg",LIVRE TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/20kb2fq.jpg",MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2nius5z.jpg",MEGA TV
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2wd2hcl.jpg",NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2na1xsj.jpg",NOVO CANAL
+rtmp://live.sba1.com/livenc playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livenc&largura=662&altura=394
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2d165wl.jpg",NTV
+rtmp://srv02.brasilstream.com.br/live/ntv/ playpath=ntv swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/ntv
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/i75szq.jpg,REDE GLOBO
+http://217.23.2.169:8081/look/globo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/i75szq.jpg,REDE GLOBO SP
+http://217.23.2.169:8081/look/sptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/i75szq.jpg,REDE GLOBO N.E
+http://tv.redecanais.com:1935/redecanaisglobo/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wa6adj.jpg",REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wa6adj.jpg",REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wa6adj.jpg",REDE TV RO
+http://173.236.10.10:1935/tvonline/tvonline/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wa6adj.jpg",REDE TV SP
+http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wa6adj.jpg",REDE TV RS
+http://192.99.101.129:1935/rafael926/rafael926/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/17zeoh.jpg",REDE RECORD
+http://217.23.2.169:8081/look/record/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/17zeoh.jpg",RECORD NEWS
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/5yxmgy.jpg",REDE BRASIL
+http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/t5mw4y.jpg",REDE MINAS
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/34oedrc.jpg",REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1834697316_b300000.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/25f3eya.jpg",RCTV
+rtmp://flash1.crossdigital.com.br/491/ playpath=491 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rc.tv.br/rc.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2ym7ekm.jpg",RBA TV
+rtmp://strrba.net2.com.br:1935/live/ playpath=rba_360p swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/rbatv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/in4rpe.jpg",SBT
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/in4rpe.jpg",SBT
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/in4rpe.jpg",SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/in4rpe.jpg",SBT RECIFE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/in4rpe.jpg",SBT MA
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/in4rpe.jpg",SBT CARUARU
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2r45506.jpg",SHOP TIME
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2qwosx5.jpg",TV GAZETA
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/5m0p38.jpg",TV ABERTA
+rtmp://inaclive.tv.br/tvabertalive playpath=tvabertalive swfUrl=http://tvaberta.inaclive.tv.br/player.swf live=1 pageUrl=http://tvaberta.inaclive.tv.br/player_717.php
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/m93cyg.jpg",TV NORDESTV
+rtmp://187.18.187.5/livepkgr/ playpath=nordestv1 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/nordestv-band-ce
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/15pfkw7.jpg",TV MARAJOARA
+http://104.156.60.74:1935/canal50/canal50/chunklist_w1795649407.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/260snx5.jpg",TV BRASIL
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/8wwcqs.jpg",TVN BRASIL
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2u3v536.jpg",TV NATAL
+http://iphone-streaming.ustream.tv:80/uhls/17104844/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/250hxsm.jpg",TV GERAL
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/20pm5c.jpg",TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2e67huh.jpg",TV DIARIO
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/105zm6p.jpg",TV CAMARA
+http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/20r4d1s.jpg",TV ASSEMBLEIA
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/1grdhs.jpg",TERRA VIVA 
+http://evp.mm.uol.com.br:1935/terraviva/terraviva/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/hvt53o.jpg",TV ULTRA FARMA
+http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/5bcozb.jpg",TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/16iijl.jpg",TVC
+http://tvconline.tvceara.ce.gov.br:50000/stream.flv
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2akmiqp.jpg",TV A PLATEIA
+rtmp://srv3.zoeweb.tv/z474-live/ playpath=aovivo swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/g2p-tv
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/s3eeu1.jpg",TV BAIANA
+rtmp://cdn-br-002938543.comets.com.br/tvbaiana/ playpath=aovivo swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-baiana
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/346ss1x.jpg",TV SINAL
+http://stmv2.srvstm.com/tvsinal/tvsinal/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/301oo7b.jpg",TV CIDADE BRUSQUE
+http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/200fkuw.jpg",TV FAAP
+http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1736024575.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/33x92tl.jpg",TV UNIAO
+http://38.96.175.108:1935/tvuniao/tvuniao/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/19s5t0.jpg",TV CIDADE PELOTAS
+http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/zjxtf9.jpg",TV VITORIA
+http://201.73.145.24/livepl/tvvitoria_3_original.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2zdn8jl.jpg",TVCOM
+http://322747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/tvcom-sc.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/qyegi0.jpg",TVV
+http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/29ffhic.jpg",TVE
+rtmp://stream2.ba.gov.br/livepkgr/ playpath=pgm-2?adbe-live-event=irdeb swfUrl=http://vjs.zencdn.net/4.12/video-js.swf live=1 pageUrl=http://www.irdeb.ba.gov.br/streaming/aovivo/830x467
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/29ffhic.jpg",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/29ffhic.jpg",TVE BA
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/29ffhic.jpg",TVE JUNDIAI
+http://xtve_jundiaix.api.channel.livestream.com/3.0/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/24mvm28.jpg",TV METROPOLE
+http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/j59pcj.jpg",TV PANTANAL
+rtmp://78.46.36.212/tvpantanalms/ playpath=tvpantanalms swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.tvpantanalms.com.br/player/index.php
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/who8l0.jpg",TV PAMPA
+rtmp://192.99.101.129:1935/rafael926/ playpath=encoder swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-pampa
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/10e381t.jpg",TV RIO PRETO
+rtmp://186.227.165.118:1935/insatv/ playpath=livestream swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-rio-preto
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/5v0wgx.jpg",TV CARUARU
+rtmp://origin-1.cdnfull.com:1935/golive?key=55c64ffe9a902/ playpath=195_448_live?key=55c64ffe9a902 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-caruaru
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/25rl7jc.jpg",TV CIDADE 10
+rtmp://s5.procergs.com.br/tve/ playpath=stve swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-cidade-10
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/1oayaw.jpg",TV CORREIO
+http://flash1.crossdigital.com.br/491/491/chunklist_w1827122453.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/1625xqf.jpg",TV DIGITAL BIRIGUI
+http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/chunklist_w740524389.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2qjvgxi.jpg",TV ALTEROSA
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/11hbc6b.jpg",TV ARATU
+rtmp://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/ playpath=myStream.sdp swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-aratu-sbt-bahia
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/111m1bc.jpg",TV POÇOS
+http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/chunklist_w1718367193.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2ijmdft.jpg",TV JORNAL
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/4ras9l.jpg",TV POTENGI
+rtmp://tv01.hstbr.net:1935/tvpotengi/ playpath=tvpotengi swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-potengi
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL IGREJA",[COLOR yellow]<====(CANAL IGREJA)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/29c2fd.jpg",ANTARES
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/95zq6o.jpg",ADINET TV
+http://stmv1.srvstm.com/adinettv/adinettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/ff200j.jpg",BOAS NOVAS
+http://streaming57.sitehosting.com.br:1935/boas/boas/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/eq367r.jpg",CANÇAO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/20r8ztl.jpg",CANAL CJC
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2mnqckw.jpg",CANAL EXECUTIVO
+http://stream.novotempo.com:1935/tv/executivo.smil/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/5fr8g7.jpg",IURD TV
+http://xiurdtveux.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/scvqdh.jpg",IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/30de90m.jpg",GOSPEL TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/1548x8z.jpg",JESUS CRISTO A PALAVRA
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/21azsjt.jpg",REDE GOSPEL
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2coq7me.jpg",REDE VIDA
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2qji1co.jpg",REDE GENESIS
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/24dqvpd.jpg",RIT TV
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2e545sp.jpg",SKY GOSPEL WEB TV
+http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2nhkvbo.jpg",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/56yhx.jpg",TV MUNDIAL
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/zx2v68.jpg",TV A CAMINHO DA LUZ
+http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2nhkvbo.jpg",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2jaht6p.jpg",TV ARCA DA ALIANÇA
+http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2816ijo.jpg",TV CRISTO VIVE
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2zq4wax.jpg",TV MISSAO
+http://wse5.player.tv.br:1935/tvmissoes/tvmissoes/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/xnuiqd.jpg",TV LOUVAR
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/27zjl8y.jpg",TV ALVORADA ESPÍRITA
+http://rtmp.cdn.upx.net.br:1935/732a/myStream.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cwjsec.jpg",TV AD BELEM
+http://streaming49.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/w9fr88.jpg",TV MUNDO MAIOR
+http://67.213.216.200:1935/8306/8306/chunklist_w255548396.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2mhsvgz.jpg",TVCI
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/148n9l1.jpg",TV GIDEOES
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2qv5lpl.jpg",TV SECULO 21
+http://257919-lh.akamaihd.net/i/TVSeculo21_hdlive@145740/index_250_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/33ux1m1.jpg",TV MANA
+rtmp://195.22.19.179:1935/igronl playpath=igronline2 swfUrl=http://igreja-online.tv/immediaplayer1/player.swf live=1 pageUrl=http://igreja-online.tv/streemTv_med3.htm?p=99
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/zipx7n.jpg",VEM E VE TV
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/20uyis6.jpg",VEM E VE TV 2
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/30hsjew.jpg",VEM E VE TV 3
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/14mdhsp.jpg",WEB TV A FE NO SOBRENATURAL
+http://stmv1.hostgs.net/pramos/pramos/playlist.m3u8?wowzasessionid=735186723
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL NOTICIA",[COLOR yellow]<====(CANAL NOTICIA)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2qm2gxk.jpg",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2a7hp9w.jpg",BBC NEWS
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/sx19gy.jpg",BH NEWS TV
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2rm9y5i.jpg",BAND NEWS
+http://5.189.152.217:8000/medina/medina/3.ch
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/34ozzoj.jpg",BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/21lir03.jpg",CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2j13mvd.jpg",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/33ti23a.jpg",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2nhe3k9.jpg",EURO NEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/11hxmc7.jpg",FOX 23 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2qwh309.jpg",FOX 30 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/13yjimb.jpg",GLOBO NEWS
+http://freeiptv-tuga.zapto.org/live/free/iptv/168.ts?box=fix
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/256y1w8.jpg",GV NEWS
+rtmp://172.93.110.130:1935/gvnews/ playpath=gvnews swfUrl=http://wse01.logicahost.com.br/wseplugins/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://gvnews.com.br/tv-online-gv-news/
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/1238olk.jpg",KIRO 7 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/4ig9rp.jpg",LIFE NEWS
+http://tv.life.ru/lifetv/720p/index.m3u8?TVHDCABONET
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/16aelft.jpg",NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2i96l3t.jpg",NBC NEWS
+http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/w48jc.jpg",RECORD NEWS
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/k4i5mx.jpg",TV PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/t5gem8.jpg",WGN 9 NEWS 
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL ESPORTE",[COLOR yellow]<====(CANAL ESPORTE)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/s5bin4.jpg",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1543708272.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/280lk07.jpg",BAND SPORTS
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/playlist.m3u8?TVHDCABONET
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2vtw4ds.jpg",BFM SPORT
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/250ruol.jpg",COMBATE
+http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8?h=0401749423785012345678914383837859876543210q88Q5ilA2rWunikfHMtmcg&k=html5&u=&a=A
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2n856xv.jpg",DUBAI RACING
+http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/dr9lpl.jpg",ESPN BRASIL
+http://192.99.148.73:8080/live/andersonvertes/av785214/61.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/dr9lpl.jpg",ESPN BRASIL
+http://109.200.202.87:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2rgfe2v.jpg",ESPN +
+http://192.99.148.73:8080/live/andersonvertes/av785214/60.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/5edanq.jpg",ESPN
+http://192.99.148.73:8080/live/andersonvertes/av785214/59.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2ps511w.jpg",EUROSPORT
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/339ivdz.jpg",EI MAXX
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/16i8q68.jpg",EI MAXX 2
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/29fdzc2.jpg",ESPORTE INTERATIVO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2ewe70y.jpg",FOX SPORTS
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2h57679.jpg",FOX SPORTS 2
+http://192.99.148.73:8080/live/andersonvertes/av785214/64.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/6sap6v.jpg",FIGHT SPORTS
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/s1u4x0.jpg",FOOTBALL 2
+http://s2.edem.tv/iptv/K76G52BQ47C64L/530/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/27wt9jl.jpg",HORSE BRASIL CHANNEL
+rtmp://490636978.r.worldcdn.net/490636978/_definst_/ playpath=horsebrasil1 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/horse-brasil-channel
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/20z9non.jpg",MOTOR SPORT
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2q0kmkz.jpg",NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/x8v3o.jpg",NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/3ee8o.jpg",POKER CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/vmxh5v.jpg",PREMIERE CLUBES
+http://213.188.51.185:9981/play/a00s
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/vmxh5v.jpg",PREMIERE CLUBES
+http://31.204.128.117:8081/live/pfc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/vmxh5v.jpg",PREMIERE CLUBES
+http://109.200.202.87:8081/live/pfc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2i0ydsj.jpg",RED BULL TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8?TVHDCABONET
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/148etzq.jpg",RETE8 SPORT
+rtmp://live.cdn2.streamago.tv:80/streamagoedge/39648?idutente=39648&idcanale=36567&pwd=null playpath=36567 swfUrl=https://www.streamera.tv/inc/app/StreameraPlayer.swf live=1 pageUrl=https://www.streamera.tv/channel/36567/rete-8-sport/iframe/
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2jcy1sp.jpg",SPORTV
+http://109.200.202.87:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/20z1umh.jpg",SPORTV 2
+http://109.200.202.87:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/90989y.jpg",TV ESPORTE +
+http://srv7.zoeweb.tv:1935/esportemais/esportemais.smil/chunklist_w201054044_b1200000.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/fmqm1c.jpg",TV REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2iboha1.jpg",TRUE SPORT 2
+rtmp://216.185.103.158/live2/ playpath=chthaipremier31 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/true-sport
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/sql4qv.jpg",TJK TV
+http://tjktv.ercdn.net/tjktv_144p.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2d7a4hh.jpg",UFC
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/rt2d5y.jpg",UW TV
+rtmp://wowza2.uwtv.washington.edu:1935/live/ playpath=mp4:uwtv swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/uwtv
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2gxgvn9.jpg",VERSUS HD
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="DOCUMENTARIO",,[COLOR yellow]<====(DOCUMENTARIO)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2lbnbd0.jpg",ANIMAL PLANET
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/zmdytk.jpg",DW 2
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/zmdytk.jpg",DW 4
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_4_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2m4ss2f.jpg",DISCOVERY CHANNEL
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/1g57a8.jpg",H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/ld06p.jpg",HISTORY LAB
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/174wgo.jpg",RAI 5
+http://originstream12.rai.it/live/smil:rai5.smil/chunklist_b350000.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/98y4jo.jpg",TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?wowzasessionid=656679665
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="DESENHOS 24HR",[COLOR yellow]<====(DESENHOS 24HR)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2cr3q0m.jpg",BOB ESPONJA
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDE6NTc6MTUgQU0maGFzaF92YWx1ZT1nRmV0SWYxekJYUmdVT3pQdG1sOHpRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.phppageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2j0l4zp.jpg",BATMAN
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MDU6MzAgQU0maGFzaF92YWx1ZT1MM0Z4Y2FEa0pBQkN1UDVKMnBjU2dRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/batman.php
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2zh343b.jpg",BEN 10
+rtmp://208.53.180.178/ctv playpath=ben10 swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2nbghtt.jpg",CAVALEIROS DO ZODIACO
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MDk6MTMgQU0maGFzaF92YWx1ZT04TFNFaU5rYkZodjBnTFQxcy9yN3h3PT0mdmFsaWRtaW51dGVzPTU=/ playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/cdz.php
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/30sk2n4.jpg",CAVERNA DO DRAGAO
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MTM6MzEgQU0maGFzaF92YWx1ZT1INU9EbDI5cmFOaFE5dXorMWtucXR3PT0mdmFsaWRtaW51dGVzPTU=/ playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/caverna.php
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/b88j2d.jpg",DOUG
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MTU6MjkgQU0maGFzaF92YWx1ZT04eDhSQ3FCSmZBTjF2MDFYUW01Y3JnPT0mdmFsaWRtaW51dGVzPTU=/ playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/doug.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/16no5l.jpg",DUCKTALES
+rtmp://208.53.164.194/ctv playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://aovivobrasil.com/tvamigos/ducktales.html
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/15hze5u.jpg",DRAGON BALL Z
+rtmp://208.53.164.194/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/auch92.jpg",FAMILIA DINOSSAURO
+rtmp://208.53.180.218/ctv playpath=dino swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/200bfck.jpg",FANTASTICO MUNDO DE BOBBY
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDM6NDk6MjkgQU0maGFzaF92YWx1ZT1KZElnTEgzRzh2RFNEaDY3S2ZPVEtBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/bobby.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/mih0js.jpg",FUTURAMA
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MTk6NTcgQU0maGFzaF92YWx1ZT1mWE5KTzFiaTBqellwdUdHcGYwOWxRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/futurama.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/e0llit.jpg",GALINHA PINTADINHA
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MTc6MjAgQU0maGFzaF92YWx1ZT12SWh3aThOQ1ZuQU9FZ2pmQmU3VTh3PT0mdmFsaWRtaW51dGVzPTU=/ playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/galinhapintadinha.php
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/oi8vnd.jpg",JACKIE CHAN
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MjE6NTYgQU0maGFzaF92YWx1ZT0xN3lHUW1mTXBXdThvMmkrb2lRUUZBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/jackie.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/14ya0xv.jpg",LIGA DA JUSTIÇA
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MjM6NDggQU0maGFzaF92YWx1ZT12VzFTdkViR0FjOS91dm0xMWZiN2RBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=liga swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/liga.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2pypabl.jpg",NARUTO DB
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MjY6MDEgQU0maGFzaF92YWx1ZT1hcWdiZmsrWTI0RmUycUlUMmtTWitRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/25zpg5w.jpg",ONE PIECE
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chonepeacehd/2012/02/13/ef364302-7cdf-4c9f-ba5b-7c43b09d32e1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.assistirtvgratisonline.org/canais/one-piece.html
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2lvzqdi.jpg",OS SIMPSONS
+rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/11vsk5f.jpg",OS FLINTSTONES
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6Mjg6MzMgQU0maGFzaF92YWx1ZT1nZTIyUG1FZEJ5K0tMeDlheHdMTGlBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/flintstones.php
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2afjzw6.jpg",O MASKARA
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MzA6NTcgQU0maGFzaF92YWx1ZT1ZRVZkSExhQUswYklLR1YzdWJVNlh3PT0mdmFsaWRtaW51dGVzPTU=/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/11rd3rk.jpg",OS PADRINHOS MAGICOS 
+rtmp://208.53.180.178/ctv playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/padrinhos.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2zj9kx5.jpg",OS PINGUINS DE MADAGASCAR
+rtmp://208.53.164.194/ctv/ playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/f36mbl.jpg",PICA PAU
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6MzI6NDIgQU0maGFzaF92YWx1ZT1kWTlxWU16TENDRU9vUS8yS3hybS93PT0mdmFsaWRtaW51dGVzPTU=/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2znrhvq.jpg",SOUTH PARK
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDM6NTY6MjAgQU0maGFzaF92YWx1ZT1zS2U1NmpuT0w4a2g2VEVjaEp6bGZnPT0mdmFsaWRtaW51dGVzPTU=/ playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/southpark.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/30cax4l.jpg",SCOBY DOO
+rtmp://208.53.180.178/ctv playpath=scooby swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/25fk9jd.jpg",THUNDER CATS
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NDA6MjggQU0maGFzaF92YWx1ZT01b1J5b1lUMnloVktiVVBLczZxMG5BPT0mdmFsaWRtaW51dGVzPTU=/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/246t7uq.jpg",UMA FAMILIA DA PESADA
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NDM6MDggQU0maGFzaF92YWx1ZT1PclN4SFFtRmhwMHlDMzBGVWIralNRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/f4l45g.jpg",X MEN
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NDU6MDIgQU0maGFzaF92YWx1ZT1HUG5QOFBxQ2tpU3pjaWQwdFgxa0ZnPT0mdmFsaWRtaW51dGVzPTU=/ playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/xmen.php
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2u63790.jpg",YUGIOH
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NDY6MzkgQU0maGFzaF92YWx1ZT1ja3lMY1VvZTlHb1JVSkNvWmJOMkhnPT0mdmFsaWRtaW51dGVzPTU=/ playpath=yugioh swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/yugioh.php
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL DESENHO",[COLOR yellow]<====(CANAL DESENHO)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/fw6e5y.jpg",CARTOON NETWORK
+http://109.200.202.87:8081/live/cartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/bbj2g.jpg",DISCOVERY KIDS
+http://109.200.202.87:8081/live/discoverykids/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2gwuxch.jpg",LYUBIMOE TV
+rtmp://wse.planeta-online.tv:1935/live/ playpath=channel_6 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/lyubimoe-tv
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/250v6yo.jpg",MILK PLAY
+http://stmv1.hostgs.net/jtvmilk/jtvmilk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/mh9h6q.jpg",RA TI BUM
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chcasteloratimbum/2012/05/07/259bec05-1e02-4861-be50-6df7cd5a534d
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/oucv37.jpg",RCR TV
+http://painel.tvdigitalhd.org:1935/rcrtv/rcrtv/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/jt2suq.jpg",RIC
+rtmp://83.169.58.36/live/ playpath=sdf:3fb1c9c9-09c8-404a-8c0f-56b27617ab89 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/ric-tv
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/cjcqg.jpg",TV CULTURA
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="FILME INFANTIL",[COLOR yellow]<====(FILME INFANTIL)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="https://goo.gl/mSSR5E",A ERA DO GELO
+http://138.201.33.133/infantil/A.Era.do.Gelo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LjtYOG",A ERA DO GELO 2
+http://138.201.33.133/infantil/A.ERA.DO.GELO.2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Edyti0",A ERA DO GELO 3
+http://138.201.33.133/infantil/A.Era.do.Gelo.3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mr2gqc",A ERA DO GELO 4
+http://138.201.33.133/infantil/A.Era.do.Gelo.4.2012.720.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/PF3G1M",A ERA DO GELO 5
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AERDGLOBB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3aPlxY",A ERA DO GELO-A GRANDE CAÇADA AO OVOS DE PASCOA
+http://138.201.33.133/infantil/Era.Do.Gelo.A.Grande.Cacada.Aos.Ovos.De.Pascoa.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/BeK1Hq",A ORIGEM DOS GUARDIOES
+http://138.201.33.133/infantil/A.Origem.dos.Guardioes.2012.720.Dublado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/upPHHE",ANGRY BIRDS-O FILME
+http://138.201.33.133/infantil/Angry.Birds.O.Filme.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lB1xRq",ANGRY BIRDS TOONS VOL 1
+http://138.201.33.133/infantil/Angry.Birds.Toons.2013.Vol.1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/l864Wc",AS AVENTURAS DE PEABODY E SHERMAN
+http://138.201.33.133/infantil/As.Aventuras.de.Peabody.e.Sherman.2014.720.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DjGQ24",ASTERIX E O DOMINIO DOS DEUSES
+http://138.201.33.133/infantil/Asterix.e.O.Dominio.Dos.Deuses.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/bkQ49N",BARBIE-AVENTURA NAS ESTRELAS
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sXfXoE",BATMAN A PIADA MORTAL
+http://138.201.33.133/infantil/Batman.A.Piada.Mortal.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/In1XHp",BATMAN O CAVALEIRO DAS TREVAS P1
+http://138.201.33.133/infantil/Batman.O.Cavaleiro.das.Trevas.Parte.1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TfMIAw",BATMAN O CAVALEIRO DAS TREVAS P2
+http://138.201.33.133/infantil/Batman.O.Cavaleiro.Das.Trevas.Parte.2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lx37ot",BATMAN SANGUE RUIM
+http://138.201.33.133/infantil/Batman.Sangue.Ruim.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/vOtaqj",BATMAN CONTRA O CAPUZ VERMELHO
+http://138.201.33.133/infantil/Batman.Contra.Capuz.Vermelho.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3ciSmw",BEAST MACHINES-TRANSFORMERS
+http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iUJB2w",BOB ESPONJA UM HEROI FORA DAGUA
+http://138.201.33.133/infantil/Bob.Esponja.Um.Heroi.Fora.dagua.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/5aOhk6",CADA UM NA SUA CASA
+http://138.201.33.133/infantil/Cada.um.na.Sua.Casa.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ZurDPs",CARROSEL-O FILME
+http://138.201.33.133/infantil/Carrossel.2015.1080.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/fFoSlu",COMO TREINAR SEU DRAGAO
+http://pokemice.biz/videos/RedeCanais/RCServer08/ondemand/CMTRNRDRG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6d5u2b",COMO TREINAR SEU DRAGAO 2
+http://138.201.33.133/infantil/Como.Treinar.O.Seu.Dragao.2.2014.720.dublado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LsEyoI",DETONA RALPH
+http://138.201.33.133/infantil/detona.ralhp.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9fok7s",DIVERTIDA MENTE
+http://138.201.33.133/infantil/Divertida.Mente.2015.720.dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/rvxogb",FEAST
+http://138.201.33.133/infantil/Feast.2014.1080.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/BTyOaI",FROZEN UMA AVENTURA CONGELANTE
+http://138.201.33.133/infantil/Frozen.Uma.Aventura.Congelante.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Xgl6iw",GALINHA PINTADINHA VOL 1
+http://138.201.33.133/infantil/Galinha.Pintadinha/Galinha.Pintadinha.1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nQpqs7",GALINHA PINTADINHA VOL 2
+http://138.201.33.133/infantil/Galinha.Pintadinha/Galinha.Pintadinha.2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dfQO08",GALINHA PINTADINHA VOL 3
+http://138.201.33.133/infantil/Galinha.Pintadinha/Galinha.Pintadinha.3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9YsKRX",GALINHA PINTADINHA VOL 4
+http://138.201.33.133/infantil/Galinha.Pintadinha/Galinha.Pintadinha.4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jZX2Ap",HEAVENLY SWORD
+http://138.201.33.133/infantil/Heavenly.Sword.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/T0E2jv",HEROIS DA GALAXIA-RATCHET E CLANK
+http://138.201.33.133/infantil/Herois.da.Galaxia.Ratchet.e.Clank.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mnzw4m",HOT WHEELS-A CORRIDA FINAL
+http://138.201.33.133/infantil/Hot.Wheels.AcceleRacers.A.Corrida.Final.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3SogxH",HOTEL TRANSILVANIA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9lGGqY",HOTEL TRANSILVANIA 2
+http://138.201.33.133/infantil/Hotel.Transilvania.2.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GogHRCv.jpg",JACARELVIS E AMIGOS VOL 1
+http://138.201.33.133/infantil/Jacarelvis.e.Amigos.1.DVDRip.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FH4AUl",KUNG FU PANDA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/KUNGFUPND1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/MH5epb",KUNG FU PANDA 2
+http://138.201.33.133/infantil/Kung.Fu.Panda.2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/vezpts",KUNG FU PANDA 3
+http://138.201.33.133/infantil/Kung.Fu.Panda.Segredos.do.Pergaminho.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/BbKmsP",LIFI UMA GALINHA NA SELVA
+http://138.201.33.133/infantil/Lifi.uma.Galinha.na.Selva.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/XS7PVQ",MINIONS
+http://138.201.33.133/infantil/Minions.2015.720.dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HxMW56",MINUSCULOS
+http://138.201.33.133/infantil/Minuscule.Valley.of.the.Lost.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/JW8xB3",NO MUNDO DA LUA
+http://138.201.33.133/infantil/No.Mundo.da.Lua.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Mw37aP",O BOM DINOSSAURO
+http://138.201.33.133/infantil/O.Bom.Dinossauro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/bAeb8r",O PEQUENO PRINCIPE
+http://138.201.33.133/infantil/O.Pequeno.Principe.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/y1OoNn",O QUE HA DE NOVO SCOOBY DOO
+http://138.201.33.133/infantil/O.que.Ha.de.Novo.Scooby.Doo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/YtvHfP",OS MAIORES MISTERIOS DE SCOOBY DOO
+http://138.201.33.133/infantil/Os.Maiores.Misterios.de.Scooby.Doo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Dv40ZD",O REI LEAO
+http://138.201.33.133/infantil/O.Rei.Leao.1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/XS5ENr",O REI LEAO 2
+http://138.201.33.133/infantil/O.Rei.Leao.2.O.Reino.de.Simba.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/SzsU1J",O REI LEAO 3
+http://138.201.33.133/infantil/O.Rei.Leao.3.Hakuna.Matata.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/q4HDM4",O REINO GELADO 2
+http://138.201.33.133/infantil/O.Reino.Gelado.2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/msPSif",OLIVER E SUA TURMA
+http://138.201.33.133/infantil/Oliver.e.sua.Turma.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1c28lH",OPERAÇAO BIG HERO
+http://138.201.33.133/infantil/Operacao.Big.Hero.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/cp22iI",OS INCRIVEIS
+http://138.201.33.133/infantil/Os.Incriveis.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OZLJJI",OS PINGUINS DE MADAGASCAR
+http://138.201.33.133/infantil/os.pinguins.de.madagasca.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/XKqQ59",PETS-A VIDA SECRETA DOS BICHOS
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PETSAVSDBS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hu1DeU",PATATI E PATATA
+http://138.201.33.133/infantil/patati.patata/title00.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/eXe82X",PEPPA PIG T1
+http://138.201.33.133/infantil/Peppa.Pig.2.Temporada/Segunda.Temporada.Peppa.Pig.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EvR7Id",PEPPA PIG T2
+http://138.201.33.133/infantil/Peppa.Pig.3.Temporada/Peppa.Pig.3.Temporada.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nYQ1MI",REINO ESCONDIDO
+http://138.201.33.133/infantil/Reino.Escondido.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8AtZjZ",RIO
+http://138.201.33.133/infantil/rio.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FY3bcg",RIO 2
+http://138.201.33.133/infantil/Rio.2.720p.Dublado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/taFRin",SNOOPY E CHARLIE BROWN-PEANUTS O FILME
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IuQqP6",SCOOBY DOO ALOHA
+http://138.201.33.133/infantil/scooby.doo/Scooby.Doo.Aloha.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/1HwosX",SCOOBY DOO-ESPADA DO SAMURAI
+http://138.201.33.133/infantil/scooby.doo/Scooby.Doo.e.a.Espada.do.Samurai.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/E5te8l",SCOOBY DOO-ABOMINAVEL HOMEM DAS NEVES
+http://138.201.33.133/infantil/scooby.doo/Scooby.Doo.e.o.Abominavel.Homem.das.Neves.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hRHjC2",SCOOBY DOO-MONSTRO DO LAGO NESS
+http://138.201.33.133/infantil/scooby.doo/Scooby.Doo.e.o.Monstro.do.Lago.Ness.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Hmqsh6",SPIRIT-O CORCEL INDOMAVEL
+http://138.201.33.133/infantil/O.Corcel.Indomavel.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pAZnwN",TOY STORY-ESQUECIDOS PELO TEMPO
+http://138.201.33.133/infantil/Toy.Story.Esquecidos.pelo.Tempo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hA5ge5",YELLOW BIRD-O PEQUENO HEROI
+http://138.201.33.133/infantil/Yellowbird.O.Pequeno.Heroi.Dublado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pO63eE",ZOOTOPIA-ESSA CIDADE E O BICHO
+http://138.201.33.133/infantil/Zootopia.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="SERIE/SERIADO",[COLOR yellow]<====(SERIE/SERIADO)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/jpkgly.jpg",BREAKING BAD 
+rtmp://208.53.180.178/ctv playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/breaking.html
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/rabx2e.jpg",CHAVES 
+rtmp://208.53.180.218/ctv playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2lrjoj.jpg",CHAPOLIN 
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NDg6NTQgQU0maGFzaF92YWx1ZT0xRVpWYldXTXI1Vnl6eHowS0I2UVdRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=chapolin swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/chapolin.php
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2gsmjd5.jpg",CHUCK
+rtmp://208.53.180.218/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/6ozntc.jpg",CRIMINAL MINDS 
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NTE6NDcgQU0maGFzaF92YWx1ZT1GQ0hJdnYvcUxPOVFjV2wwQ3hTVXBBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=criminal swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/criminalminds.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/18ki79.jpg",CSI
+rtmp://208.53.180.178/ctv playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/csi.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2en6ykk.jpg",DOIS HOMENS & MEIO 
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTYgNToyMjo0OSBBTSZoYXNoX3ZhbHVlPWFoZjZTTytNK2ZhWE0vUmxRbnB2Ync9PSZ2YWxpZG1pbnV0ZXM9NQ==/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/two.php
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2wcfnth.jpg",DRAKE & JOSH 
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NTM6NTMgQU0maGFzaF92YWx1ZT1FdHNmK3d4VENuY0tud21uZW1aK3lRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/drakejosh.php
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/10wl43n.jpg",EU A PATROA E AS CRIANÇAS 
+rtmp://208.53.164.194/ctv playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2v12og4.jpg",FRIENDS
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NTY6MDYgQU0maGFzaF92YWx1ZT1TRURTd09ZWHRqVWx0UWxZUm5hejNBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=friends swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/friends.php
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/beyog.jpg",GLEE
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDI6NTc6MzAgQU0maGFzaF92YWx1ZT1YbndhT0hCOXB2cS95cUtsYXBWejJBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/glee.php
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2n03g5f.jpg",GOSSIP GIRL
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDM6MDA6MzEgQU0maGFzaF92YWx1ZT1ZS00zdy9sZG43K01Kb2FSYWtzZ3BBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/gossip.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/33x7hqd.jpg",HEROES 
+rtmp://208.53.180.178/ctv playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/heroes.html
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2iibwur.jpg",ICARLY 
+rtmp://208.53.180.178/ctv playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/icarly.html
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/n6s07t.jpg",JASPION
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDM6MDM6MDAgQU0maGFzaF92YWx1ZT12N1FEd2FhQThLcVhvN1k2cEhYdTFnPT0mdmFsaWRtaW51dGVzPTU=/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/jaspion.php
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/ofbmhf.jpg",JORNADA DAS ESTRELAS
+http://wse5.player.tv.br:1935/tvjornadanasestrelas/tvjornadanasestrelas/live.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/vhaowl.jpg",KENAN & KEL 
+rtmp://208.53.164.194/ctv playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/fk1suo.jpg",LOST 
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDM6MDU6MzQgQU0maGFzaF92YWx1ZT15aDVTUzFBQjFpWHJGWmtJVHptemxRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/lost.php
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/103z8dl.jpg",MR BEAN 
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chmrbean/2008/07/13/601ddb0f-cf37-4a17-a9ba-117c80eb1934 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.tvonlinebtv.net/streans/mrbean.html
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/qotusj.jpg",PRISON BREAK 
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDM6MDc6MTcgQU0maGFzaF92YWx1ZT1neHpIMGxGdmgzNURjN3lXTlVoYzVBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/prisonbreak.php
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/8y9uvo.jpg",SMALLVILLE
+rtmp://208.53.164.194/ctv playpath=small swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/small.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2ymhifo.jpg",SUPERNATURAL
+rtmp://208.53.180.178/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/34pki6w.jpg",THE BIG BANG THEORY 
+rtmp://208.53.180.178/ctv playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.carolineoliveira.com.br/tvamigos/bigbang.html
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/bgocxl.jpg",TODO MUNDO ODEIA O CHRIS 
+rtmp://208.53.164.194/ctv playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2qk8b29.jpg",UM MALUCO NO PEDAÇO
+rtmp://208.53.164.194/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/maluconopedaco.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL FILME",[COLOR yellow]<=====(CANAL FILME)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2a812mp.jpg",CINE SKY
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDU6MTk6NTEgQU0maGFzaF92YWx1ZT1paVhYNXdZVGNqeSt0Sm85V2hmMmhRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/r1lde0.jpg",CINE CLARO
+rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/108ixvp.jpg",CINE FLASH
+rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE2IDY6NTY6NTcgQU0maGFzaF92YWx1ZT0wdjI3U2ZYbVlldGNJbkRhQzM1ZldnPT0mdmFsaWRtaW51dGVzPTU=/ playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2aj3qt4.jpg",CLASSIC SIFI
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chabcfilms/2015/04/23/35111ed0-e241-464b-810d-77205fd4917b
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/yo58g.jpg",NOSTALGIA TV
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv09/mogulus-user-files/chnostalgiatv/2011/02/28/aeed997d-1212-42c3-894d-d7f0f277c345
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/vo3hq1.jpg",PARAMOUNT CHANNEL
+http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/qphxlc.jpg",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2e3zbzq.jpg",THE SUPERHEROES CHANNEL
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv04/mogulus-user-files/chbvctv/2010/04/27/380e25ff-51f8-4029-bc04-35c15184587d
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2lu874w.jpg",TRU TV
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/ztdrnc.jpg",WESTWARD TV
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chwestwardtv/2011/05/29/dd2c2237-d245-41fc-b1b6-e5a2b2b2be29
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="FILME DUBLADO",[COLOR yellow]<====(FILME DUBLADO)===>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://goo.gl/66tahX",17 OUTRA VEZ
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/17OUTVZ.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LIq9X9",2035:A DIMENSAO PROIBIDA
+http://goo.gl/ZGX2V2
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/903cqs.jpg",007 CONTRA SPECTRE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/0072016CNTRSPCTR.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2z9fm82.jpg",50 TONS DE CINZA 
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2gxilut.jpg",50 TONS DE PRETO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CQNTATNSDPRT.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/ojps5.jpg",90 MINUTOS NO PARAISO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/90MINPRSO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8YGhko",118 DIAS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/118DAS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Sr4qvm",300
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/300.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/B8LCnu",300 A ASCENSAO DO IMPERIO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/300AASCSDIMPRO.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/v76x53.jpg",12 HORAS 
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2evc46t.jpg",1984 
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/5owdaw.jpg",8MM OITO MILIMETROS 
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2r4jscw.jpg",8MM OITO MILIMETROS 2 
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+#EXTINF:-1,A PROCURA DA LIBERDADE
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/APRCURDLBRD.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/hUoyVU",A BRUXA
+http://138.201.33.133/terror/A.Bruxa.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/AVmgL2",A BEIRA MAR
+http://138.201.33.133/romance/A.Beira.Mar.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cQnCJm",A ESCOLHA PERFEITA 2
+http://138.201.33.133/comedia/A.Escolha.Perfeita.2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Y8MSqu",A GRANDE APOSTA
+http://138.201.33.133/drama/A.Grande.Aposta.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/g6Kfsu",A TRAVESSIA
+http://138.201.33.133/drama/A.travessia.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BQMMhT",ALIANÇA DO CRIME
+http://138.201.33.133/acao/Alianca.do.Crime.2016.720.DUAL.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/i2xMgI",ASSALTO EM DOSE DUPLA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASLTEDSDPL.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/efiSrM",ADORAVEL PROFESSORA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ADRVLPRFSRA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/j90sIi",A FINAL
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AFNL.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/LSbPSG",A ARTE DA PAIXAO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AARTDPXA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/b0bMYW",A SEITA MISTERIOSA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASETAMSTRA.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mt804CQ.jpg",A COLMEIA
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/acolmeia.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DtUl9S",A ULTIMA PREMONIÇAO
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/ultimapremonicao.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Sjclmz",ASSALTOS EM CADEIA
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/TheVid.net-3(1).mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/WUszA9",AS AVENTURAS DE DANCER E PRINCESA
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/As%20Aventuras%20de%20Dancer%20e%20Princesa%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM(1).mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/4ITGRY",ANGRY BIRDS:O FILME
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ANGRYBRDSFLM.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OCTuit",ATIVIDADE PARANORMAL
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATVDADPRNRML1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/TMfPaK",ATIVIDADE PARANORMAL 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATVDADPRNRML2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nqJN21",ATIVIDADE PARANORMAL 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATVDADPRNRML3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3Dk26e",ATIVIDADE PARANORMAL 4
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATVDADPRNRML4.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QnGbuh",ATIVIDADE PARANORMAL:MARCADOS PELO MAL
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATVDADPRNRMLMRCDPMAL.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3vGYGR",ATIVIDADE PARANORMAL:DIMENSAO FANTASMA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATVDADPRNRMLDMFANT.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/1AGmxA",A NOITE DA VIRADA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ANTDVRDNAC.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/lys1La",ALEMAO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ALMAO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CkNC4y",ALICE NO PAIS DAS MARAVILHAS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ALCNPSDSMRVLHS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/wv7BFT",ALICE ATRAVES DO ESPELHO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ALCATRVSDESLHO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/MEeU79",AVALANCHE NO EVEREST
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AVLNCHNEVRST.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/WSZXQ5",ASSASSINO INVISIVEL
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ASSNINVSL.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OIWqGKi.jpg",A MARCA DO MEDO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AMRCDMDDUB.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kEjxe3",APPLESEED ALPHA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/APLSDALPHDUB.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/mqnqeV",ANNABELLE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ANBLE.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/JR9TlP",AS TARTARUGAS NINJA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASTARTGUSNJS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5psNMP",AS AVENTURAS DE PADDINGTON
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AAVNTRDPNGTN.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/346rh2u.jpg",AMOR SEM PECADO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AMRSMPCD.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/65q3iq.jpg",A ENTREVISTA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AERVTVST.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2djnm77.jpg",A TEORIA DE TUDO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ATORIDTD.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/iwnj34.jpg",AMALDIÇOADO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AMLSCADO.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2v33fup.jpg",A MULHER DE PRETO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AMLHRDPRT01.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/25sv6tf.jpg",A MULHER DE PRETO 2 ANJO DA MORTE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AMLHRDPRT02.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/30t5gqu.jpg",A SAGA VIKING
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ASGVKNG.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2wp17bk.jpg",A MAQUINA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AMQNA.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/10h3vyx.jpg",A VIATURA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AVIATURA.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/nwlxdu.jpg",A ESTRADA 47
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/AESTD47.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/etz7rm.jpg",AS CRIATURAS ATRAS DAS PAREDES
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/6on3me.jpg",ATE QUE A SORTE NOS SEPARE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ATQAMRTNSPR1.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2wf69ad.jpg",ATE QUE A SORTE NOS SEPARE 2
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ATQAMRTNSPR2.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/zlex5z.jpg",ATE QUE A SORTE NOS SEPARE 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATQASRTNSPR3.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/258o780.jpg",A RESSURREIÇAO DO ANTICRISTO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ARSRCAODANTCRST.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/10gkbyh.jpg",ALWAYS WATCHING A MARBLE HORNETS STORY
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AWAMHS.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/15ea3pw.jpg",APENAS UM SHOW O FILME
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/APNSUSWOFILME.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/73l47l.jpg",A ENTIDADE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AENTDADE1.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/rcpqag.jpg",A ENTIDADE 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AENTDADE2.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2v3q049.jpg",AMIZADE DESFEITA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AMZDSFTA.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2n19fkp.jpg",A VISITA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AVISTA.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/mkx4lf.jpg",A SALVAÇAO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASLVCAO.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/9jg1s0.jpg",A HISTORIA VERDADEIRA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AHISTVRDA.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/evdkw5.jpg",ADULTOS INEXPERIENTES
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ADLTSINEXPRTES.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2prbjx0.jpg",ATIVIDADE PARANORMAL DIMENSAO FANTASMA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ATVDADPRNRMLDMFANT.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2py12ed.jpg",A SEITA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASITA.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2yzfrt2.jpg",A MENINA DO CHALE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AMNINDCHLE.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2laal47.jpg",AMOR POR ACIDENTE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AMNINDCHLE.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/axgqci.jpg",APRENDENDO COM A VOVO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AMRPRACDNT.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/206g8ia.jpg",A HERDEIRA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AHRDIRA.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/10mq810.jpg",ALVIN E OS ESQUILOS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ALVNEOSESQULS1.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/23m24oj.jpg",ALVIN E OS ESQUILOS 2 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ALVNEOSESQULS2.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2i78dnl.jpg",ALVIN E OS ESQUILOS 3 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ALVNEOSESQULS3.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/jf96bm.jpg",ALVIN E OS ESQUILOS 4 NA ESTRADA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/16bc40o.jpg",A MORTE DO SUPERMAN 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AMRTDSPNM.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/28u198h.jpg",AS SUFRAGISTAS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASFRGISTA.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/6xx01s.jpg",A MAQUINA DO TEMPO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AMQNDTMP.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/m8mb87.jpg",ALTA FREQUENCIA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ALTFRQNC.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2qiuuya.jpg",AMOR A SEGUNDA VISTA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AMRASGNDVST.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2mzfx4p.jpg",A ERA DO GELO A GRANDE CAÇADA AOS OVOS DE PASCOA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/72bvgz.jpg",A VOLTA DOS MORTOS VIVOS 
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/25exnrs.jpg",AMEAÇA VIRTUAL 
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/1j3rpu.jpg",A LULA E A BALEIA 
+http://media-br-am.crackle.com/1/5/f6/17ylf_480p.mp4						
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/eb1qmu.jpg",A PRIMEIRA VISTA 
+http://media-br-am.crackle.com/1/h/16/zaylf_480p.mp4	
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2128yrs.jpg",ATRAIDOS PELO DESTINO 
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/13z8k5z.jpg",AS BRANQUELAS 
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/zkmid5.jpg",APOCALIPSE 
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/o7uh3p.jpg",ANNIE 
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/xbit0x.jpg",ANJOS DA NOITE 
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/n3m39i.jpg",ANJOS DA NOITE 3 
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/30s93pd.jpg",AMIGAS COM DINHEIRO 
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/9vgvew.jpg",ADORAVEIS MULHERES 
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4 
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/hv410n.jpg",A PANTERA COR DE ROSA 
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/15nqhdg.jpg",A ULTIMA PROFECIA 
+http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/o6lffn.jpg",A OUTRA 
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/34xmf40.jpg",A MORTE DO DEMONIO 
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2dsr808.jpg",A JANELA SECRETA 
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2w4zmmg.jpg",A INVEJA MATA 
+http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/20s7ucw.jpg",A BEIRA DO ABISMO 
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/34gldfm.jpg",A ERA DA ESCURIDAO MUTANT CHRONICLES 
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/1427rjs.jpg",A FESTA NUNCA TERMINA 
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rhxwki.jpg",A GAROTA DOS MEUS SONHOS 
+http://media-br-am.crackle.com/1/v/z6/gsvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/4ihhub.jpg",A GUERRA DE HART 
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2po5gxt.jpg",A GRANDE JOGADA 
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/1495ff7.jpg",A HERANÇA DE MR DEEDS 
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/209rs7d.jpg",A HORA DO RANGO 
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/29opeo0.jpg",A INFORMANTE 
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/fefc01.jpg",A JOVEM RAINHA VICTORIA 
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/vxzvk1.jpg",A ROSA PURPURA DO CAIRO 
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/abhtep.jpg",A ULTIMA MISSAO 
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/6y2hx4.jpg",ADEUS AMOR 
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2e2gwgl.jpg",AFRICA DOS MEUS SONHOS 
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ebrif9.jpg",ALL THAT JAZZ O SHOW DEVE CONTINUAR 
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/vsgi12.jpg",AMAR TRAIR E ROUBAR 
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/311ujwi.jpg",AMBIÇAO EM ALTA VOLTAGEM 
+http://media-br-am.crackle.com/1/x/4l/qvcyb_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/znwtfo.jpg",AMIGO DA ONÇA 
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/6zrcqv.jpg",APENAS UMA VEZ 
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/1e9lqc.jpg",APRENDENDO A VIVER 
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2s9vdzc.jpg",AS COISAS IMPOSSIVEIS DO AMOR 
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2z83o6v.jpg",AS DUAS FACES DA LEI 
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/mim0yv.jpg",AS FACES DE HELEN 
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/fwstup.jpg",ASSALTO SOBRE TRILHOS 
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ih4fte.jpg",ATRAIDOS PELO DESTINO 
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/sRcgHq",BONECA ASSASSINA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BONCASSNA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/1v6RDM",BRUNA SURFISTINHA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BRNSFSTINHA.mp4;
+#EXTINF:-1 tvg-logo="http://goo.gl/oToSWN",BASTARDOS
+http://manda.haaze.com.br/hzcdn4/cl/mQpnBuooIiQ/BASTARDO(1).mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/e4l2bz",BATMAN O CAVALEIRO DAS TREVAS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNOCVDSTRVSPT1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Tjb1VL",BATMAN O CAVALEIRO DAS TREVAS RESSURGE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNOCVDSTRVSPT2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OeVvoL",BAHUBALI:O INICIO
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/bahubai.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5Gv5jf",BAYONETTA:DESTINO SANGRENTO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BAYONTA.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/29yqi53.jpg",BIRDMAN A INESPERADA VIRTUDE DA IGNORANCIA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/BRDMAINSPDVRTDAIGN.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2505vus.jpg",BATMAN VS ROBIN
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/BTMNVSRBN.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cwnd3m.jpg",BELAS E PERSEGUIDAS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/BLSEPRSGDS.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2dt8ysl.jpg",BRAVETOWN
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BRVTWN.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2aag6pz.jpg",BATMAN VS SUPERMAN A ORIGEM DA JUSTIÇA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNVSPRMNAODJ.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2regmj7.jpg",BATMAN SANGUE RUIM 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNSNGRUIM.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/300w8z5.jpg",BATMAN O CAVALEIRO DE GOTHAM 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNOCVLDGTHM.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/241o1s5.jpg",BASTIDORES DE UM CASAMENTO 
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2wfsjg0.jpg",BEAST WARS TRANSFORMERS
+http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2vdkvgh.jpg",BOLAS EM PANICO 
+http://media-br-am.crackle.com/1/j/l6/1dwlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/fc6wp5.jpg",BRINQUEDO ASSASSINO 
+http://media-br-am.crackle.com/1/j/l6/0dwlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/69kdwz.jpg",BONS COSTUMES 
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/96cchk.jpg",BRUNO 
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/6jnQnH",CREED NASCIDO PARA LUTAR
+http://138.201.33.133/drama/Creed.Nascido.Para.Lutar.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/q6plOi",CINE HOLLIUDY
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CINEHLUDY.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/cwT4OA",CLICK
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CLCK.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OVzcBv",CAÇA-FANTASMAS HDTS
+http://manda.haaze.com.br/hzcdn4/cl/mQpnBuooIiQ/Assistir_Caca-Fantasmas_-_Dublado_(2016)_Filmes_online_%E2%80%93_Arm.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c7aie0c.jpg",CAVALOS DOMADOS
+http://venus.haaze.com.br/hzcdn5/cl/2h67yT0PiY8/Cavalos.Domados.2015.720p.Dual.JefePsb-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-logo="http://goo.gl/ojrpj6",CAMINHOS DA FLORESTA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CMNHSDFLRST.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/h8dZOX",CORAÇOES DE FERRO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CRCAODFRRO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/dh00WP",CASSIA ELLER
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CSAELR.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/f68MU2",CAIPIRA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CAIPIRA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9Jy1T9",CALVARIO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CLVRIO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/jDukcn",CADA UM NA SUA CASA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CSUMNSUACS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/eSHxAC",CINDERELA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CNDRLA.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mgKat0",COMO SOBREVIVER A UM ATAQUE ZUMBI
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/nCWqfg",CARGA EXPLOSIVA O LEGADO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7p7dHf",CIDADES DE PAPEL
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CDADPAPL.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5Rj3mb",CAPITAO AMERICA GUERRA CIVIL 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CAPTAMRC3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/74Tthi",CAROL 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRL.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3VF9hL",CANIBAIS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CANBS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/xNK9Bh",CAPTIVE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CPTVE.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/K9bQKP",CAÇADORES DE EMOÇAO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CACDRSDEMO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/S9GwOY",CAÇADORES DE EMOÇAO ALEM DO LIMITE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CACDRSDEMCOSALMDLMT.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/w3Ve9W",CORALINE E O MUNDO SECRETO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CORLNE.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ArW12A",CARS TOON AS GRANDES HISTORIAS DO MATE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRSTONAGHDM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/nyEDMJ",CADA UM VIVE COMO QUER 
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dcbyLy",CAES DE GUERRA 
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LoCYbo",CAMINHOS OPOSTOS 
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9tLlA1",CASAMENTO AS AVESSAS 
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/B2Eqlk",CATIVEIRO 
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/SWsnsv",CHRISTINE O CARRO ASSASSINO 
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4						
+#EXTINF:-1 tvg-logo="https://goo.gl/xmmWR4",CINTURAO VERMELHO 
+http://media-br-am.crackle.com/1/g/v6/fjvlf_480p_1mbps.mp4						
+#EXTINF:-1 tvg-logo="https://goo.gl/jv8qHh",CODIGO DE HONRA 
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4						
+#EXTINF:-1 tvg-logo="http://goo.gl/o8iChC",COISAS BELAS E SUJAS 
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p_1mbps.mp4						
+#EXTINF:-1 tvg-logo="http://goo.gl/yuXnYU",COMO CONQUISTAR UMA MULHER 
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p_1mbps.mp4						
+#EXTINF:-1 tvg-logo="https://goo.gl/FYpm6J",COMPORTAMENTO SUSPEITO 
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4						
+#EXTINF:-1 tvg-logo="http://goo.gl/NINvsU",CONQUISTA SANGRENTA 
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4						
+#EXTINF:-1 tvg-logo="https://goo.gl/si0vLN",CORPO EM EVIDENCIA 
+http://media-br-am.crackle.com/1/j/16/97wlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/NNZdi4",CRASH NO LIMITE 
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pBvhGH",CAMINHO SEM VOLTA 
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/pUaKNE",COMO SE FOSSE A PRIMEIRA VEZ 
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jJgYPi",CONTATOS IMEDIATOS DO TERCEIRO GRAU 
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
+#EXTINF:-1,DEUS NAO ESTA MORTO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DSNESTMRT.mp4
+#EXTINF:-1,DEUS NAO ESTA MORTO 2
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/DSNESTMRT2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/vMQIvb",DISTRITO 9
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DISTRIT9.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gX7hb",DO OUTRO LADO DA PORTA
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/Do%20Outro%20Lado%20Da%20Porta.2016.720p.WEB-DL.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-logo="http://goo.gl/bu0Pul",DENTRO DO LABIRINTO CINZENTO
+http://isa.haaze.com.br/hzcdn3/cl/lFtGxZdB0fg/dentrodo(4).mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/B9mlk7",DEMOLIDOR O HOMEM SEM MEDO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DMLDROHSM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/S7iRIH",DETROIT A CIDADE DO ROCK
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DTRIDACDADRCK.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ae2j1B",DEU A LOUCA NOS NAZIS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DLUCNSNZ.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/UnUeL1",DESVENTURA DO VERAO
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/Midia-8.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CIj9eE",DEAD SNOW 2:RED VS DEAD
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DEDSNW2RDVSDED.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Oy7iug",DEBI & LOIDE DOIS IDIOTAS EM APUROS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DBELID1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/zieByP",DEBI & LOIDE 2
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DBELID2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ioce3B",DIVERGENTE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DVRGNT.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/AelbD3",DIVERGENTE INSURGENTE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASREDVRGNTISRGNT.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PGTZKL",DOIS LADOS DO AMOR
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DSLDSDAMR.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/j1njFl",DEUSES DO EGITO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DEUSDEGTO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EqSFkN",DOCE VINGANÇA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DCVNGCA1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/o1Esj5",DOCE VINGANÇA 2
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DCVNGCA2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/eW4Q9t",DOCE VINGANÇA 3 A VINGANÇA E MINHA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DCVNGCA3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/6fOnQD",DIVERTIDA MENTE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DVRTDMNT.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DrWQZS",DRAGON BLADE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DRGNBLDE.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/gH3W8K",DIABLO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DIABLODUB.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ux34AA",DEADPOOL 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DEADPOL.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5yS0hy",DESAFIO RADICAL 
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/uj8AHq",DESAPARECIDAS
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/4zKtD3",DIVISAO DE HOMICIDIOS 
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/JprQLV",DE REPENTE 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/VHDAh4",DESEJO A TRES 
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/9DdOpR",DR FANTASTICO 
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/jCn7fG",ESQUADRAO SUICIDA HDTS
+http://mars.haaze.com.br/hzcdn2/cl/bx1Bh8ZvH84/esqdsuicida.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d6NVU1",ELE NUNCA MORREU
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELENCMRR.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/UI4iG9",ESTIVE EM LISBOA E LEMBREI DE VOCE
+http://mars.haaze.com.br/hzcdn2/cl/bx1Bh8ZvH84/Assistir_Estive_em_Lisboa_e_Lembrei_de_Voce_%E2%80%93_Nacional_Onlin.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ngqHmM",ENTRE NOS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ENTRNS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/sYeKRx",ELA E DEMAIS PRA MIM
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ELAEDMSPRMIN.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/l0q8tB",EX MACHINA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/EXMCHNA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/qPLAal",ELEKTRA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ELKTRA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/6JSNiu",EVERESTE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/EVRSTE.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/vbuaRS",ESPIRITO DE LOBO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ESPRTODLBO.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/4YqU98",EXORCISTAS DO VATICANO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/EXRCSTDVTCN.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Cn0MzF",ENTRANDO NUMA ROUBADA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ENTDNRBND.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WDo4Ws",ENSINA ME O AMOR 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ESNMOAMR.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m1qdItq.jpg",ESPECIALISTA EM CRISE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ESPCLSEMCRS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/NhB7Th",ENCONTROS AO ACASO 
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/yRYDdZ",ENQUANTO ELA ESTA FORA 
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/eHbwZm",EQUILIBRIUM
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/rwL1Tv",ERIN BROCKOVICH 
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Rg7Cr2",ESTRADA MALDITA 
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Uoeckv",ESTRANHA OBSESSAO 
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QWD1ju",EU SEI QUEM ME MATOU 
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/WA5QBm",EXCESSO DE BAGAGEM 
+http://media-br-am.crackle.com/1/v/z6/esvlf_480p_1mbps.mp4
+#EXTINF:-1,EXISTENZ 
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p_1mbps.mp4
+#EXTINF:-1,ESPIAO POR ACIDENTE 
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
+#EXTINF:-1,ESTADO DE EMERGENCIA 
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+#EXTINF:-1,EU MINHA MULHER E MINHAS COPIAS 
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
+#EXTINF:-1,FRANKENSTEIN
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/FRNKSTEN.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/OOuSjk",FERIAS SANGRENTAS DE VERAO
+http://goo.gl/ccIETB
+#EXTINF:-1 tvg-logo="https://goo.gl/7Ibv79",FIRST RESPONSE
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/firstresponse.mp4
+#EXTINF:-1,FOXCATCHER UMA HISTORIA QUE CHOCOU O MUNDO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/FXCTHRUHQCOM.mp4
+#EXTINF:-1,FORÇA MAIOR
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/FRCAMIOR.mp4
+#EXTINF:-1,FRONTERA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/FRNTRA.mp4
+#EXTINF:-1,FRANKENSTEIN VS A MUMIA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/FRNKSTNVSMUMIA.mp4
+#EXTINF:-1,FORA DE ALCANCE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/FORDALCNC.mp4
+#EXTINF:-1,FANTASMAS DE MARTE 
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+#EXTINF:-1,FEITIÇO DA LUA 
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+#EXTINF:-1,FEITIÇO DO TEMPO 
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
+#EXTINF:-1,FEMME FATALE 
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p_1mbps.mp4
+#EXTINF:-1,FIDO O MASCOTE 
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p_1mbps.mp4
+#EXTINF:-1,FLORES PARTIDAS 
+http://media-br-am.crackle.com/1/j/z6/0tvlf_480p_1mbps.mp4
+#EXTINF:-1,FUGA DE ABSALOM 
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+#EXTINF:-1,FUNCIONARIO DO MES 
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p_1mbps.mp4
+#EXTINF:-1,FUNNY LADY 
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+#EXTINF:-1,FURIA NOS CAMPOS 
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/xYxGwB",G.I JOE:A ORIGEM DE COBRA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GIJOE1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/LkyyqM",G.I JOE:RETALIAÇAO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GIJOE2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9isDIK",GOOD BURGER
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GODBRGRS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/HaKB7k",GRITOS MORTAIS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GRTSMORTS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/sL2tZv",GATTACA:EXPERIENCIA GENETICA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GATCEXPRCIA.mp4
+#EXTINF:-1,GRANDES OLHOS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/GRNDSOLHS.mp4
+#EXTINF:-1,GATO DE BOTAS OS TRES DIABLO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/GTDBTSOSTSDABLS.mp4
+#EXTINF:-1,GOOSEBUMPS MONTROS E ARREPIOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GSBUMPSMNSTREARPS.mp4
+#EXTINF:-1,GRACE DE MONACO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GRCDMNC.mp4
+#EXTINF:-1,GUARDIOES DA GALAXIA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GRDOESDGLXIA.mp4
+#EXTINF:-1,GAROTAS SELVAGENS 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+#EXTINF:-1,GATTACA A EXPERIENCIA GENETICA 
+http://media-br-am.crackle.com/1/r/z6/yuvlf_480p_1mbps.mp4
+#EXTINF:-1,GODZILLA 
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p_1mbps.mp4
+#EXTINF:-1,GOOD BYE BAFANA 
+http://media-br-am.crackle.com/1/9/0l/qscyb_480p_1mbps.mp4
+#EXTINF:-1,GRANDE HOTEL 
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p_1mbps.mp4
+#EXTINF:-1,GRETA 
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p_1mbps.mp4
+#EXTINF:-1,GUERRA AO TERROR 
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p_1mbps.mp4
+#EXTINF:-1,GUERREIRO SAGRADO 
+http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4
+#EXTINF:-1,GLERIA 
+http://media-br-am.crackle.com/1/w/n6/k6ulf_480p.mp4
+#EXTINF:-1,HARDCORE MISSAO EXTREMA
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/V1vD0y",HEROIS DE RESSACA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/HRSDRSCA.mp4
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/330bx1t.jpg",HALLOWEEN MACABRO
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/hallowewn.mp4
+#EXTINF:-1,HERCULES
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/HERCLS.mp4
+#EXTINF:-1,HACKER
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/HCKR.mp4
+#EXTINF:-1,HOTEL TRANSILVANIA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4
+#EXTINF:-1,HOTEL TRANSILVANIA 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
+#EXTINF:-1,HOMEM FORMIGA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/HMNFRMG.mp4
+#EXTINF:-1,HONRA & CORAGEM AS QUATRO PLUMAS 
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CzjpHn",HARLEY DAVIDSON & MARLBORO MAN:CAÇADA SEM TREGUAS 
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+#EXTINF:-1,HOMEM IRRACIONAL 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OHOMNIRCIONL.mp4
+#EXTINF:-1,HACKER PIRATAS DE COMPUTADOR 
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+#EXTINF:-1,HAVEN 
+http://media-br-am.crackle.com/1/h/16/yaylf_480p_1mbps.mp4
+#EXTINF:-1,HEROIS IMAGINARIOS 
+http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4
+#EXTINF:-1,HOMENS PERIGOSOS 
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+#EXTINF:-1,HORAS DE DESESPERO 
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p_1mbps.mp4
+#EXTINF:-1,HANCOCK
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
+#EXTINF:-1,HOTEL RUANDA 
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/4wvsR2",INDEPENDENCE DAY:O RESSURGIMENTO
+http://manda.haaze.com.br/hzcdn4/cl/mQpnBuooIiQ/Independence.Day.O.Ressurgimento.2016.1080p.HC.HDRip.x264-DU.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hx4ZwW",INVOCAÇAO DO MAL 2
+http://goo.gl/WIoKfV
+#EXTINF:-1,INTERESTELAR
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/INTRSTLAR.mp4
+#EXTINF:-1,INSENSIVEIS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/INSNSVS.mp4
+#EXTINF:-1,IRMAS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/IRMAS.mp4
+#EXTINF:-1,IMPACTO MORTAL 
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p_1mbps.mp4
+#EXTINF:-1,INOCENTE OU CULPADO 
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p_1mbps.mp4
+#EXTINF:-1,IRONIAS DO AMOR 
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+#EXTINF:-1,IDENTIDADE 
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/j7bUVM",JERUZALEM
+http://138.201.33.133/terror/Jerusalem.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/R32Qob",JASON BOURNE HDTS
+http://venus.haaze.com.br/hzcdn5/cl/2h67yT0PiY8/Jason_Bourne_Dublado_-_WWW.TORRENTDOSFILMES.COM.mp4
+#EXTINF:-1,JIMI TUDO AO MEU FAVOR
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/JMTDAMUFVR.mp4
+#EXTINF:-1,JOGO DURO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/JGDRO.mp4
+#EXTINF:-1,JACK E A MECANICA DO CORAÇAO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/JCKEAMCNCDCOR.mp4
+#EXTINF:-1,JUVENTUDES ROUBADAS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/JUVTNDROBDS.mp4
+#EXTINF:-1,JURASSIC WORLD O MUNDO DOS DINOSSAUROS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/JRSCWRLDMNDINO.mp4
+#EXTINF:-1,JA ESTOU COM SAUDADES
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/JAESTCMSDS.mp4
+#EXTINF:-1,JEM E AS HOLOGRAMAS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/JMEASHLFRMS.mp4
+#EXTINF:-1,JOGO DE ASSASSINOS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/JGSDASINS.mp4
+#EXTINF:-1,JOGOS VORAZES A ESPERANÇA O FINAL 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/JGSVRZSAESPRPT2.mp4
+#EXTINF:-1,JACK REACHER O ULTIMO TIRO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/JCKRCHR.mp4
+#EXTINF:-1,JCVD 
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p_1mbps.mp4
+#EXTINF:-1,JOGANDO COM PRAZER 
+http://media-br-am.crackle.com/1/v/z6/fsvlf_480p_1mbps.mp4
+#EXTINF:-1,JOGOS TRAPAÇAS E DOIS CANOS FUMEGANTES 
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p_1mbps.mp4
+#EXTINF:-1,JOVENS BRUXAS 
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+#EXTINF:-1,JOGUE A MAMAE DO TREM 
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+#EXTINF:-1,JULIE E JULIA 
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
+#EXTINF:-1,JUNO 
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+#EXTINF:-1,JANELA SECRETA 
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:-1,KUNG FU PANDA 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/KUNGFUPND3.mp4
+#EXTINF:-1,KINGSMAN SERVIÇO SECRETO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/KNGSMSVSCRT.mp4
+#EXTINF:-1,KUNG FU PANDA SEGREDOS DO PERGAMINHO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/KUNGFUPNDSGRDDPRGMH.mp4
+#EXTINF:-1,KALIFORNIA 
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p_1mbps.mp4
+#EXTINF:-1,KARATE KID 3 
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p_1mbps.mp4
+#EXTINF:-1,KUNG FU FUTEBOL CLUBE 
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p_1mbps.mp4
+#EXTINF:-1,KUBG FUSAO 
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+#EXTINF:-1,KUFFS AGENTE INDOMAVEL 
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/wBQOEh",LUA CHEIA:O TERROR DAS VIRGENS
+http://venus.haaze.com.br/hzcdn5/cl/2h67yT0PiY8/Lua%20Cheia%20-%20O%20Terror%20dos%20Virgens%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1,LAR DOCE INFERNO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/LRDCINFN.mp4
+#EXTINF:-1,LOUCAS PRA CASAR
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/LCSPRCSR.mp4
+#EXTINF:-1,LIVRE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/LIVRE.mp4
+#EXTINF:-1,LOBOS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/LOBOS.mp4
+#EXTINF:-1,LIGA DA JUSTIÇA DEUSES E MONSTROS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/LIGDJSTDEUSEMNSTRS.mp4
+#EXTINF:-1,LIGA DA JUSTIÇA VS JOVENS TITAS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/LIGDJSTVSTNTITNSUEA.mp4
+#EXTINF:-1,LEGO DC COMICS SUPER HEROIS LIGA DA JUSTIÇA COMBATE COSMICO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/LEGLGDJSTCCMBTCSMCO.mp4
+#EXTINF:-1,LEGO FRIENDS GIRLZ 4 LIFE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/LEGOFRNDS.mp4
+#EXTINF:-1,LINDA DE MORRER 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/LNDMORRE.mp4
+#EXTINF:-1,LAUREL CANYON A RUA DAS TENTAÇOES 
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+#EXTINF:-1,LOUCOS ATE DE BAIXO D'AGUA 4 
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p_1mbps.mp4
+#EXTINF:-1,LEMBRANÇAS DE HOLLYWOOD 
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+#EXTINF:-1,LENDA URBANA 2 
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+#EXTINF:-1,LENDA URBANA 3 A VINGAÇA DE MARY 
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+#EXTINF:-1,LENDAS DA PAIXAO 
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+#EXTINF:-1,LUTA PELA LIBERDADE 
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p_1mbps.mp4
+#EXTINF:-1,LAGRIMAS DO SOL 
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+#EXTINF:-1,LAWRENCE DA ARABIA 
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+#EXTINF:-1,LUA DE MEL EM LAS VEGAS 
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+#EXTINF:-1,MENTE CRIMINOSA
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MENTCRMINSA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Fi3jtQ",MOGLI:O MENINO LOBO
+http://138.201.33.133/aventura/Mogli.O.Menino.Lobo.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/1Pyi0x",MENINAS MALVADAS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MENDMLVDS.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/C9J9uy",MENINAS MALVADAS 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MENDMLVDS2.mp4
+#EXTINF:-1 tvg-logo="http://i.imgsafe.org/24f16f0d3c.jpg",MEDALHA DE BRONZE
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/Assistir_Medalha_de_Bronze_%E2%80%93_Dublado_Online_no_Filmes_Online(1).mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bI574V",MUNDO CAO
+http://isa.haaze.com.br/hzcdn3/cl/lFtGxZdB0fg/Mundo%20Cao%202016%20720p%20WEBRip%20Nacional%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/230NCi",MOON WALKERS:RUMO A LUA
+http://isa.haaze.com.br/hzcdn3/cl/lFtGxZdB0fg/Moonwalkers%20-%20Rumo%20a%20Lua%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1,MOMMY
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MOMWY.mp4
+#EXTINF:-1,MORTE NO FUNERAL
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MRTNFNRL.mp4
+#EXTINF:-1,MUITA CALMA NESSA HORA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MTCLMNSAHR.mp4
+#EXTINF:-1,MUITA CALMA NESSA HORA 2
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MTCLMNSAHR.mp4
+#EXTINF:-1,MINIONS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MINIONS.mp4
+#EXTINF:-1,MAD MAX ESTRADA DA FURIA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MDMXESTDFUR.mp4
+#EXTINF:-1,MEU PASSADO ME CONDENA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MEUPSDMCNDNA.mp4
+#EXTINF:-1,MEU PASSADO ME CONDENA 2
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MEUPSDMCNDNA2.mp4
+#EXTINF:-1,MCFARLAND USA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MCFRLND.mp4
+#EXTINF:-1,MUMIA A RESSURREIÇAO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MUMARSRCAO.mp4
+#EXTINF:-1,MATE ME MAIS UMA VEZ
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MTMSUMVZ.mp4
+#EXTINF:-1,MISSAO IMPOSSIVEL NAÇAO SECRETA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MSAOIMPSVEL05.mp4
+#EXTINF:-1,MISTRESS AMERICA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MISTRSSAMRC.mp4
+#EXTINF:-1,MENINAS MALVADAS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MENDMLVDS.mp4
+#EXTINF:-1,MENINAS MALVADAS 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MENDMLVDS2.mp4
+#EXTINF:-1,MACBETH AMBIÇAO & GUERRA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MCBETHABCOEGURR.mp4
+#EXTINF:-1,MALICIA 
+http://media-br-am.crackle.com/1/g/16/taylf_480p_1mbps.mp4
+#EXTINF:-1,MARCAS DO PASSADO 
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p_1mbps.mp4
+#EXTINF:-1,MATADOR DE ALUGUEL 
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+#EXTINF:-1,MERGULHO RADICAL 2 
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p_1mbps.mp4
+#EXTINF:-1,MEU PRIMEIRO AMOR 
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:-1,MEU PRIMEIRO AMOR 2 
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:-1,MODIGLIANI PAIXAO PELA VIDA 
+http://media-br-am.crackle.com/1/w/z6/isvlf_480p_1mbps.mp4
+#EXTINF:-1,MAL POSSO ESPERAR 
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:-1,MENINA MA.COM 
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1,MEUS QUINZE ANOS 
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:-1,MIXED NUTS 
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:-1,MULHER SOLTEIRA PROCURA 
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
+#EXTINF:-1,MULHER SOLTEIRA PROCURA 2 
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
+#EXTINF:-1,MAIS DO QUE VOCE IMAGINA 
+http://media-br-am.crackle.com/1/3/f6/p7ylf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8eV5Gi",NAOMI E ELY E A LISTA DO NAO BEIJO
+http://manda.haaze.com.br/hzcdn4/cl/mQpnBuooIiQ/naomy(3).mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/J38KzQ",NASCIDO PARA CORRER:VELOCIDADE MAXIMA
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/Nascido.para.Morrer.Velocidade.Maxima.2016.720p.BluRay.x264(1).mp4
+#EXTINF:-1,NOE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/NOE.mp4
+#EXTINF:-1,NEED FOR SPEED O FILME
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/NEDFRSPD.mp4
+#EXTINF:-1,NINFOMANIACA VOLUME 1
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/NFMNCVL1.mp4
+#EXTINF:-1,NINFOMANIACA VOLUME 2
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/NFMNCVL2.mp4
+#EXTINF:-1,NOITE SEM FIM
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/NTSMFM.
+#EXTINF:-1,NOS NUNCA TEREMOS PARIS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/NSNCTRMSPRS.mp4
+#EXTINF:-1,NA TOCA DO TIGRE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/NATCADTRG.mp4	
+#EXTINF:-1,NA NATUREZA SELVAGEM 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/NANTRZSVLG.mp4
+#EXTINF:-1,NAO ADIANTA FUGIR 
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p_1mbps.mp4
+#EXTINF:-1,NAO E MAIS UM BESTEIROL AMERICANO 
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p_1mbps.mp4
+#EXTINF:-1,NAO SEM A MINHA FILHA 
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+#EXTINF:-1,NEM POR CIMA DO MEU CADAVER 
+http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4
+#EXTINF:-1,NEM TUDO E OQUE PARECE 
+http://media-br-am.crackle.com/1/j/z6/2qvlf_480p_1mbps.mp4
+#EXTINF:-1,NA COMPANHIA DO MEDO 
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:-1,NAS PROFUNDEZAS DO MAR SEM FIM 
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+#EXTINF:-1,NICHOLAS NICKLEBY 
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/WXqmHe",OS PINGUINS DO PAPAI
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSPNGUNSDPAI.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/S5yMWm",O EXORCISMO
+http://217.23.14.157/l7z7l7zifynhgn4vfkgbgdwsqx5ugxkb6fphgw2cdso4vypejaf2ewta6gbq/v.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/mYRO2i",ONE SQUARE MILE
+http://venus.haaze.com.br/hzcdn5/cl/2h67yT0PiY8/Midia-4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/v3c5ES",OS PIRATAS
+http://isa.haaze.com.br/hzcdn3/cl/lFtGxZdB0fg/Os%20Piratas.2016.720p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-logo="http://goo.gl/pMPQYu",O FIM E OS MEIOS
+http://manda.haaze.com.br/hzcdn4/cl/mQpnBuooIiQ/o_fim_e_o_m3eios.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BKXDYK",O CONTO DOS CONTOS
+http://manda.haaze.com.br/hzcdn4/cl/mQpnBuooIiQ/Assistir_O_Conto_dos_Contos_Dublado_Filmes_online_%E2%80%93_Armagedo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/vdBDk6",O BOM GIGANTE AMIGO
+http://mars.haaze.com.br/hzcdn2/cl/bx1Bh8ZvH84/Assistir_O_Bom_Gigante_Amigo_%E2%80%93_Dublado_Online_no_Filmes_Onli.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/63Pq7P",O ZELADOR ANIMAL
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OZLDR.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tl2lc",O PROFESSOR ALOPRADO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPRSRAPR.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CY99Sz",O PROFESSOR ALOPRADO 2:A FAMILIA KLUMP
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPRSRAPR2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Kjlzqu",O DEMOLIDOR
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ODMLDR.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/RNP4XM",O ALBERGUE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OALBRG.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/O7LkbP",O ALBERGUE 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OALBRGPT2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WvP2uC",O ALBERGUE 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OALBRGPT3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/gUHVRK",O COMEÇO DA VIDA
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/O%20Comeco%20da%20Vida%202016%20WEBRip%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/oDR0D4",O CANDIDATO HONESTO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OCNDDTHNST.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/R9HGE7",OS CARAS DE PAU EM O MISTERIO DO ROUBO DO ANEL
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OCRSDPUEOMRDA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/iWOl4b",OS 12 MACACOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OS12MCACOS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/XQJ47c",O PODEROSO CHEFAO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPDRSOCFAO1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NYFmCY",O PODEROSO CHEFAO 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPDRSOCFAO2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/UnTbbP",O PODEROSO CHEFAO 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPDRSOCFAO3.mp4
+#EXTINF:-1,OS MERCENARIOS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OMRCNRS01.mp4
+#EXTINF:-1,OS MERCENARIOS 2
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OMRCNRS02.mp4
+#EXTINF:-1,OS MERCENARIOS 3
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OMRCNRS03.mp4
+#EXTINF:-1,OUIJA O JOGO DOS ESPIRITOS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OUIJAOJGDSESPRTS.mp4
+#EXTINF:-1,OUIJA A RESSURREIÇAO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OUIJAOARSRCAO.mp4
+#EXTINF:-1,O GAROTO DA CASA AO LADO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OGRTDCSALD.mp4
+#EXTINF:-1,O SETIMO FILHO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OSTMFLH.mp4
+#EXTINF:-1,O DESTINO DE JUPITER
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ODSTNDJPTR.mp4
+#EXTINF:-1,O EXTERMINADOR DO FUTURO GENESIS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OEXTRMDRDFUT5.mp4
+#EXTINF:-1,OS ULTIMOS CAVALEIROS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OSULTMSCVLRS.mp4
+#EXTINF:-1,O MISTERIOSO CASO DE JUDITH WINSTEAD
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OMSTRSCSDJDTWNST.mp4
+#EXTINF:-1,O GRANDE MESTRE 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OGRNDMSTR3.mp4
+#EXTINF:-1,O TIGRE E O DRAGAO A ESPADA DO DESTINO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OTRIGEDRG.mp4
+#EXTINF:-1,OS DEZ MANDAMENTOS O FILME
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSDZMANDMTS.mp4
+#EXTINF:-1,ONDE NASCE A ESPERANÇA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ONDNASCESPRCA.mp4
+#EXTINF:-1,O MESTRE DOS JOGOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OMSTRDSJGS1.mp4
+#EXTINF:-1,O MESTRE DOS JOGOS 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OMSTRDSJGS2.mp4
+#EXTINF:-1,O ULTIMO CAÇADOR DE BRUXAS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OULTMCADRDBRXDUB.mp4
+#EXTINF:-1,OPERAÇOES ESPECIAIS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPRCOSESPCIAS.mp4
+#EXTINF:-1,OS DESCARTADOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSDSCRTDS.mp4
+#EXTINF:-1,OS 33
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OS33.mp4
+#EXTINF:-1,O CARA PERFEITO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OCARPRFTO.mp4
+#EXTINF:-1,O ENCONTRO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OENCTRO.mp4
+#EXTINF:-1,O REGRESSO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ORGRSODUB.mp4
+#EXTINF:-1,O PRESENTE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPRSENT.mp4
+#EXTINF:-1,O FINAL DA TURNE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OFNLDTRN.mp4
+#EXTINF:-1,OS CONDENADOS 2 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSCNDNS2.mp4
+#EXTINF:-1,OPERAÇAO RESGATE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPRCORSGT.mp4
+#EXTINF:-1,O BOM DINOSSAURO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OBOMDINO.mp4
+#EXTINF:-1,O TEMPO NAO ESPERA POR NINGUEM 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OTMPNESPRPNGM.mp4
+#EXTINF:-1,OS SUSPEITOS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSUSPITS.mp4
+#EXTINF:-1,O TALENTOSO RIPLEY 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OTLNTSRPLY.mp4
+#EXTINF:-1,OS SEM FLORESTA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSMFLRSTS.mp4
+#EXTINF:-1,OS DELIRIOS DE CONSUMO DE BECKY BLOOM 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OSDLRISDCSMO.mp4
+#EXTINF:-1,O QUARTO DO PANICO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OQRTDPNC.mp4
+#EXTINF:-1,O IMPOSSIVEL 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OIMPSVL.mp4
+#EXTINF:-1,O BURACO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OBURC.mp4
+#EXTINF:-1,O BOM FILHO A CASA TORNA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OBMFLHACSTRN.mp4
+#EXTINF:-1,O 30 DIA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/O30DIA.mp4
+#EXTINF:-1,O BALCONISTA 
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p_1mbps.mp4
+#EXTINF:-1,O SEGREDO DE BROKEBACK MOUNTAIN
+http://media-br-am.crackle.com/1/t/am/vddyb_480p_1mbps.mp4
+#EXTINF:-1,O CANTOR 
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p_1mbps.mp4
+#EXTINF:-1,O CASAMENTO DE RACHEL 
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+#EXTINF:-1,O COLECIONADOR DE OSSOS 
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4
+#EXTINF:-1,O DESPERTAR DE UMA PAIXAO 
+http://media-br-am.crackle.com/1/w/h6/77vlf_480p.mp4
+#EXTINF:-1,O GRANDE ANJO NEGRO 
+http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4
+#EXTINF:-1,O GRITO 2 
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+#EXTINF:-1,O GUARDIAO 
+http://media-br-am.crackle.com/1/k/l6/3dwlf_480p_1mbps.mp4
+#EXTINF:-1,O GUARDIAO 2 
+http://media-br-am.crackle.com/1/g/16/vaylf_480p_1mbps.mp4
+#EXTINF:-1,O GUARDIAO 3 
+http://media-br-am.crackle.com/1/i/16/4aylf_480p_1mbps.mp4
+#EXTINF:-1,O ILUSIONISTA 
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p_1mbps.mp4
+#EXTINF:-1,O INQUILINO 
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p_1mbps.mp4
+#EXTINF:-1,O JULGAMENTO DE PARIS 
+http://media-br-am.crackle.com/1/b/16/99wlf_480p_1mbps.mp4
+#EXTINF:-1,O LEGIONARIO 
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p_1mbps.mp4
+#EXTINF:-1,O OPOSTO DO SEXO 
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+#EXTINF:-1,O PARAISO E LOGO AQUI 
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+#EXTINF:-1,O POVO CONTRA LARRY FLINT 
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+#EXTINF:-1,O PRINCIPAL SUSPEITO 
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4
+#EXTINF:-1,O RANCHO DO AMOR 
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+#EXTINF:-1,O RETORNO DO CAMPEAO 
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p_1mbps.mp4
+#EXTINF:-1,O SANGUE DE ROMEO 
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p_1mbps.mp4
+#EXTINF:-1,O SENHOR DAS ARMAS 
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p_1mbps.mp4
+#EXTINF:-1,O SEQUESTRO DO METRO 123 
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+#EXTINF:-1,O TANGO E O ASSASSINO 
+http://media-br-am.crackle.com/1/h/d6/5yvlf_480p_1mbps.mp4
+#EXTINF:-1,O VIGARISTA DO ANO 
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p_1mbps.mp4
+#EXTINF:-1,OLIVER 
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+#EXTINF:-1,OS PRODUTORES 
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+#EXTINF:-1,OS REIS DE DOGTOWN 
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p_1mbps.mp4
+#EXTINF:-1,OS SAFADOS 
+http://media-br-am.crackle.com/1/a/16/96wlf_480p_1mbps.mp4
+#EXTINF:-1,OS SEUS OS MEU E OS NOSSOS 
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+#EXTINF:-1,OURO BRANCO 
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p_1mbps.mp4
+#EXTINF:-1,O ABC DO AMOR 
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+#EXTINF:-1,O ALBERGUE 
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
+#EXTINF:-1,O ALBERGUE 2 
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+#EXTINF:-1,O APRENDIZ 
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+#EXTINF:-1,O CARRO ASSASSINO 
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+#EXTINF:-1,O CHAMADO DE XANGAI 
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+#EXTINF:-1,O CLUBE DE LEITURA DE JANE AUSTEN 
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
+#EXTINF:-1,O CODIGO DA VINCI 
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:-1,O CONTRATO 
+http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
+#EXTINF:-1,O DESAFIO 
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
+#EXTINF:-1,O FORASTEIRO 2 
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
+#EXTINF:-1,O MELHOR AMIGO DA NOIVA 
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+#EXTINF:-1,O NOME DO JOGO 
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
+#EXTINF:-1,O OTARIO 
+http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
+#EXTINF:-1,O PAIZAO 
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+#EXTINF:-1,O RESGATE DE UM CAMPEAO 
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
+#EXTINF:-1,O RITUAL 
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:-1,O SEGREDO DE BROKEBACK MOUNTAIN 
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+#EXTINF:-1,O ULTIMO GRANDE HEROI 
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
+#EXTINF:-1,OS MENSAGEIROS 
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+#EXTINF:-1,OS MISERAVEIS 
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+#EXTINF:-1,OS RECIFES 
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9murxO",PAGUE PARA ENTRAR,REZE PARA SAIR
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PGPRENTRRZPRSIR.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/HSQ3iQ",PHOBIA
+http://manda.haaze.com.br/hzcdn4/cl/mQpnBuooIiQ/Midia-6.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Dh9mhx",PARA MINHA AMADA MORTA
+http://mars.haaze.com.br/hzcdn2/cl/bx1Bh8ZvH84/Assistir_Para_Minha_Amada_Morta_%E2%80%93_Nacional_Online_no_Filmes_.mp4
+#EXTINF:-1,PRIMAVERA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRMVRA.mp4
+#EXTINF:-1,PARA SEMPRE ALICE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/PRSMPRALC.mp4
+#EXTINF:-1,PROJETO ALMANAQUE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/PRJTALMNQ.mp4
+#EXTINF:-1,PIXELS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/PIXRLS.mp4
+#EXTINF:-1,PACTO MALIGNO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/PCTMLGNO.mp4
+#EXTINF:-1,PEGANDO FOGO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PGNDFGODUB.mp4
+#EXTINF:-1,PONTE DOS ESPIOES
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PNTDESPIOS.mp4
+#EXTINF:-1,PERDIDO EM MARTE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRDEMMRTE.mp4
+#EXTINF:-1,PERSEGUINDO ABBOTT 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRSGUNDABOT.mp4
+#EXTINF:-1,PERSEGUIÇAO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRSGCAO.mp4
+#EXTINF:-1,PEQUENOS ESPIOES 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PQNOSESPOS1.mp4
+#EXTINF:-1,PEQUENOS ESPIOES 2 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PQNOSESPOS2.mp4
+#EXTINF:-1,PEQUENOS ESPIOES 3 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PQNOSESPOS3.mp4
+#EXTINF:-1,PEQUENOS ESPIOES 4 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PQNOSESPOS4.mp4
+#EXTINF:-1,PRINCIPE DA PERSIA AS AREIAS DO TEMPO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRNCDPRSASARSDOTMP.mp4
+#EXTINF:-1,PODER E CORRUPÇAO 
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p_1mbps.mp4
+#EXTINF:-1,POR AMOR 
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+#EXTINF:-1,PREMONIÇOES 
+http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
+#EXTINF:-1,PRIMEIRA DESCIDA 
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p_1mbps.mp4
+#EXTINF:-1,PROCURANDO ENCRENCA 
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p_1mbps.mp4
+#EXTINF:-1,PROCURA SE UM BUM BUM DESESPERADAMENTE 
+http://media-br-am.crackle.com/1/o/j6/byulf_480p_1mbps.mp4
+#EXTINF:-1,PROVAS E TRAPAÇAS 
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p_1mbps.mp4
+#EXTINF:-1,PARAISO
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+#EXTINF:-1,PEGAR E LARGAR 
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+#EXTINF:-1,PENELOPE 
+http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp
+#EXTINF:-1,PERSUASAO 
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bBAhIl",QUANDO AS LUZES SE APAGAM TS
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/Assistir_Quando_as_Luzes_se_Apagam_-_Dublado__2016__Filmes_o.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/YHs7Xx",QUARTETO FANTASTICO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/QRTFNTSC.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/xOsR7Y",QUARTETO FANTASTICO E O SURFISTA PRATEADO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/QRTFNTSCEOSFSTPRT.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/VL3Ey9",QUARTETO FANTASTICO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/QRTFNTSC2015.mp4
+#EXTINF:-1,QUE HORAS ELA VOLTA?
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/QHRSELVLT.mp4
+#EXTINF:-1,QUANDO UM ESTRANHO CHAMA 
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+#EXTINF:-1,QUARENTENA 
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+#EXTINF:-1,QUASE ILEGAL 
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/296cjrr.jpg",REBIRTH
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/rebirth.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/5ketk1.jpg",REFEM
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/RFEM.mp4
+#EXTINF:-1,ROBOCOP
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/RBCP2014.mp4
+#EXTINF:-1,REMANESCENTE ESQUECIDOS POR DEUS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/RMSCNTESQPRDES.mp4
+#EXTINF:-1,RESULTADOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/RESLTS.mp4
+#EXTINF:-1,RIO EU TE AMO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/RIOETA.mp4
+#EXTINF:-1,REBELIAO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/RBLOA.mp4
+#EXTINF:-1,REGRESSO DO MAL 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/RGRSDMAL.mp4
+#EXTINF:-1,RED APOSENTADOS E PERIGOSOS 
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p_1mbps.mp4
+#EXTINF:-1,REDE DE INTRIGAS 
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p_1mbps.mp4
+#EXTINF:-1,REPLICANTE 
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p_1mbps.mp4
+#EXTINF:-1,RISCO ABSOLUTO 
+http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4
+#EXTINF:-1,ROBOCOP 
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
+#EXTINF:-1,ROBOCOP 2 
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+#EXTINF:-1,ROBOCOP 3 
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p_1mbps.mp4
+#EXTINF:-1,RUSLAN VINGANÇA EXPLOSIVA 
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4
+#EXTINF:-1,RAIN MAN 
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+#EXTINF:-1,REC 
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+#EXTINF:-1,RED CORNER 
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+#EXTINF:-1,REPLICANTE 
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
+#EXTINF:-1,RESIDENT EVIL O HOSPEDE MALDITO 
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+#EXTINF:-1,RESIDENT EVIL APOCALIPSE 
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4						
+#EXTINF:-1,RESIDENT EVIL A EXTINÇAO 
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+#EXTINF:-1,RICKY BOBBY A TODA VELOCIDADE 
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
+#EXTINF:-1,RIOS VERMELHOS 
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:-1,ROCKY BALBOA 
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+#EXTINF:-1,REDLINE VELOCIDADE SEM LIMITES 
+http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DgoNk9",STRIPTEASE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/STRPTESE.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NdiLnm",SWINGER:CURTINDO A NOITE 
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
+#EXTINF:-1,SEM DIREITO A RESGATE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/SMDRTARSGT.mp4
+#EXTINF:-1,SNIPER AMERICANO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/SNPRAMRCN.mp4
+#EXTINF:-1,SCOOBY DOO MONSTROS A SOLTA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SCBYDO2.mp4
+#EXTINF:-1,SCOOBY DOO E A MALDIÇAO DO MONSTRO DO LAGO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SCBYDO3.mp4
+#EXTINF:-1,SCOOBY DOO O MISTERIO COMEÇA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SCBYDO3.mp4
+#EXTINF:-1,SAMURAI X O FIM DE UMA LENDA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4
+#EXTINF:-1,STREET FIGHTER PUNHO ASSASSINO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/STRTFGTRPNHASINO.mp4
+#EXTINF:-1,SPOTLIGHT SEGREDOS REVELADOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SPTGHTSCRDSRVLDS.mp4
+#EXTINF:-1,SOBRENATURAL A ORIGEM
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SBRNTRLAORGM.mp4
+#EXTINF:-1,SAMBA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SAMBA.mp4
+#EXTINF:-1,SICARIO TERRA DE NINGUEM
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SCROTRDNGM.mp4
+#EXTINF:-1,SENTIMENTOS QUE CURAM
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SNTMTSQCRM.mp4
+#EXTINF:-1,SEM RETORNO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SEMRTRNO.mp4
+#EXTINF:-1,STEVE JOBS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/STVJBS.mp4
+#EXTINF:-1,SNOOPY E CHARLIE BROWN PEANUTS 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
+#EXTINF:-1,SR SHERLOCK HOLMES 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SRSHRLCKHLMS.mp4
+#EXTINF:-1,STAR WARS O DESPERTAR DA FORÇA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/STRWRSVII.mp4
+#EXTINF:-1,SUPER 8 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SPR8.mp4
+#EXTINF:-1,SHOW DE VIZINHA 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/SHWDVZNA.mp4
+#EXTINF:-1,SWAT COMANDO ESPECIAL 
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4
+#EXTINF:-1,SECRETARIA 
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p_1mbps.mp4
+#EXTINF:-1,SEDUÇAO FATAL 
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p_1mbps.mp4
+#EXTINF:-1,SEDUTORA E DIABOLICA 
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+#EXTINF:-1,SEGUNDAS INTENÇOES 3 
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:-1,SEM SAIDA 
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p_1mbps.mp4
+#EXTINF:-1,SETE VIDAS 
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+#EXTINF:-1,SITIE 
+http://media-br-am.crackle.com/1/g/f6/54ylf_480p.mp4
+#EXTINF:-1,SOB SUSPEITA 
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p_1mbps.mp4
+#EXTINF:-1,SOCIEDADE FEROZ 
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p_1mbps.mp4
+#EXTINF:-1,SOLDADO UNIVERSAL 3 
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p_1mbps.mp4
+#EXTINF:-1,SOU ESPIAO 
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p_1mbps.mp4
+#EXTINF:-1,STIGMATA 
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:-1,STUDIO 54 
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p_1mbps.mp4
+#EXTINF:-1,SUPER BAD E HOJE 
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:-1,SACRIFICIO 
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+#EXTINF:-1,SEGURANDO AS PONTAS 
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
+#EXTINF:-1,SEIS GRAUS DE SEPARAÇAO 
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+#EXTINF:-1,SEM VESTIGIOS 
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:-1,SEXO MENTIRAS E VIDEO TAPE 
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+#EXTINF:-1,SIMPLESMENTE ALICE 
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
+#EXTINF:-1,SUPER NOVA 
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+#EXTINF:-1,SOLTEIROS COM FILHOS 
+http://media-br-am.crackle.com/1/8/16/4p1lf_480p_1mbps.mp4
+#EXTINF:-1,SKYLINE A INVASAO 
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+#EXTINF:-1,SILENT HILL TERROR 
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p_1mbps.mp4
+#EXTINF:-1,TRIPLE 9
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TRPL9.mp4
+#EXTINF:-1,TIM MAIA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TIMAIA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fvlP3Z",TRUQUE DE MESTRE O 2º ATO
+http://venus.haaze.com.br/hzcdn5/cl/2h67yT0PiY8/Lua%20Cheia%20-%20O%20Terror%20dos%20Virgens%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/J309FH",TURMA DA LUTA
+http://haaze.com.br/cdn1/hzecloud/M1lRoto9i3c/turmadaluta.flv.mp4_openload(1).mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/4NFRpE",TRASH:A ESPERANÇA VEM DO LIXO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/TSHAESPRNCVMDLX.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BqYtGh",THT DUFF VOCE CONHECE TEM OU E
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DUFFVCNHECTMOE.mp4
+#EXTINF:-1,TRANSFORMERS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/TNSFRMRS01.mp4
+#EXTINF:-1,TRANSFORMERS A VINGANÇA DOS DERROTADOS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/TNSFRMRS02.mp4
+#EXTINF:-1,TRANSFORMERS O LADO OCULTO DA LUA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/TNSFRMRS03.mp4
+#EXTINF:-1,TRANSFORMERS A ERA DA EXTINÇAO
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/TNSFRMRS04.mp4
+#EXTINF:-1,TOMORROWLAND UM LUGAR ONDE NADA E IMPOSSIVEL
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TOMROWLND.mp4
+#EXTINF:-1,TERROR NOS BASTIDORES
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TERONSBSTDRS.mp4
+#EXTINF:-1,TERREMOTO A FALHA DE SAN ANDREAS
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/TRMTAFLHDSNANDRS.mp4
+#EXTINF:-1,THE RIDICULOUS 6
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/THRDCULOS6.mp4
+#EXTINF:-1,TED 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TED2.mp4
+#EXTINF:-1,TOY STORY ESQUECIDOS PELO TEMPO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TYSTRYESQDPTEMP.mp4
+#EXTINF:-1,THE BEACH BOYS UMA HISTORIA DE SUCESSO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/THBCHBYSUHDS.mp4
+#EXTINF:-1,TEMPOS DE VIOLENCIA 
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p_1mbps.mp4
+#EXTINF:-1,TENTACULOS 
+http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4
+#EXTINF:-1,THE FINAL CUT 
+http://media-br-am.crackle.com/1/j/4l/1wcyb_480p_1mbps.mp4
+#EXTINF:-1,THE WOMAN IN THE FIFTH 
+http://media-br-am.crackle.com/1/j/il/49owb_480p_1mbps.mp4
+#EXTINF:-1,TORTURADO 
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p_1mbps.mp4
+#EXTINF:-1,TRABALHO SUJO 
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p_1mbps.mp4
+#EXTINF:-1,TRES AMIGOS 
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p_1mbps.mp4
+#EXTINF:-1,TRES FORMAS DE AMAR 
+http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4
+#EXTINF:-1,TRES MULHERES TRES AMORES 
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:-1,TUDO QUE VOCE PRECISA SABER SOBRE SEXO 
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+#EXTINF:-1,TRAMA INTERNACIONAL 
+http://media-br-am.crackle.com/1/u/56/sv1lf_480p_1mbps.mp4
+#EXTINF:-1,THE SPIRIT 
+http://media-br-am.crackle.com/1/2/16/ep1lf_480p.mp4
+#EXTINF:-1,TURISTAS 
+http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
+#EXTINF:-1,TRIPLO X 
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
+#EXTINF:-1,TRIPLO X 2 ESTADO DE EMERGENCIA 
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/u7r6hM",UM DRINK NO INFERNO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UDRNKNINFRN.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/UrbYme",UM DRINK NO INFERNO 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UDRNKNINFRN2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bWx08S",UM DRINK NO INFERNO 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UDRNKNINFRN3.mp4
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/fu6tmh.jpg",UM SALAO DO BARULHO 3
+http://mars.haaze.com.br/hzcdn2/cl/bx1Bh8ZvH84/salaodobarulhoi.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/y2RBdv",UM PRINCIPE EM NOVA YORK
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
+#EXTINF:-1,UMA NOTICIA INESPERADA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/UNTCINSPRD.mp4
+#EXTINF:-1,UMA NOITE NO MUSEU 3 O SEGREDO DA TUMBA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/UNTNMSU3.mp4
+#EXTINF:-1,UM AMOR A CADA ESQUINA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UMAMRACDESQUNA.mp4
+#EXTINF:-1,UM ROMANCE NA ALTA MODA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UMROMNCNALTMD.mp4
+#EXTINF:-1,UM CASO DE AMOR
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UMCSDAMR.mp4
+#EXTINF:-1,UM SENHOR ESTAGIARIO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/UMSNHRESTGIARIO.mp4
+#EXTINF:-1,UM AMOR DE VERAO 
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
+#EXTINF:-1,UM ATO DE LIBERDADE 
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4
+#EXTINF:-1,UM BEIJO ROUBADO 
+http://media-br-am.crackle.com/1/z/z6/tsvlf_480p_1mbps.mp4
+#EXTINF:-1,UM HOMEM BOM 
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p_1mbps.mp4
+#EXTINF:-1,UM NINJA EM BEVERLY HIILS 
+http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4
+#EXTINF:-1,UM PEIXE CHAMADO WANDA 
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4
+#EXTINF:-1,UM SEGREDO ENTRE NOS 
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+#EXTINF:-1,UM TIRA MUITO SUSPEITO 
+http://media-br-am.crackle.com/1/f/h6/75vlf_480p_1mbps.mp4
+#EXTINF:-1,UMA BELEZA DE SALAO 
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:-1,UM CRIMINOSO DECENTE 
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
+#EXTINF:-1,UM HOMEM FORA DE SERIE 
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
+#EXTINF:-1,UM SALAO DO BARULHO 
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:-1,UMA FESTA NO AR 
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
+#EXTINF:-1,UMA GAROTA ENCANTADA 
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+#EXTINF:-1,UMA NOIVA E TANTO 
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+#EXTINF:-1,UMA TURMA DO BARULHO 
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:-1,UMA VIAGEM AO INFERNO 
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+#EXTINF:-1,UM VOO MUITO LOUCO 
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3qZ8VN",VOVO ZONA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VOVZNA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/wNGRZ8",VOVO ZONA 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VOVZNA2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/sWCtaw",VOVO ZONA 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VOVZNA3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BAWfgc",VERAO DE 92
+http://mars.haaze.com.br/hzcdn2/cl/bx1Bh8ZvH84/verao92.mp4
+#EXTINF:-1,VICIO INERENTE
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VCOINRNT.mp4
+#EXTINF:-1,VELOZES & FURIOSOS 7
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS07.mp4
+#EXTINF:-1,VINGANÇA AO ANOITECER
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VNGCAOANTCR.mp4
+#EXTINF:-1,VINGADORES ERA DE ULTRON
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VNGDRSEDURON.mp4
+#EXTINF:-1,VAI QUE DA CERTO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VQDRCRT.mp4
+#EXTINF:-1,VAI QUE DA CERTO 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VQDRCRT2.mp4
+#EXTINF:-1,VOCE ACREDITA?
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VCACRDT.mp4
+#EXTINF:-1,VERAO EM STATEN ISLAND
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VERAEMSTISLND.mp4
+#EXTINF:-1,VAI QUE COLA O FILME
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VAIQCLOFILME.mp4
+#EXTINF:-1,VIRANDO A PAGINA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VRNDAPGNA.mp4
+#EXTINF:-1,VOLTANDO DO INFERNO 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/VLTNDINF.mp4
+#EXTINF:-1,VAMOS NESSA 
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p_1mbps.mp4
+#EXTINF:-1,VESTIDA PARA MATAR 
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p_1mbps.mp4
+#EXTINF:-1,VICIADO EM SEXO 
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p_1mbps.mp4
+#EXTINF:-1,VIDAS QUE SE CRUZAM 
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+#EXTINF:-1,VINGANÇA 
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p_1mbps.mp4
+#EXTINF:-1,VIOLAÇAO DE PRIVACIDADE 
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p_1mbps.mp4
+#EXTINF:-1,VELOCIDADE SEM LIMITES 
+http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4
+#EXTINF:-1,VESTIGIOS DO DIA 
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
+#EXTINF:-1,VINGANÇA EXPLOSIVA 
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+#EXTINF:-1,VOU TE PEGAR OTARIO
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/4NN6mf",WATCHMEN:O FILME
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/WTCHMNOFLM.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/vhhNPt",WARCRAFT O PRIMEIRO ENCONTRO DE DOIS MUNDOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/WARCFT.mp4
+#EXTINF:-1,WASABI
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+#EXTINF:-1,WOODLAND TALENTO E FE 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TLNTEFWODLWN.mp4
+#EXTINF:-1,X MEN APOCALIPSE
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/XMENAPCLPSE.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bx9NN2",ZERANDO A VIDA
+http://goo.gl/rjBrnP
+#EXTINF:-1,ZOOTOPIA ESSA CIDADE E O BICHO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ZOTPIA.mp4
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="CANAL ADULTO",[COLOR yellow]<====(CANAL ADULTO)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/nfob5l.jpg",BANGU TV
+rtmp://edge2.everyon.tv/etv2sb/ playpath=phd10499 swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf live=1 pageUrl=http://hipertela.net/adulto/ch-219.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/11so32h.jpg",BUTGO TV
+rtmp://edge2.everyon.tv/etv2sb/ playpath=phd10772 swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf live=1 pageUrl=http://hipertela.net/adulto/ch-215.html
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/vencl1.jpg",JASMIM CHANNEL
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1068947352.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/muhgl1.jpg",LIVETING TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/34t69ue.jpg",MIDNIGHT TV
+rtmp://edge1.everyon.tv/etv1sb/ playpath=pld10766 swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf live=1 pageUrl=http://hipertela.net/adulto/ch-214.html
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/5lqk41.jpg",PENTHOUSE
+rtmp://edge1.everyon.tv/etv1sb/ playpath=phd10927 swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf live=1 pageUrl=http://hipertela.net/adulto/ch-216.html
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/20k4wf5.jpg",PLAYBOY
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/20k4wf5.jpg",PLAYBOY
+rtmp://edge2.everyon.tv/etv2sb/ playpath=pld10499 swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf live=1 pageUrl=http://hipertela.net/adulto/ch-197.html
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2zqsn10.jpg",SAKURA TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/309n7zq.jpg",STORM BABES TV
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2evfd78.jpg",VISIT-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rh5krc.jpg" group-title="FILME ADULTO",[COLOR yellow]<====(FILME ADULTO)====>[/COLOR]
+https://0.0.0:123
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 2
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 3
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 4
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 5
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 6
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 7
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 8
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 9
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 10
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 11
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 12
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 13
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 14
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANYSEX 15
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",ANNY AURORA:ROCK ME BABY
+http://138.201.33.133/porno/X.Art.Anny.Aurora.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:MASTURBAÇAO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/01.02.12hMasturbacao.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:GINASTICA
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/01.02.14hGinastica.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/01.02.16hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:FILME PORNO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/01.02.18hFilmePorno.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/01.02.20hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:PRAZER EM DETALHES
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/01.02.23hPrazerEmDetalhes.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:HIDROMASSAGEM
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/02.02.12hHidromassagem.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:PINTANDO AS UNHAS
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/02.02.16hPintandoAsUnhas.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/02.02.18hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:BANHO SENSUAL
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/02.02.22hBanhoSensual.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:MASTURBAÇAO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/02.02.23hMasturbacao.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:PRAZER EM DETALHES
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/02.02.23hPrazerEmDetalhes.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:BANHO SENSUAL
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/03.02.12BanhoSensual.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:AULA DE BOQUETE
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/03.02.14hAulaDeBoquete.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/03.02.16hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:PRAZER EM DETALHES
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/03.02.18hPrazerDetalhes.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:ASSINANTE CAM
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/03.02.20hAssinanteCam.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/03.02.22hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:MASTURBAÇAO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/03.02.23hMasturbacao.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:HIDROMASSAGEM
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/04.02.12hHidromassagem.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:MASTURBAÇAO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/04.02.14hMasturbacao.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:GOZO LITERARIO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/04.02.16hGozoLiterarioCasa.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/04.02.18hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/04.02.22hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:BANHO SENSUAL
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/04.02.23hBanhoSensual.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:BANHO SENSUAL
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/05.02.12hBanhoSensual.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/05.02.14hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:AULA DE POMPOARISMO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/05.02.16hAulaPompoarismo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:DESAFIO KID
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/05.02.20hDesafioKid.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:BARBIE ANGEL
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/05.02.20hLesboBarbie_Angel.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CHAT
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/06.02.16hChat.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:APRESENTAÇAO MILA
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/06.02.21hApresentacaoMila.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mBdhac",A CASA DAS BRASILEIRINHAS:CONSOLO
+http://138.201.33.133/porno/Cas.Bras.Ang.Lima.II/31.01.20hConsolo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jpufIV",BRASILEIRINHAS AMIGAS DA MINHA IRMA 2:LAISA GREGORY
+http://138.201.33.133/porno/Amigas.da.Minha.Irma.2/Videos/Laisa.Gregory.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jpufIV",BRASILEIRINHAS AMIGAS DA MINHA IRMA 2:CAROL VILELA
+http://138.201.33.133/porno/Amigas.da.Minha.Irma.2/Videos/Carol.Vilela.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jpufIV",BRASILEIRINHAS AMIGAS DA MINHA IRMA 2:LAURA PIMENTA
+http://138.201.33.133/porno/Amigas.da.Minha.Irma.2/Videos/Laura.Pimenta.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jpufIV",BRASILEIRINHAS AMIGAS DA MINHA IRMA 2:PAMELA FERRAZ
+http://138.201.33.133/porno/Amigas.da.Minha.Irma.2/Videos/Pamela.Ferraz.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WeVR9G",BRASILEIRINHAS:EU VOU EU VOU SENTAR AGORA...EU VOU
+http://138.201.33.133/porno/Brasileirinhas.Eu.Vou.Eu.Vou.Sentar.Agora.Eu.Vou.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0yGKUz",BRASILEIRINHAS:SEXO NA AREIA
+http://138.201.33.133/porno/Brasileirinhas.Sexo.na.Areia.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yxEbJ6",BRASILEIRINHAS:ADULTERA 1
+http://138.201.33.133/porno/Brasileirinhas.Adultera.XXX/Adultera.cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yxEbJ6",BRASILEIRINHAS:ADULTERA 2
+http://138.201.33.133/porno/Brasileirinhas.Adultera.XXX/Adultera.cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yxEbJ6",BRASILEIRINHAS:ADULTERA 3
+http://138.201.33.133/porno/Brasileirinhas.Adultera.XXX/Adultera.cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yxEbJ6",BRASILEIRINHAS:ADULTERA 4
+http://138.201.33.133/porno/Brasileirinhas.Adultera.XXX/Adultera.cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yxEbJ6",BRASILEIRINHAS:ADULTERA 5
+http://138.201.33.133/porno/Brasileirinhas.Adultera.XXX/Adultera.cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/M7VJwr",BRASILEIRINHAS-SHOW DE BUNDAS 2 C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/M7VJwr",BRASILEIRINHAS-SHOW DE BUNDAS 2 C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/M7VJwr",BRASILEIRINHAS-SHOW DE BUNDAS 2 C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/M7VJwr",BRASILEIRINHAS-SHOW DE BUNDAS 2 C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/M7VJwr",BRASILEIRINHAS-SHOW DE BUNDAS 2 C5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sttwUh",BRASILEIRINHAS-SHOW DE BUNDAS 3 C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sttwUh",BRASILEIRINHAS-SHOW DE BUNDAS 3 C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sttwUh",BRASILEIRINHAS-SHOW DE BUNDAS 3 C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sttwUh",BRASILEIRINHAS-SHOW DE BUNDAS 3 C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/uNpJ86",BRASILEIRINHAS-SHOW DE BUNDAS 4 C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/uNpJ86",BRASILEIRINHAS-SHOW DE BUNDAS 4 C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/uNpJ86",BRASILEIRINHAS-SHOW DE BUNDAS 4 C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/uNpJ86",BRASILEIRINHAS-SHOW DE BUNDAS 4 C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EuzfTh",BRASILEIRINHAS-SHOW DE BUNDAS 5 C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EuzfTh",BRASILEIRINHAS-SHOW DE BUNDAS 5 C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EuzfTh",BRASILEIRINHAS-SHOW DE BUNDAS 5 C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EuzfTh",BRASILEIRINHAS-SHOW DE BUNDAS 5 C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aHIuyS",BRASILEIRINHAS SHOW DE BUNDAS 6:ANGEL LIMA
+http://138.201.33.133/porno/Show.De.Bundas.6/Videos/Angel.Lima.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aHIuyS",BRASILEIRINHAS SHOW DE BUNDAS 6:NANDA FERRAZ
+http://138.201.33.133/porno/Show.De.Bundas.6/Videos/Nanda.Ferraz.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aHIuyS",BRASILEIRINHAS SHOW DE BUNDAS 6:BIA MARQUES
+http://138.201.33.133/porno/Show.De.Bundas.6/Videos/Bia.Marques.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aHIuyS",BRASILEIRINHAS SHOW DE BUNDAS 6:LAURA PIMENTA
+http://138.201.33.133/porno/Show.De.Bundas.6/Videos/Laura.Pimenta.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aQ3bnH",BRASILEIRINHAS VELOZES & FODEROSAS:ANGEL LIMA
+http://138.201.33.133/porno/Velozes.e.Foderosas/Videos/Angel.Lima.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aQ3bnH",BRASILEIRINHAS VELOZES & FODEROSAS:ALANA FREITAS
+http://138.201.33.133/porno/Velozes.e.Foderosas/Videos/Alana.Freitas.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aQ3bnH",BRASILEIRINHAS VELOZES & FODEROSAS:MELISSA PITANGA
+http://138.201.33.133/porno/Velozes.e.Foderosas/Videos/Melissa.Pitanga.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aQ3bnH",BRASILEIRINHAS VELOZES & FODEROSAS:ALESSANDRA FADYLA
+http://138.201.33.133/porno/Velozes.e.Foderosas/Videos/Alessandra.Fadyla.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/g7Nki2",BRASILEIRINHAS PAGODE
+http://138.201.33.133/porno/Pagode.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/MM9ICM",BRASILEIRINHAS:FOI DAQUELE JEITO 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/MM9ICM",BRASILEIRINHAS:FOI DAQUELE JEITO 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/MM9ICM",BRASILEIRINHAS:FOI DAQUELE JEITO 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/MM9ICM",BRASILEIRINHAS:FOI DAQUELE JEITO 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aXwDcX",BRASILEIRINHAS:COMENDO ANITA 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aXwDcX",BRASILEIRINHAS:COMENDO ANITA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aXwDcX",BRASILEIRINHAS:COMENDO ANITA 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aXwDcX",BRASILEIRINHAS:COMENDO ANITA 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aXwDcX",BRASILEIRINHAS:COMENDO ANITA 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aXwDcX",BRASILEIRINHAS:COMENDO ANITA 6
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena6.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EQR8CT",BRASILEIRINHAS:PARAISO DO ANAL 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EQR8CT",BRASILEIRINHAS:PARAISO DO ANAL 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EQR8CT",BRASILEIRINHAS:PARAISO DO ANAL 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EQR8CT",BRASILEIRINHAS:PARAISO DO ANAL 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/EQR8CT",BRASILEIRINHAS:PARAISO DO ANAL 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ottmKG",BRASILEIRINHAS:LIGAÇAO ARDENTE 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ottmKG",BRASILEIRINHAS:LIGAÇAO ARDENTE 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ottmKG",BRASILEIRINHAS:LIGAÇAO ARDENTE 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ottmKG",BRASILEIRINHAS:LIGAÇAO ARDENTE 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ottmKG",BRASILEIRINHAS:LIGAÇAO ARDENTE 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FkZ1YX",BRASILEIRINHAS:1 HOMEM PARA 10 MULHERES
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/1HomemPara10Mulheres/Low/1HomemPara10Mulheres_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/xPCDPg",BRASILEIRINHAS-VIVI COM TESAO 1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ViviComTesao/Low/ViviComTesao_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/xPCDPg",BRASILEIRINHAS-VIVI COM TESAO 2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ViviComTesao/Low/ViviComTesao_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/xPCDPg",BRASILEIRINHAS-VIVI COM TESAO 3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ViviComTesao/Low/ViviComTesao_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/xPCDPg",BRASILEIRINHAS-VIVI COM TESAO 4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ViviComTesao/Low/ViviComTesao_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0STQT8",BRASILEIRINHAS-PARAISO DAS BUNDAS 1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0STQT8",BRASILEIRINHAS-PARAISO DAS BUNDAS 2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0STQT8",BRASILEIRINHAS-PARAISO DAS BUNDAS 3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0STQT8",BRASILEIRINHAS-PARAISO DAS BUNDAS 4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2iIU6t",BRASILEIRINHAS-PEGANDO AS TOPS 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2iIU6t",BRASILEIRINHAS-PEGANDO AS TOPS 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2iIU6t",BRASILEIRINHAS-PEGANDO AS TOPS 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2iIU6t",BRASILEIRINHAS-PEGANDO AS TOPS 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/L2lYie",BRASILEIRINHAS-PERFORMERS OF THE YEAR 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/L2lYie",BRASILEIRINHAS-PERFORMERS OF THE YEAR 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/L2lYie",BRASILEIRINHAS-PERFORMERS OF THE YEAR 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/L2lYie",BRASILEIRINHAS-PERFORMERS OF THE YEAR 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/L2lYie",BRASILEIRINHAS-PERFORMERS OF THE YEAR 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/L2lYie",BRASILEIRINHAS-PERFORMERS OF THE YEAR 6
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena6.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nx4usv",BRASILEIRINHAS-PODEROSAS 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/Poderosas/Low/Poderosas_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nx4usv",BRASILEIRINHAS-PODEROSAS 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/Poderosas/Low/Poderosas_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nx4usv",BRASILEIRINHAS-PODEROSAS 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/Poderosas/Low/Poderosas_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nx4usv",BRASILEIRINHAS-PODEROSAS 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/Poderosas/Low/Poderosas_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/upiZie",BRASILEIRINHAS-REDONDINHO DE 4 C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/upiZie",BRASILEIRINHAS-REDONDINHO DE 4 C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/upiZie",BRASILEIRINHAS-REDONDINHO DE 4 C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/upiZie",BRASILEIRINHAS-REDONDINHO DE 4 C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/upiZie",BRASILEIRINHAS-REDONDINHO DE 4 C5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RinEae",BRASILEIRINHAS-SEDUÇAO 1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/Seducao/Low/Seducao_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RinEae",BRASILEIRINHAS-SEDUÇAO 2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/Seducao/Low/Seducao_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RinEae",BRASILEIRINHAS-SEDUÇAO 3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/Seducao/Low/Seducao_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RinEae",BRASILEIRINHAS-SEDUÇAO 4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/Seducao/Low/Seducao_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RinEae",BRASILEIRINHAS-SEDUÇAO 5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_HD/Seducao/Low/Seducao_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KyPXBv",BRASILEIRINHAS-SEM CONVERSA 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SemConversa/Low/SemConversa_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KyPXBv",BRASILEIRINHAS-SEM CONVERSA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SemConversa/Low/SemConversa_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KyPXBv",BRASILEIRINHAS-SEM CONVERSA 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SemConversa/Low/SemConversa_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KyPXBv",BRASILEIRINHAS-SEM CONVERSA 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SemConversa/Low/SemConversa_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mJKgQE",BRASILEIRINHAS-SEXO SOL E AREIA 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mJKgQE",BRASILEIRINHAS-SEXO SOL E AREIA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mJKgQE",BRASILEIRINHAS-SEXO SOL E AREIA 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mJKgQE",BRASILEIRINHAS-SEXO SOL E AREIA 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mJKgQE",BRASILEIRINHAS-SEXO SOL E AREIA 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/s3B0NY",BRASILEIRINHAS-CARNAVAL RAVE 2003 C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/CarnavalRave2003/Low/CarnavalRave2003_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/s3B0NY",BRASILEIRINHAS-CARNAVAL RAVE 2003 C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/CarnavalRave2003/Low/CarnavalRave2003_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/s3B0NY",BRASILEIRINHAS-CARNAVAL RAVE 2003 C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/CarnavalRave2003/Low/CarnavalRave2003_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/s3B0NY",BRASILEIRINHAS-CARNAVAL RAVE 2003 C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/CarnavalRave2003/Low/CarnavalRave2003_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WkoQGg",BRASILEIRINHAS-O HOMEM ELEFANTE C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OHomemElefante/Low/OHomemElefante_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WkoQGg",BRASILEIRINHAS-O HOMEM ELEFANTE C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OHomemElefante/Low/OHomemElefante_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WkoQGg",BRASILEIRINHAS-O HOMEM ELEFANTE C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OHomemElefante/Low/OHomemElefante_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WkoQGg",BRASILEIRINHAS-O HOMEM ELEFANTE C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OHomemElefante/Low/OHomemElefante_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IbJSJd",BRASILEIRINHAS-O ESCRITOR E A NINFETA C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OEscritorEANinfeta/Low/OEscritorEANinfeta_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IbJSJd",BRASILEIRINHAS-O ESCRITOR E A NINFETA C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OEscritorEANinfeta/Low/OEscritorEANinfeta_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IbJSJd",BRASILEIRINHAS-O ESCRITOR E A NINFETA C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OEscritorEANinfeta/Low/OEscritorEANinfeta_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IbJSJd",BRASILEIRINHAS-O ESCRITOR E A NINFETA C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OEscritorEANinfeta/Low/OEscritorEANinfeta_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IbJSJd",BRASILEIRINHAS-O ESCRITOR E A NINFETA C5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/OEscritorEANinfeta/Low/OEscritorEANinfeta_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C6
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena6.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C7
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena7.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C8
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena8.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C9
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena9.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C10
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LFCZqT",BRASILEIRINHAS-AS CONVOCADAS DO RICARDAO C11
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/AsConvocadasDoRicardao/Low/AsConvocadasDoRicardao_cena11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/T0630p",BRASILEIRINHAS-TITIA SOBRINHA E AMIGAS C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/TitiaSobrinhaEAmigas/Low/TitiaSobrinhaEAmigas_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/T0630p",BRASILEIRINHAS-TITIA SOBRINHA E AMIGAS C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/TitiaSobrinhaEAmigas/Low/TitiaSobrinhaEAmigas_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/T0630p",BRASILEIRINHAS-TITIA SOBRINHA E AMIGAS C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/TitiaSobrinhaEAmigas/Low/TitiaSobrinhaEAmigas_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/T0630p",BRASILEIRINHAS-TITIA SOBRINHA E AMIGAS C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/TitiaSobrinhaEAmigas/Low/TitiaSobrinhaEAmigas_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/V4KPnx",BRASILEIRINHAS-1 HOMEM P 10 MULHERES C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/1HomemPara10Mulheres/Low/1HomemPara10Mulheres_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/V4KPnx",BRASILEIRINHAS-1 HOMEM P 10 MULHERES C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/1HomemPara10Mulheres/Low/1HomemPara10Mulheres_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jh1437",BRASILEIRINHAS-AS 7 GATINHAS C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/AsSeteGatinhas/Low/AsSeteGatinhas_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jh1437",BRASILEIRINHAS-AS 7 GATINHAS C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/AsSeteGatinhas/Low/AsSeteGatinhas_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jh1437",BRASILEIRINHAS-AS 7 GATINHAS C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/AsSeteGatinhas/Low/AsSeteGatinhas_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jh1437",BRASILEIRINHAS-AS 7 GATINHAS C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/AsSeteGatinhas/Low/AsSeteGatinhas_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jh1437",BRASILEIRINHAS-AS 7 GATINHAS C5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/AsSeteGatinhas/Low/AsSeteGatinhas_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TDb4Xa",BRASILEIRINHAS-COMIDA DE RABO C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ComidaDeRabo/Low/ComidaDeRabo_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TDb4Xa",BRASILEIRINHAS-COMIDA DE RABO C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ComidaDeRabo/Low/ComidaDeRabo_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TDb4Xa",BRASILEIRINHAS-COMIDA DE RABO C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ComidaDeRabo/Low/ComidaDeRabo_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TDb4Xa",BRASILEIRINHAS-COMIDA DE RABO C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ComidaDeRabo/Low/ComidaDeRabo_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TDb4Xa",BRASILEIRINHAS-COMIDA DE RABO C5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/ComidaDeRabo/Low/ComidaDeRabo_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C6
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena6.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C7
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena7.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/42XoJL",BRASILEIRINHAS-TREPADA INTER-RACIAL C8
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/TrepadaInterRacial/Low/TrepadaInterRacial_cena8.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C6
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena6.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C7
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena7.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C8
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena8.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C9
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena9.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C10
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/3VICNB",BRASILEIRINHAS-O COMEDOR DE CU C11
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/OComedorDeCu/Low/OComedorDeCu_cena11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C6
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena6.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C7
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena7.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C8
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena8.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C9
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena9.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C10
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/8LbtlL",BRASILEIRINHAS-DANDO DE GOLEADA C11
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/DandoDeGoleada/Low/DandoDeGoleada_cena11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/5ySMO6",BRASILEIRINHAS-MIJANDO DE PRAZER C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/MijandoDePrazer/Low/MijandoDePrazer_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/5ySMO6",BRASILEIRINHAS-MIJANDO DE PRAZER C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/MijandoDePrazer/Low/MijandoDePrazer_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/5ySMO6",BRASILEIRINHAS-MIJANDO DE PRAZER C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/MijandoDePrazer/Low/MijandoDePrazer_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/5ySMO6",BRASILEIRINHAS-MIJANDO DE PRAZER C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/MijandoDePrazer/Low/MijandoDePrazer_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/5ySMO6",BRASILEIRINHAS-MIJANDO DE PRAZER C5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/MijandoDePrazer/Low/MijandoDePrazer_cena5.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RCjelc",BRASILEIRINHAS-QUEM VAI TRANSAR COM MARY C1
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/QuemVaiTransarComMary/Low/QuemVaiTransarComMary_cena1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RCjelc",BRASILEIRINHAS-QUEM VAI TRANSAR COM MARY C2
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/QuemVaiTransarComMary/Low/QuemVaiTransarComMary_cena2.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RCjelc",BRASILEIRINHAS-QUEM VAI TRANSAR COM MARY C3
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/QuemVaiTransarComMary/Low/QuemVaiTransarComMary_cena3.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RCjelc",BRASILEIRINHAS-QUEM VAI TRANSAR COM MARY C4
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/QuemVaiTransarComMary/Low/QuemVaiTransarComMary_cena4.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RCjelc",BRASILEIRINHAS-QUEM VAI TRANSAR COM MARY C5
+http://sex4.brasileirinhas.com.br/vod-sex1/Filmes_DV/QuemVaiTransarComMary/Low/QuemVaiTransarComMary_cena5.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 1
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 2
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 3
+http://static.brazzers.com/scenes/3329/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 4
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 5
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 6
+http://static.brazzers.com/scenes/3341/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 7
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 8
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 9
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",BRAZZERS 10
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DANI JENSEN AND FAYE REAGAN
+http://138.201.33.133/porno/Dani.Jensen.e.Faye.Reagan.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DIGITAL PLAYGROUND DIARY OF A PERV JESSE JANE KIRSTEN PRICE
+http://138.201.33.133/porno/Digital.Playground.Diary.of.a.Perv.Jesse.Jane.Kirsten.Price.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 1
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 2
+http://drainmainvein.com/media/videos/mp4/602.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 3
+http://drainmainvein.com/media/videos/mp4/603.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 4
+http://drainmainvein.com/media/videos/mp4/604.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 5
+http://drainmainvein.com/media/videos/mp4/605.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 6
+http://drainmainvein.com/media/videos/mp4/606.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 7
+http://drainmainvein.com/media/videos/mp4/513.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 8
+http://drainmainvein.com/media/videos/mp4/514.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 9
+http://drainmainvein.com/media/videos/mp4/515.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 10
+http://drainmainvein.com/media/videos/mp4/516.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 11
+http://drainmainvein.com/media/videos/mp4/518.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 12
+http://drainmainvein.com/media/videos/mp4/519.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",DRAIN-MAIN-VEIN 13
+http://drainmainvein.com/media/videos/mp4/520.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",FINEVIDS 1
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",FINEVIDS 2
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",FINEVIDS 3
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",FINEVIDS 4
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",GALLERIES TINY 4K 11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",IN LOVE WITH LITTLE CAPRICE
+http://138.201.33.133/porno/In.Love.With.Little.Caprice.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",JENNA HAZE HARDCORE
+http://138.201.33.133/porno/Jenna.Haze.Hardcore.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",JENNA HAZE AND TORI BLACK INTIMATE PASSIONS
+http://138.201.33.133/porno/Jenna.Haze.and.Tori.Black.Intimate.Passions.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",LITTLE CAPRICE FIRST TIME ANAL
+http://138.201.33.133/porno/WoodmanCastingX.Little.Caprice.First.Time.Anal.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",NURU MASSAGE:KATSUNI
+http://138.201.33.133/porno/Katsuni.540p.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",SOPHIE DEE-ASA AKIRA-LISA ANN
+http://138.201.33.133/porno/bzl.bzlive32.480p.2000.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",THE ALEXIS TEXAS EXPERIENCE
+http://138.201.33.133/porno/The.Alexis.Texas.Experience.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",THE BEST OF SASHA GREY
+http://138.201.33.133/porno/The.Best.Of.Sasha.Grey.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",THE VERY BEST OF ASIAN GIRLS
+http://138.201.33.133/porno/21.Sextury.The.very.best.of.Asian.Girls.Galore.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",TORI BLACK:JACKS POV 
+http://138.201.33.133/porno/Tori.Black.jacks.pov.mp4
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1z3z4lw.jpg",X ART BLUE ANGEL FAYE REAGAN
+http://138.201.33.133/porno/X.Art.Blue.Angel.Faye.Reagan.mp4
