@@ -421,59 +421,31 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16425.ts
 
 RÁDIOS
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/alvoradafm-949.png" group-title="Radios",[MG] Alvorada FM - 94.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/549
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Z7uuqP.png" group-title="RÁDIOS",Rádio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/autenticafavela-1067.png" group-title="Radios",[MG] Autêntica Favela FM - 106.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/556
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VNdI6Wt.png" group-title="RÁDIOS",Rádio BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bandnews-895.png" group-title="Radios",[MG] BandNews FM - 89.5 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/547
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 90.5 FM São Paulo - SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bhfm-1021.png" group-title="Radios",[MG] BHFM - 102.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/552
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3dgGC7H.png" group-title="RÁDIOS",Rádio CBN AM
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/cdl-1029.png" group-title="Radios",[MG] CDL FM - 102.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/554
+#EXTINF:-1 tvg-logo="http://i.imgur.com/O3eKMIz.png" group-title="RÁDIOS",Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/extrafm-1039.png" group-title="Radios",[MG] Extra FM - 103.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/555
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oRYDaYf.png" group-title="RÁDIOS",Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/jovempan-991.png" group-title="Radios",[MG] Jovem Pan FM - 99.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/550
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/inconfidencia-1009.png" group-title="Radios",[MG] Rádio Inconfidência - 100.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/551
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/itatiaia-957.png" group-title="Radios",[MG] Rádio Itatiaia - 95.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/553
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiomania-903.png" group-title="Radios",[MG] Rádio Mania FM - 90.3 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/548
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/transamerica-887.png" group-title="Radios",[MG] Transamérica Hits - 88.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/546
+#EXTINF:-1 tvg-logo="http://i.imgur.com/O3eKMIz.png" group-title="RÁDIOS",Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/antena1-1037.png" group-title="Radios",[RJ] Antena 1 - 103.7 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/545
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/bandnews-903.png" group-title="Radios",[RJ] BandNews FM - 90.3 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/536
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/fmodia-1005.png" group-title="Radios",[RJ] FM O Dia - 100.5 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/541
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/jbfm-999.png" group-title="Radios",[RJ] JB FM - 99.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/540
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiocidade-1029.png" group-title="Radios",[RJ] Rádio Cidade FM - 102.9 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/544
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radioglobo-981.png" group-title="Radios",[RJ] Rádio Globo - 98.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/539
-
-#EXTINF:-1 tvg-logo="https://static.psrv.io/logos/radios/radiomania-911.png" group-title="Radios",[RJ] Rádio Mania FM - 91.1 FM
-http://psrv.io:80/dJNUn7w3/eAtDx3cG/535
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9IEBKS4.png" group-title="RADIOS",Transamérica 
 http://transamerica.crossradio.com.br:9100/live.aac
