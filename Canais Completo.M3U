@@ -44,14 +44,8 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta" , TV Futura PR
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="Aberta",TV ESCOLA HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
@@ -71,9 +65,6 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Missao 
-rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
-
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1138618024/logo_2009_3.JPG" group-title="",NOVO TEMPO
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
 
@@ -89,54 +80,21 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="http://redeminas.tv/wp-content/uploads/2018/10/avatarRedeMinas-360x240.jpg",REDE MINAS
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple1/v4/38/75/e8/3875e88d-c18a-23a8-0c01-81aab01201f5/source/512x512bb.jpg " group-title="",AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
- 
 #EXTINF:0 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="Canais", CANAL RICOS
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/cql6nfkx9/G2_PTV.png" group-title="Aberta" , G2P
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="Aberta" , G2P TV
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-
-#EXTINF:-1 group-title="Aberta" , G2P TV
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?
-
-
-Teste
-
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvdiario.png" group-title="Aberto", TV DIÁRIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="Aberto", REDE BRASIL
 http://173.236.10.10:1935/rbtv/rbtv/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Vh1_classic_europe.png"Aberta" , CLASSIQUE TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
-
-="https://listaiptvbrasil.com/logo/tvers.png" group-title="Aberta", TVE RS
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvers.png" group-title="Aberta", TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvaperipe.png" group-title="Aberta", TV APERIPÊ
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvuniao.png" group-title="Aberta", TV UNIÃO
-http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redemeionorte.png" group-title="Aberta", REDE MEIO NORTE
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/amazonsat.png" group-title="Aberta", AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/92pOCiaEap/gXmhc5awJkTEX8S9.png" group-title="Aberta", REDE NEW
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png" group-title="Aberta", TVE BAHIA HD - TV BRASIL
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
@@ -147,20 +105,8 @@ http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redesuper.png" group-title="Aberta",REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="Aberta", VIRGIN TV
-http://fms.105.net:1935/live/virgin2%20/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://lut.im/4y8jHEbp1i/yiJenIEcnPH1SnDl.png" group-title="Aberta", RETRÔ TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA"Aberta", - BELJIQUE
-http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/AJ7bxR6dq6/B041Wsxo9yZayY64.png" group-title="Aberta", SESC TV HD
-http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgeral.png" group-title="Aberta", TV GERAL BA
-http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="Aberta", TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
@@ -168,60 +114,29 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="Aberta",TV JORNAL LIMEIRA
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/canalrural.png" group-title="Aberta", CANAL RURAL
-http://67149o.ha.azioncdn.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Internacional""Aberta , BR: MKK WEB TV
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1536001136.m3u8
 
 #EXTINF:-1"Aberta" , BRASIL:TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Aberta" , CANAL 25
+#EXTINF:-1 tvg-logo="" group-title="Aberta" , CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="SPAIN" , Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="://m3u.me/bOY" group-title="Canais de "Aberto" , CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5SvcimL.png" group-title="Abertos" , Canal Ricos (SÃ£o Paulo)
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta" , Canal Rural 
-http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="" group-title="TV Aberta" , Canal13
 http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/canalx.png" group-title="TV Aberta" , Canal X SD
-http://77149o.ha.azioncdn.net/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD"Aberta",TV Cultura MG
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
-
-#EXTINF:-1 tvg-id="TV CULTURA"tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title=" Aberta",TV CULTURA MG
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title=" Aberta",TV CULTURA PA
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Aberta", TV CULTURA BAHIA HD
-http://cdn2.comets.com.br/tvbaianahd/aovivo/chunklist.m3u8?
-
 #EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title=" Aberta", TV UP HD
 http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
-
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Abrta", TV UP HD
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Aberta", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
-
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Aberta", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
-
 
 
 
