@@ -679,3 +679,7 @@ http://6d9a.webradio.upx.net.br:9898/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EATcyWO.png?1" group-title="Connect" pltv-subgroup="Animação", BABY TV
+http://lista.digitalgroup.me:80/21964971984/1234/11970
