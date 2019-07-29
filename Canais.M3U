@@ -680,12 +680,3 @@ http://6d9a.webradio.upx.net.br:9898/stream
 http://6d9a.webradio.upx.net.br:9896/stream
 
 
-
-#EXTINF:0 group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144137q.png" tvg-name=""radio=true,Radio Globo (Sao Paulo) 
-http://mob.sgr.globo.com:9000/igamsp
-
-#EXTINF:0 group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144137q.png" tvg-name=""radio=true,Radio Globo (BH) 
-http://mob.sgr.globo.com:9000/igambh
-
-#EXTINF:0 group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s144137q.png"radio=true,Radio Globo (Rio) 
-http://mob.sgr.globo.com:9000/igamrj
