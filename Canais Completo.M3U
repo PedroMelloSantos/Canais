@@ -427,17 +427,10 @@ http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VNdI6Wt.png" group-title="RÁDIOS",Rádio BH FM
 http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Estúdio 90.5 FM São Paulo - SP
-http://media.sgr.globo.com:1935/VideoCBN/cbnsp1
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3dgGC7H.png" group-title="RÁDIOS",Rádio CBN AM
 http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/O3eKMIz.png" group-title="RÁDIOS",Rádio Jovem Pan AM
-http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oRYDaYf.png" group-title="RÁDIOS",Rádio Jovem Pan FM
-http://centova6.ciclanohost.com.br:9256
 
 
 
