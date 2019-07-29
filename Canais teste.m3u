@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CLASSIC TV
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?LISTASDAGLAU
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="TABELA", CINEMAX
