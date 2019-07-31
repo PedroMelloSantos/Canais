@@ -18,6 +18,21 @@ http://m3u.me/br/Eizq
 #EXTINF:-1 tvg-logo="H" group-title="BRASIL" ,HOT MUSIC
 http://m3u.me/br/Xrby
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes 2017",O Chamado 3
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OCHMD3.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes 2017",Max Steel
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MXSTL.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes 2017",Lavanda
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/LVNDA.mp4
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
