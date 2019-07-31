@@ -1,19 +1,178 @@
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/ESPZD8f.png" group-title="FILMES E SÃ‰RIES",A&E HD
-http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3259.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cuOcVPD.png" group-title="Esportes",Sport.TV5
+http://188.165.13.95:8080/4/index.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL HD" tvg-logo="https://i.imgur.com/oRs43Bd.png" group-title="CANAIS ABERTOS",AGRO CANAL HD
-http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3181.m3u8
+Filmes e Series
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/G0bInCL.png" group-title="FILMES E SÃ‰RIES",AMC HD
-http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3307.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e SÃ©ries",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/VYUk5BD.png" group-title="DOCUMENTÃRIOS",ANIMAL PLANET HD
-http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3249.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/62wznzh4l/clarocine.png" group-title="Filmes e SÃ©ries",Cine Claro
+http://inalamega.com.br:1935/tvcariocanet/tvcariocanet/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="https://i.imgur.com/1x6hkMg.png" group-title="MUSICAIS",ARTE 1
-http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/4708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/uNGA7v0.png" group-title="FILMES E SÃ‰RIES",AXN HD
-http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3257.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e SÃ©ries",HBO
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e SÃ©ries",HBO 2
+
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-logo="http://i.imgur.com/KJWN5Qc.png" group-title="Filmes e SÃ©ries",HBO Plus *e
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e SÃ©ries",HBO Plus
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e SÃ©ries",HBO Signature
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e SÃ©ries",HBO Family
+
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e SÃ©ries",Max
+
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-logo="http://i.imgur.com/rLHHuFg.png" group-title="Filmes e SÃ©ries",Max Prime *e
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e SÃ©ries",Max Prime
+
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e SÃ©ries",Max Up
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e SÃ©ries",Cinemax
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e SÃ©ries",Telecine Action
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e SÃ©ries",Telecine Premium
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e SÃ©ries",Telecine Touch
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e SÃ©ries",Telecine Fun
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e SÃ©ries",Telecine Pipoca
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e SÃ©ries",Telecine Cult
+
+#EXTINF:-1 tvg-id="iSat.br" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e SÃ©ries",I sat
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e SÃ©ries",AXN
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e SÃ©ries",AMC
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e SÃ©ries",Fox
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://i.imgur.com/bpt5lOz.png" group-title="Filmes e SÃ©ries",Fox Premium 1
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="Filmes e SÃ©ries",Fox Premium 2
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e SÃ©ries",FX
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e SÃ©ries",Megapix
+
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e SÃ©ries",Space
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e SÃ©ries",TBS
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e SÃ©ries",Comedy Central
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e SÃ©ries",TCM
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e SÃ©ries",Syfy
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e SÃ©ries",Studio Universal
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e SÃ©ries",Sony
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e SÃ©ries",TNT SÃ©ries
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e SÃ©ries",TNT
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e SÃ©ries",Universal
+
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e SÃ©ries",Paramount
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e SÃ©ries",Warner
+
+################################################################################# NotÃ­cias
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NotÃ­cias",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NotÃ­cias",Record News HD
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="NotÃ­cias",Globo News
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="NotÃ­cias",Band News
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NotÃ­cias",Catve HD 
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="NotÃ­cias",GV News
+https://59f1cbe63db89.streamlock.net:1443/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="NotÃ­cias",Porto Canal
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="NotÃ­cias",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="NotÃ­cias",RTP1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="NotÃ­cias",RTP2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="NotÃ­cias",TVI
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="NotÃ­cias",TVI+
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/XTWxRVh.png" group-title="NotÃ­cias",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EQG9OOD.png" group-title="NotÃ­cias",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/dFhQAGv.png" group-title="NotÃ­cias",Fox 23 News
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IipATsJ.png" group-title="NotÃ­cias",Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FumzmgG.png" group-title="NotÃ­cias",Life News
+http://tv.life.ru/lifetv/720p/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/tf54fetwr/Fox_News_30.jpg" group-title="NotÃ­cias",Fox News 30
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/4mpxl528z/KIRO_7_News.png" group-title="NotÃ­cias",KIRO 7 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/xx5cs2vdn/3eeae90.png" group-title="NotÃ­cias",WPXI News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/h1gwl2erf/image.png" group-title="NotÃ­cias",WSOC 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s22.postimg.org/k0rxkzu1t/placeholder-16x9.jpg" group-title="NotÃ­cias",WFTV 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/8vDHr3I.png" group-title="YOUNG SHELDON - DUB",YOUNG SHELDON T1|EP01
+http://www.blogger.com/video-play.mp4?contentId=9828da2968a97576
+#EXTINF:0 tvg-logo="https://i.imgur.com/8vDHr3I.png" group-title="YOUNG SHELDON - DUB",YOUNG SHELDON T1|EP02
+http://www.blogger.com/video-play.mp4?contentId=80a52844051fddc3
+#EXTINF:0 tvg-logo="https://i.imgur.com/8vDHr3I.png" group-title="YOUNG SHELDON - DUB",YOUNG SHELDON T1|EP03
+http://www.blogger.com/video-play.mp4?contentId=567656a34fa4eb40&STANIPTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/8vDHr3I.png" group-title="YOUNG SHELDON - DUB",YOUNG SHELDON T1|EP04
+http://www.blogger.com/video-play.mp4?contentId=4951f1c1ca3bacf9&STANIPTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/8vDHr3I.png" group-title="YOUNG SHELDON - DUB",YOUNG SHELDON T1|EP05
+http://www.blogger.com/video-play.mp4?contentId=16b40279940f6f05&STANIPTV
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
