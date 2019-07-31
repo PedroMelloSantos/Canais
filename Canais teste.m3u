@@ -1,6 +1,52 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO SP
+http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO RJ
+
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT MT
+https://5b7f3c45ab7c2.streamlock.net/tvcentro/ngrp:tvcentro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",BAND SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA", BAND
+http://bldtv.vip:8080/live/RobertoFerreira/cMvtReKrBe/4969.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 
 
 
