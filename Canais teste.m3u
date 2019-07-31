@@ -1,3 +1,28 @@
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/ESPZD8f.png" group-title="FILMES E SÃ‰RIES",A&E HD
+http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3259.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL HD" tvg-logo="https://i.imgur.com/oRs43Bd.png" group-title="CANAIS ABERTOS",AGRO CANAL HD
+http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3181.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/G0bInCL.png" group-title="FILMES E SÃ‰RIES",AMC HD
+http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3307.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/VYUk5BD.png" group-title="DOCUMENTÃRIOS",ANIMAL PLANET HD
+http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3249.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="https://i.imgur.com/1x6hkMg.png" group-title="MUSICAIS",ARTE 1
+http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/4708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/uNGA7v0.png" group-title="FILMES E SÃ‰RIES",AXN HD
+http://cdn.multitv.pw:8880/live/kjy8dz7/ncxicim/3257.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO SP
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 
