@@ -1,27 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES" ,PREMIERE CLUB
+http://m3u.me/br/fsRm                                                                                                                                                                                                                                                                                             
+ 
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES" ,TELECINE ACTION
+http://m3u.me/br/t98l                                                                                                                                                                                                                                                     
 
-
-#EXTINF:-1 tvg- logo"" group-title="BRASIL" MASTERTV
-http://wowza.catve.com.br:1935/live2/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV ABERTO",TV CULTURA  
-http://wzbrasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg- logo"" group-title="NOVOS",ANIMAL PLANET
-http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/711.m3u8
-
-#EXTINF:-1 tvg- logo"" group-title="NOVOS",TELECINE PREMIUN
-http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1049.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV ABERTO",TV BRASIL 
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u
-
-
-
-
-
+ #EXTINF:-1 tvg-logo="" group-title="BRASIL" ,TV NA ILHA
+http://m3u.me/br/lwDF
+                                                                                                                                                                        
+#EXTINF:-1 tvg-logo="M" group-title="BRASIL" ,MIX TV
+http://m3u.me/br/hfwD
+ 
+#EXTINF:-1 tvg-logo="H" group-title="BRASIL" ,HIT TV
+http://m3u.me/br/Eizq
+ 
+#EXTINF:-1 tvg-logo="H" group-title="BRASIL" ,HOT MUSIC
+http://m3u.me/br/Xrby
 
 
 
