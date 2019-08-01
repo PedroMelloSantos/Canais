@@ -13,34 +13,12 @@ http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
 #EXTINF:-1,TV CULTURA PA =
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1,TVE BRASIL =
-
-
-
-
-
-
-
-#EXTM3U
 #EXTINF: -1 tvg-logo = "https://imagizer.imageshack.com/v2/100x75q90/921/qLE9YN.png" grupo-título = "TV Local", TV SANTA CASA
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
-#EXTINF:-1,BBB-19**
-http://fonte.iptvmaishd.com:25461/1489/1489/137031
-#EXTINF:-1,BBB-19*
-http://fonte.iptvmaishd.com:25461/1489/1489/137032
 #EXTINF:-1,REDE EVANGELIZAR =
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASDAGLAU
-
-
 #EXTINF:-1,AGRO BRASIL =
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1,BAND SP =
-http://iptv-line.com:6969/live:73de61d2c5e3cf97/ZIbuegoDSc/5676
-#EXTINF:-1,CANAL RICOS =
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1,CAT TVE =
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
-#EXTINF:-1,RECORD MT =
-http://iptv-line.com:6969/live:73de61d2c5e3cf97/ZIbuegoDSchange/5308
 #EXTINF:-1,REDE BRASIL =
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
 #EXTINF:-1,Rede TV =
@@ -48,12 +26,24 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 #EXTINF:-1,REDE TV SP =
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
+
+
+
+#EXTM3U
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,SBT GO HD =
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
 #EXTINF:-1,SBT GO SD =
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-#EXTINF:-1,SBT MA =
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+
 #EXTINF:-1,SBT PE HD =
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 #EXTINF:-1,SBT PE SD =
