@@ -25,6 +25,10 @@ http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 #EXTINF:-1,REDE TV SP =
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1,TVE BRASIL =
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
 
 
 
@@ -39,193 +43,12 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 
 
-#EXTINF:-1,SBT GO HD =
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
-#EXTINF:-1,SBT GO SD =
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
 
-#EXTINF:-1,SBT PE HD =
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-#EXTINF:-1,SBT PE SD =
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,TERRA VIVA =
-http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
-#EXTINF:-1,TV CULTURA MG =
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1,TV CULTURA PA =
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1,TV DIARIO =
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
 
 #EXTINF:-1,TVE BRASIL =
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1,BR:GLOBO BAHIA SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141878
-#EXTINF:-1,BR:Globo Brasilia SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141879
-#EXTINF:-1,BR:Globo EPTV Campinas SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141877
-#EXTINF:-1,BR:Globo EPTV Ribeirao Preto SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141871
-#EXTINF:-1,BR:Globo Goiania sd.
-http://fonte.iptvmaishd.com:25461/1489/1489/141870
-#EXTINF:-1,BR:Globo MG HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141886
-#EXTINF:-1,BR:Globo MG SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141887
-#EXTINF:-1,BR:Globo News HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141884
-#EXTINF:-1,BR:Globo News SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141885
-#EXTINF:-1,BR:Globo Nordeste HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141881
-#EXTINF:-1,BR:Globo Nordeste SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141882
-#EXTINF:-1,BR:Globo Paraná HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141876
-#EXTINF:-1,BR:Globo RJ HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141889
-#EXTINF:-1,BR:Globo RJ SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141890
-#EXTINF:-1,BR:GLOBO RPC SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141888
-#EXTINF:-1,BR:GLOBO SAO JOSE DO RIO PRETO SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141869
-#EXTINF:-1,BR:Globo SP HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141892
-#EXTINF:-1,BR:Globo SP SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141893
-#EXTINF:-1,BR:Globo TV Liberal SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141875
-#EXTINF:-1,BR:Globo Tv Tribuna Santos SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141874
-#EXTINF:-1,BR:Globosat HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141872
-#EXTINF:-1,BR:Globosat SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141873
-#EXTINF:-1,BR: A&E SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141994
-#EXTINF:-1,BR: TLC HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141742
-#EXTINF:-1,BR:A&E HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141993
-#EXTINF:-1,BR:AMC HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141987
-#EXTINF:-1,BR:AMC SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141988
-#EXTINF:-1,BR:Animal Planet HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141990
-#EXTINF:-1,BR:Animal Planet SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141991
-#EXTINF:-1,BR:Arte SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141982
-#EXTINF:-1,BR:Arte1 HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141981
-#EXTINF:-1,BR:AXN HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141984
-#EXTINF:-1,BR:AXN SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141985
-#EXTINF:-1,BR:Baby TV HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141978
-#EXTINF:-1,BR:Baby TV SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141979
-#EXTINF:-1,BR:Band News HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141968
-#EXTINF:-1,BR:Band News SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141969
-#EXTINF:-1,BR:Band SP HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141972
-#EXTINF:-1,BR:BAND SP SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141973
-#EXTINF:-1,BR:BAND SPORTS HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141966
-#EXTINF:-1,BR:Band Sports SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141967
-#EXTINF:-1,BR:BIS HD
-http://fonte.iptvmaishd.com:25461/1489/1489/141977
-#EXTINF:-1,BR:BIS SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141980
-#EXTINF:-1,BR:Boomerang HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141963
-#EXTINF:-1,BR:Boomerang SD
-http://fonte.iptvmaishd.com:25461/1489/1489/141964
-#EXTINF:-1,BR:Canal Sony HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141961
-#EXTINF:-1,BR:Canal Sony SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141962
-#EXTINF:-1,BR:Cartoon Network HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141956
-#EXTINF:-1,BR:Cartoon Network SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141957
-#EXTINF:-1,BR:Cinemax HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141958
-#EXTINF:-1,BR:Cinemax SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141959
-#EXTINF:-1,BR:Combate HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141953
-#EXTINF:-1,BR:Combate SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141954
-#EXTINF:-1,BR:Comedy Central HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141950
-#EXTINF:-1,BR:Comedy Central SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141951
-#EXTINF:-1,BR:Discovery Channel HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141947
-#EXTINF:-1,BR:Discovery Channel SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141948
-#EXTINF:-1,BR:Discovery Civilization HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141944
-#EXTINF:-1,BR:Discovery Civilization SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141945
-#EXTINF:-1,BR:Discovery H&H HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141942
-#EXTINF:-1,BR:Discovery H&H SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141943
-#EXTINF:-1,BR:DISCOVERY KIDS HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141940
-#EXTINF:-1,BR:Discovery Kids SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141941
-#EXTINF:-1,BR:DISCOVERY SCIENCE HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141939
-#EXTINF:-1,BR:Discovery Science SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141938
-#EXTINF:-1,BR:Discovery Theater HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141937
-#EXTINF:-1,BR:Discovery Turbo HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141933
-#EXTINF:-1,BR:Discovery Turbo SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141934
-#EXTINF:-1,BR:Discovery World HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141935
-#EXTINF:-1,BR:Discovery World SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141936
-#EXTINF:-1,BR:Disney Channel HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141926
-#EXTINF:-1,BR:Disney Channel SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141927
-#EXTINF:-1,BR:Disney Junior HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141924
-#EXTINF:-1,BR:Disney Junior SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141925
-#EXTINF:-1,BR:Disney XD HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141922
-#EXTINF:-1,BR:E! HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141920
-#EXTINF:-1,BR:E! SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141921
-#EXTINF:-1,BR:ESPN + HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141918
-#EXTINF:-1,BR:ESPN 2 HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141913
-#EXTINF:-1,BR:ESPN Brasil HD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141915
-#EXTINF:-1,BR:ESPN Brasil SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141916
-#EXTINF:-1,BR:ESPN SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141919
-#EXTINF:-1,BR:Food Network SD.
-http://fonte.iptvmaishd.com:25461/1489/1489/141910
+
 #EXTINF:-1,BR:FOX FHD.
 http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/56609
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD (1)" tvg-logo="https://i.imgur.com/k6hhJyX.png" group-title="✯ Filmes e Séries ✯",FOX SD (1)
