@@ -283,7 +283,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 
 ##### RELIGIOSOS #####
-#EXTINF:-1 tvg-logo="http://www.grudetattoo.com.br/945-large_default/fe-2-unid.jpg"group-title="TV ABERTA",[COLOR orange] (RELIGIOSOS)[/COLOR]
+#EXTINF:-1 tvg-logo="https://www.faculdadevicentina.com.br/images/gallery/Cruz-Pascoa.jpg"group-title="RELIGIOSOS",[COLOR orange] (RELIGIOSOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
@@ -309,12 +309,24 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 
 
+##### SHOWS e CLIPS #####
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_809025-MLB31119052558_062019-O.jpg"group-title="SHOWS e CLIPS",[COLOR orange] (ESPORTES)[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 MEGAHITS 
+http://stream.1music.hu/stream/1music.m3u8
+
+
+##### NOTICIAS #####
+#EXTINF:-1 tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/58a7505a0cf2b10cb6612521//"group-title="NOTICIAS",[COLOR orange] (NOTICIAS)[/COLOR]
+http://0.0.0.0
+
 
 
 
 
 ##### ESPORTES #####
-#EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="TV ABERTA",[COLOR orange] (ESPORTES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="ESPORTES",[COLOR orange] (ESPORTES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
@@ -324,7 +336,7 @@ http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 
 
 ##### FILMES & SERIES #####
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png/v1/fill/w_290,h_190,al_c,usm_0.66_1.00_0.01/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png"group-title="TV ABERTA",[COLOR orange] (FILMES & SERIES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png/v1/fill/w_290,h_190,al_c,usm_0.66_1.00_0.01/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png"group-title="FILMES & SERIES",[COLOR orange] (FILMES & SERIES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CINE SKY
