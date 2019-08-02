@@ -291,6 +291,10 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 
 ##### RELIGIOSOS #####
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8
@@ -304,6 +308,23 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 
 
+##### FILMES & SERIES #####
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
+
+
+
+#EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CLASSIC TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL DA LOGO" group-title="GOSPEL", FILMES GOSPEL
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+
 
 
 
@@ -314,6 +335,8 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 
 ##### Internacionais #####
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 
 #EXTINF:-1 group-title="Esportes",Al Kass Sports 
@@ -343,6 +366,8 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
 ###### ALEMANHA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",1-2-3 TV [Alemanha] 
 http://123tv.cdn.ses-ps.com/index.m3u8
@@ -370,6 +395,8 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 
 
 ###### CHINA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",China 8 [China] 
 http://ec.sinovision.net/video/ts/lv.m3u8
@@ -378,6 +405,8 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 
 ###### EMIRADOS ARABES ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Al Hurra [Emirados Arabes] 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -393,6 +422,8 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
 ###### ESPANHA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/X0rwGWK.png" group-title="Esportes Internacional",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -411,6 +442,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playli
 
 
 ###### ESTADOS UNIDOS ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",CBS News [Estados Unidos] 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -428,6 +461,8 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 ###### FRANCA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",France 24 [Franca] 
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -440,6 +475,8 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
 
 ###### GRECIA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Kontra TV [Grecia] 
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
@@ -449,6 +486,8 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
 
 ###### INDIA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",DD News [India] 
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
@@ -461,6 +500,8 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
 
 ###### ISRAEL ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Knesset Channel [Israel] 
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
@@ -471,6 +512,8 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 
 ###### ITALIA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Canale 7 [Italia] 
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
@@ -487,6 +530,8 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
 
 ##### REINO UNIDO ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Arise News [Reino Unido] 
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -498,6 +543,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
 ###### RUSSIA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Mir 24 [Russia] 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -506,6 +553,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 ###### TURQUIA ######
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",CNN Turk [Turquia] 
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
@@ -522,6 +571,8 @@ http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 
 
 ##### RADIOS #####
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2Z7uuqP.png" group-title="RÁDIOS",Rádio Globo FM
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
