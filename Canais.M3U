@@ -294,8 +294,6 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
 http://0.0.0.0
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8
 
@@ -304,6 +302,14 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+
+##### ESPORTES #####
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 
 
 
