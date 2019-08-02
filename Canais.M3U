@@ -653,3 +653,242 @@ http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 
 
+
+
+##### RADIOS #####
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2Z7uuqP.png" group-title="RÁDIOS",Rádio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VNdI6Wt.png" group-title="RÁDIOS",Rádio BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3dgGC7H.png" group-title="RÁDIOS",Rádio CBN AM
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/O3eKMIz.png" group-title="RÁDIOS",Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9IEBKS4.png" group-title="RADIOS",Transamérica 
+http://transamerica.crossradio.com.br:9100/live.aac
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/COH52eu.png" group-title="RADIOS",Verdes Mares 
+http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Wp8Ri9u.png" group-title="ESTÚDIO RÁDIOS" , Estudio FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KVDWK8P.jpg" group-title="ESTÚDIO RÁDIOS" , Transamérica Pop
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/h5AFAvg.png" group-title="RÁDIO" , BOA FM
+http://painel.amsolution.net.br:8080/boa
+
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="RÁDIO" , Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S1cWMRy.jpg" group-title="RÁDIO" , Saudade Anos 80
+http://192.99.150.31:8697/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zopk5A6.png" group-title="RÁDIO" , Gospel
+http://192.99.150.31:9101/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zOCTXzk.png" group-title="RÁDIO" , Versão Brasileira
+http://192.99.150.31:8849/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fm1sMNV.jpg" group-title=" RÁDIO" , Axé Folia
+http://192.99.150.31:8305/stream
+
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Viva o Samba
+http://servidor33.brlogic.com:8020/live
+
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Skate Metal
+http://stm32.streaminghd.net.br:12406//;stream.mp3
+
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Jukebox
+http://streaming08.hstbr.net:8240/live
+
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Aloha Web Rádio
+http://216.245.194.244:8156/live
+
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Infantil
+http://192.99.150.31:8371/;
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Modão
+http://192.99.150.31:8105/;stream.mp3
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Brega
+http://sk7.org:8090/;
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Estações
+http://streaming08.hstbr.net:8240/live?1503535965776
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Smooth Jazz 
+http://wm02.warpradio.com:8010/;stream/1
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Classicos do Funk
+http://radio5.logicahost.com.br:9812/;
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Funk Capixaba
+http://45.43.208.138:27854/;
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Funk Brasil
+http://player.srvstm.com/player/12206/iphone.m3u
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Eurodance 90
+http://192.99.150.31:8056/stream?MWINFO
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Sertanejo Universitario
+http://192.99.150.31:9191/stream?MWINFO
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Sertanejo Raizes
+http://192.99.150.31:9155/stream?MWINFO
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Jovem Guarda
+http://192.99.150.31:8801/stream?MWINFO
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Bossa Nova 
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pagode 
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop Rock 
+http://6d9a.webradio.upx.net.br:8016/stream
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop Hits 
+http://6d9a.webradio.upx.net.br:90
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="TV Musicas",VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
+http://192.99.150.31:9431/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
+http://192.99.150.31:9019/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
+http://192.99.150.31:9485/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
+http://192.99.150.31:9089/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70
+http://192.99.150.31:8241/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80
+http://192.99.150.31:8697/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90
+http://192.99.150.31:8056/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional
+http://192.99.150.31:8377/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica
+http://192.99.150.31:9095/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
+http://192.99.150.31:9101/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop
+http://192.99.150.31:8721/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz
+http://192.99.150.31:8042/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé
+http://192.99.150.31:8305/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega
+http://192.99.150.31:9007/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae
+http://192.99.150.31:8715/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário
+http://192.99.150.31:9191/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz
+http://stm19.shoutcast.melhorhospedagemweb.com:11138/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+
+
+
+
+
+
+
+
