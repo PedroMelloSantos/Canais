@@ -89,10 +89,8 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD 
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
-
 
 #EXTINF:-1 tvg-id="TV CULTURA"tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais",TV CULTURA MG
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
@@ -176,9 +174,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIA
 #EXTINF: -1 tvg-logo = "https://imagizer.imageshack.com/v2/100x75q90/921/qLE9YN.png" grupo-título = "TV Local", TV SANTA CASA
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
-#EXTINF:-1,REDE EVANGELIZAR 
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASDAGLAU
-
 #EXTINF:-1,AGRO BRASIL 
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
@@ -199,15 +194,6 @@ http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 
 #EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="RELIGIOSO",CANÇÃO NOVA HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-
-#EXTINF:-1 tvg-id="TV APARECIDA" tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO", TV APARECIDA HD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:-1 vg-id="IMPD TV" tvg-logo="https://i.imgur.com/P65xCOI.jpg" group-title="RELIGIOSO", IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 MEGAHITS 
 http://stream.1music.hu/stream/1music.m3u8
@@ -290,8 +276,14 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 
 
+
+
+
+
+
+
 ##### RELIGIOSOS #####
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.grudetattoo.com.br/945-large_default/fe-2-unid.jpg"group-title="TV ABERTA",[COLOR orange] (RELIGIOSOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
@@ -300,12 +292,29 @@ http://stmv2.srvstm.com/16692/16692/playlist.m3u8
 #EXTINF:0 tvg-logo="https://portal4.files.wordpress.com/2012/12/aparecida.jpg" group-title="",APARECIDA 
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
+#EXTINF:-1 tvg-id="TV APARECIDA" tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO", TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="RELIGIOSO",CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1,REDE EVANGELIZAR 
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASDAGLAU
+
+#EXTINF:-1 vg-id="IMPD TV" tvg-logo="https://i.imgur.com/P65xCOI.jpg" group-title="RELIGIOSO", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+
+
+
+
+
 
 ##### ESPORTES #####
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="TV ABERTA",[COLOR orange] (ESPORTES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
@@ -315,14 +324,11 @@ http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 
 
 ##### FILMES & SERIES #####
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png/v1/fill/w_290,h_190,al_c,usm_0.66_1.00_0.01/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png"group-title="TV ABERTA",[COLOR orange] (FILMES & SERIES)[/COLOR]
 http://0.0.0.0
-
-
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CINE SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CLASSIC TV
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
@@ -340,8 +346,8 @@ http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
 
 
-##### Internacionais #####
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+##### INTERNACIONAIS #####
+#EXTINF:-1 tvg-logo="http://www.estaciocarreiras.com.br/wp-content/uploads/2015/10/Rela%C3%A7%C3%B5es-Internacionais.jpg"group-title="TV ABERTA",[COLOR orange] (INTERNACIONAIS)[/COLOR]
 http://0.0.0.0
 
 
@@ -372,7 +378,7 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
 ###### ALEMANHA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYqE-qLssKjKLHyetclgqMbXQpcv4iqLqO5PcV79BdboREI3l"group-title="TV ABERTA",[COLOR orange] (ALEMANHA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",1-2-3 TV [Alemanha] 
@@ -401,7 +407,7 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 
 
 ###### CHINA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://besthqwallpapers.com/Uploads/21-12-2016/11259/thumb2-chinese-flag-4k-silk-peoples-republic-of-china-flag-of-china.jpg"group-title="TV ABERTA",[COLOR orange] (CHINA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",China 8 [China] 
@@ -411,7 +417,7 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 
 ###### EMIRADOS ARABES ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-dos-emirados-arabes-unidos-pais-oriente-medio-12x-D_NQ_NP_758987-MLB27228947317_042018-F.jpg"group-title="TV ABERTA",[COLOR orange] (EMIRADOS ARABES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Al Hurra [Emirados Arabes] 
@@ -428,7 +434,7 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
 ###### ESPANHA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.eurodicas.com.br/wp-content/uploads/2018/09/bandeira-da-espanha.jpg?zoom=2.625&resize=372%2C241"group-title="TV ABERTA",[COLOR orange] (ESPANHA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/X0rwGWK.png" group-title="Esportes Internacional",Real Madrid TV
@@ -448,7 +454,7 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playli
 
 
 ###### ESTADOS UNIDOS ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/600x450/129/129579/produto/10014039/0df2f647a7.jpg"group-title="TV ABERTA",[COLOR orange] (ESTADOS UNIDOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",CBS News [Estados Unidos] 
@@ -467,7 +473,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 ###### FRANCA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/600x450/129/129579/produto/10014046/1506a9bf5f.jpg"group-title="TV ABERTA",[COLOR orange] (FRANCA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",France 24 [Franca] 
@@ -481,7 +487,7 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
 
 ###### GRECIA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://www.sunnewsonline.com/wp-content/uploads/2018/06/national-flag-of-greece-animated-windy-greek-flag_blsqgpw8g_thumbnail-full01.png"group-title="TV ABERTA",[COLOR orange] (GRECIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Kontra TV [Grecia] 
@@ -492,7 +498,7 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
 
 ###### INDIA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-india-cetim-alto-brilho-150m-x-90cm-pronta-entrega-D_NQ_NP_989141-MLB25696903119_062017-F.jpg"group-title="TV ABERTA",[COLOR orange] (INDIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",DD News [India] 
@@ -506,7 +512,7 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
 
 ###### ISRAEL ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://ak9.picdn.net/shutterstock/videos/5371889/thumb/1.jpg"group-title="TV ABERTA",[COLOR orange] (ISRAEL)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Knesset Channel [Israel] 
@@ -518,7 +524,7 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 
 ###### ITALIA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://morareviajar.net/wp-content/uploads/2018/03/bandeira-da-It%C3%A1lia-3.jpg"group-title="TV ABERTA",[COLOR orange] (ITALIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Canale 7 [Italia] 
@@ -536,7 +542,7 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
 
 ##### REINO UNIDO ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-do-reino-unido-em-tecido-grande-inglaterra-paises-D_NQ_NP_925097-MLB27225521923_042018-F.jpg"group-title="TV ABERTA",[COLOR orange] (REINO UNIDO)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Arise News [Reino Unido] 
@@ -549,7 +555,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
 ###### RUSSIA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mOwHUF1eOmiO6z96hw74cjrOAVGgnv9ylOWTolGA6innvxkx"group-title="TV ABERTA",[COLOR orange] (RUSSIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Mir 24 [Russia] 
@@ -559,7 +565,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 ###### TURQUIA ######
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://image.freepik.com/fotos-gratis/bandeira-da-turquia_1401-245.jpg"group-title="TV ABERTA",[COLOR orange] (TURQUIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",CNN Turk [Turquia] 
@@ -577,7 +583,7 @@ http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 
 
 ##### RADIOS #####
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.tudopraradios.com.br/wp-content/uploads/2016/06/Alysea-Old-Fashioned-font-b-Vintage-b-font-K-2213-font-b-Radio-b-font-Full.jpg"group-title="TV ABERTA",[COLOR orange] (RADIOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2Z7uuqP.png" group-title="RÁDIOS",Rádio Globo FM
