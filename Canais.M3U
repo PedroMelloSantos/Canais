@@ -270,6 +270,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="CANAIS ABERTOS", REDE BRASIL
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="" group-title="CANAIS ABERTOS" ,REDE BRASIL SD
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", TV CULTURA HD
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
@@ -321,6 +324,23 @@ http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/58a7505a0cf2b10cb6612521//"group-title="NOTICIAS",[COLOR orange] (NOTICIAS)[/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-title="NOTÍCIAS", RECORD NEWS
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b832512.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-title="NOTÍCIAS", RECORD NEWS HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+
+#EXTINF:0, RECORD NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="" group-title="NOTÍCIAS", RECORD NEWS HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-id="REDE NEWS" tvg-logo="" group-title="NOTÍCIAS", REDE NEWS HD
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+
 
 
 
@@ -331,6 +351,11 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
 http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", ALL SPORTS HD
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8
+
+
 
 
 
@@ -348,10 +373,24 @@ http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="GOSPEL", FILMES GOSPEL
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES E SÉRIES", 24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL 
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
 
 
 
 
+##### DESENHOS #####
+#EXTINF:-1 tvg-logo="https://meiobit.com/wp-content/uploads/2017/03/20170309boomerang.jpg"group-title="FILMES & SERIES",[COLOR orange] (FILMES & SERIES)[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR" tvg-logo="" group-title="INFANTIL",DISNEY JR HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.br" tvg-logo="" group-title="INFANTIL", DISNEY XD HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
 
 
 
