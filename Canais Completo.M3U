@@ -318,7 +318,7 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 MEGAHITS 
 http://stream.1music.hu/stream/1music.m3u8
-.+
+
 
 ##### NOTICIAS #####
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOf0mXj446i0IK9KrfRdClHjSWZdtcq7UCw5jGgD-S_2xKksu" group-title="NOTICIAS",[COLOR orange] (NOTICIAS)[/COLOR]
