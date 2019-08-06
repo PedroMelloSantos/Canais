@@ -313,15 +313,15 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 
 ##### SHOWS e CLIPS #####
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_809025-MLB31119052558_062019-O.jpg"group-title="SHOWS e CLIPS",[COLOR orange] (ESPORTES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_809025-MLB31119052558_062019-O.jpg"group-title="SHOWS e CLIPS",[COLOR orange] (SHOWS e CLIPS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 MEGAHITS 
 http://stream.1music.hu/stream/1music.m3u8
-
+.+
 
 ##### NOTICIAS #####
-#EXTINF:-1 tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/58a7505a0cf2b10cb6612521//"group-title="NOTICIAS",[COLOR orange] (NOTICIAS)[/COLOR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOf0mXj446i0IK9KrfRdClHjSWZdtcq7UCw5jGgD-S_2xKksu" group-title="NOTICIAS",[COLOR orange] (NOTICIAS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-title="NOTÍCIAS", RECORD NEWS
@@ -355,6 +355,8 @@ http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", ALL SPORTS HD
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8
 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL 
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
 
 
 
@@ -376,14 +378,12 @@ http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES E SÉRIES", 24 HORAS
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL 
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
 
 
 
 
 ##### DESENHOS #####
-#EXTINF:-1 tvg-logo="https://meiobit.com/wp-content/uploads/2017/03/20170309boomerang.jpg"group-title="FILMES & SERIES",[COLOR orange] (FILMES & SERIES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://meiobit.com/wp-content/uploads/2017/03/20170309boomerang.jpg"group-title="DESENHOS",[COLOR orange] (FILMES & SERIES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR" tvg-logo="" group-title="INFANTIL",DISNEY JR HD
