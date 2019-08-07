@@ -4,9 +4,102 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7183
 
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo SP HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13632
 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13428
 
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo RJ HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7383
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Bahia HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13752
+
+#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="Globo Bahia HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Bahia HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7375
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Brasilia HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13732
+
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo Brasilia HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Brasilia HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7399
+
+#EXTINF:-1 tvg-id="Globo Eptv Campinas HD" tvg-name="Globo Eptv Campinas HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Eptv Campinas HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7397
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Eptv Campinas HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Eptv Campinas HD  
+[Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13734
+
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirão Preto HD" tvg-name="Globo Eptv Ribeirão Preto HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Eptv Ribeirão Preto HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7396
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Eptv Ribeirão Preto HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Eptv Ribeirão Preto HD 
+[Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13736
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Alto Litoral FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv Alto Litoral  
+FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20387
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Alto Litoral HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv Alto Litoral  
+HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20386
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv dos Vales FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv dos Vales FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20396
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv dos Vales HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv dos Vales HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20395
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Grande Minas FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv Grande Minas  
+FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20393
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Grande Minas HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv Grande Minas  
+HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20392
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Serra Mar FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv Serra Mar FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20384
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Serra Mar HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Inter Tv Serra Mar HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/20383
+
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Minas FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7185
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Minas HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13738
+
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Abertos",Globo Minas HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7393
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
@@ -35,7 +128,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u
 #EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT MA
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 
-#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - MA |IMPERATRIZ
+#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - MA |
+
+IMPERATRIZ
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",BAND SP HD
@@ -46,6 +141,11 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band FHD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group- 
+
+title="Canais: Abertos",Band FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7188
 
 #EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="Canais", REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
@@ -62,7 +162,9 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 #EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id"REDE TV! - RONDÔNIA"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV! - RO
+#EXTINF:-1 tvg-id"REDE TV! - RONDÔNIA"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", 
+
+REDE TV! - RO
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV
@@ -71,26 +173,56 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL "Aberta", RECORD - MATO GROSSO
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL "Aberta", RECORD - 
+
+MATO GROSSO
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
 
-#EXTINF:-1 tvg-id="RecordSD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS", RECORD SP HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-id="RecordSD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS", RECORD 
 
-#EXTINF:-1 tvg-id="RecordSD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS", RECORD SD
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
+SP HD
+http://c3170-gbbrslbps-
 
-#EXTINF:-1 tvg-id="RECORD MT" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais",RECORD TV ÁGUA BOA
+sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI
+
+%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-id="RecordSD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS", RECORD 
+
+SD
+https://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-
+
+Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?
+
+sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e
+
+3
+
+#EXTINF:-1 tvg-id="RECORD MT" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais",RECORD TV ÁGUA 
+
+BOA
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
 
-#EXTINF:-1 tvg-id="RECORD"  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", TV VITORIA - RECORD 
+#EXTINF:-1 tvg-id="RECORD"  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", TV VITORIA - 
+
+RECORD 
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI
+
+%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD 
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI
+
+%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 
 #EXTINF:-1 tvg-id="TV CULTURA"tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais",TV CULTURA MG
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
@@ -104,20 +236,28 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais",TV CULTURA PA
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://odia.ig.com.br/_midias/jpg/2019/06/09/novo_canal_mce_tv_eh_lancado_pela_tv_cultura-11497495.jpg" group-title="",TV CULTURA 
+#EXTINF:0 tvg-
+
+logo="https://odia.ig.com.br/_midias/jpg/2019/06/09/novo_canal_mce_tv_eh_lancado_pela_tv_cultura-
+
+11497495.jpg" group-title="",TV CULTURA 
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/1XNfzj" group-title="TV ABERTA",TV GAZETA 
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTOS", TV GAZETA SP
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL 
+
+ABERTOS", TV GAZETA SP
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvgazeta.png" group-title="TV ABERTA", TV GAZETA HD 
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTOS", TV GAZETA SP
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL 
+
+ABERTOS", TV GAZETA SP
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA
@@ -132,16 +272,24 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta" , TV Futura PR HD
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV 
+
+EDUCATIVA
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
-#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" , TV Paraná
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" , 
+
+TV Paraná
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/tqynqozot/Rede_Minas.png" , Rede Minas
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/tqynqozot/Rede_Minas.png" 
+
+, Rede Minas
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="http://redeminas.tv/wp-content/uploads/2018/10/avatarRedeMinas-360x240.jpg",REDE MINAS HD
+#EXTINF:0 tvg-logo="" group-title="http://redeminas.tv/wp-content/uploads/2018/10/avatarRedeMinas-
+
+360x240.jpg",REDE MINAS HD
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/dQv2mX8DSK/a6964W8xUin8LJs8.png" group-title="",TV Transamérica
@@ -171,7 +319,9 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="Notícias",Catve HD 
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF: -1 tvg-logo = "https://imagizer.imageshack.com/v2/100x75q90/921/qLE9YN.png" grupo-título = "TV Local", TV SANTA CASA
+#EXTINF: -1 tvg-logo = "https://imagizer.imageshack.com/v2/100x75q90/921/qLE9YN.png" grupo-título = "TV 
+
+Local", TV SANTA CASA
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
 #EXTINF:-1,AGRO BRASIL 
@@ -195,10 +345,14 @@ http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 #EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 MEGAHITS 
+#EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 
+
+MEGAHITS 
 http://stream.1music.hu/stream/1music.m3u8
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e.jpg" group-title="",Rede Brasil
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e.jpg" group-
+
+title="",Rede Brasil
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TVUP 
@@ -207,7 +361,9 @@ http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TVUP HD
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="Canais", CANAL RICOS
+#EXTINF:0 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" 
+
+group-title="Canais", CANAL RICOS
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/cql6nfkx9/G2_PTV.png" group-title="Aberta" , G2P
@@ -222,7 +378,9 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvaperipe.png" group-title="Aberta", TV APERIPÊ
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png" group-title="Aberta", TVE BAHIA HD - TV BRASIL
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png" group-title="Aberta", TVE BAHIA HD - TV 
+
+BRASIL
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 #EXTINF:-1"Aberta" , BRASIL:TVE RS
@@ -240,7 +398,9 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="Aberta", TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="Aberta",TV JORNAL LIMEIRA
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="Aberta",TV JORNAL 
+
+LIMEIRA
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 
 #EXTINF:-1 group-title="Internacional""Aberta , BR: MKK WEB TV
@@ -249,7 +409,11 @@ http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1536001136.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Aberta" , CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="SPAIN" , Canal Extremadura
+#EXTINF:-1 tvg-
+
+logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-
+
+title="SPAIN" , Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV Aberta" , Canal13
@@ -258,25 +422,37 @@ http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD"Aberta",TV Cultura MG
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title=" Aberta",TV CULTURA PA
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title=" Aberta",TV CULTURA 
+
+PA
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title=" Aberta", TV UP HD
 http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-
+
+title="CANAIS ABERTOS",REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="CANAIS ABERTOS", REDE BRASIL
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="CANAIS ABERTOS", 
+
+REDE BRASIL
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="" group-title="CANAIS ABERTOS" ,REDE BRASIL SD
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="" group-title="CANAIS ABERTOS" ,REDE 
+
+BRASIL SD
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", TV CULTURA HD
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", TV 
+
+CULTURA HD
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
-
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Futura1.png" group-title="Canais: Abertos",Futura HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7403
 
 
 
@@ -286,7 +462,9 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 
 ##### RELIGIOSOS #####
-#EXTINF:-1 tvg-logo="https://www.faculdadevicentina.com.br/images/gallery/Cruz-Pascoa.jpg"group-title="RELIGIOSOS",[COLOR orange] (RELIGIOSOS)[/COLOR]
+#EXTINF:-1 tvg-logo="https://www.faculdadevicentina.com.br/images/gallery/Cruz-Pascoa.jpg"group-
+
+title="RELIGIOSOS",[COLOR orange] (RELIGIOSOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
@@ -295,13 +473,17 @@ http://stmv2.srvstm.com/16692/16692/playlist.m3u8
 #EXTINF:0 tvg-logo="https://portal4.files.wordpress.com/2012/12/aparecida.jpg" group-title="",APARECIDA 
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
-#EXTINF:-1 tvg-id="TV APARECIDA" tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO", TV APARECIDA HD
+#EXTINF:-1 tvg-id="TV APARECIDA" tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO", TV 
+
+APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="RELIGIOSO",CANÇÃO NOVA HD
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="RELIGIOSO",CANÇÃO 
+
+NOVA HD
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 #EXTINF:-1,REDE EVANGELIZAR 
@@ -312,33 +494,134 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 
 
+
+
+
+
+
 ##### SHOWS e CLIPS #####
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_809025-MLB31119052558_062019-O.jpg"group-title="SHOWS e CLIPS",[COLOR orange] (ESPORTES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_809025-MLB31119052558_062019-O.jpg"group-
+
+title="SHOWS e CLIPS",[COLOR orange] (SHOWS e CLIPS)[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 MEGAHITS 
+#EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 
+
+MEGAHITS 
 http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-id="Curta HD [Alter]" tvg-name="Curta HD [Alter]" tvg-logo="http://i.imgur.com/GYOaiO7.png"  
+group-title="Canais: Variedades e Músicas",Curta HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7459
+
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group- 
+title="Canais: Variedades e Músicas",GNT HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2270
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2141
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime HD  
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7346
+
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Mais Globosat HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/maisglobosat1.png" group-title="Canais: Variedades e Músicas",Mais  
+Globosat HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2127
+
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Mais Globosat HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/maisglobosat1.png" group-title="Canais: Variedades e Músicas",Mais  
+Globosat HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7344
+
+#EXTINF:-1 tvg-id="MAX HD" tvg-name="Max HD" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png" group- 
+title="Canais: Filmes e Series",Max HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7091
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group- 
+title="Canais: Variedades e Músicas",MTV HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2140
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png"  
+group-title="Canais: Variedades e Músicas",MTV HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7333
+
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: Variedades e Músicas",Multishow  
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2242
+
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: Variedades e Músicas",Multishow  
+HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7331
+
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png" group-title="Canais: Variedades e Músicas",Music  
+Box Brasil HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7329
+
+
+
+
+
+
+
+
 
 
 ##### NOTICIAS #####
-#EXTINF:-1 tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/58a7505a0cf2b10cb6612521//"group-title="NOTICIAS",[COLOR orange] (NOTICIAS)[/COLOR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?
+
+q=tbn:ANd9GcQZOf0mXj446i0IK9KrfRdClHjSWZdtcq7UCw5jGgD-S_2xKksu" group-title="NOTICIAS",[COLOR orange] 
+
+(NOTICIAS)[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-title="NOTÍCIAS", RECORD NEWS
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b832512.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-
 
-#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-title="NOTÍCIAS", RECORD NEWS HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+title="NOTÍCIAS", RECORD NEWS
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e
+
+%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b832512.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-
+
+title="NOTÍCIAS", RECORD NEWS HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e
+
+%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
 
 #EXTINF:0, RECORD NEWS HD
 #EXTVLCOPT:network-caching=1000
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e
+
+%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="" group-title="NOTÍCIAS", RECORD NEWS HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e
+
+%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
 
 #EXTINF:-1 tvg-id="REDE NEWS" tvg-logo="" group-title="NOTÍCIAS", REDE NEWS HD
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg- 
+logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7150
+
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7156
+
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2273
+
+
+
+
 
 
 
@@ -346,7 +629,9 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
 
 ##### ESPORTES #####
-#EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="ESPORTES",[COLOR orange] (ESPORTES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-
+
+estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="ESPORTES",[COLOR orange] (ESPORTES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
@@ -355,13 +640,309 @@ http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", ALL SPORTS HD
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8
 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL 
+http://c3170-gbbrslbps-
 
+sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-
+
+AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2331
+
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirão Série C HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/brasileiraoseriec.png" group-title="Canais: Esportes",Brasileirão  
+Série C HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/21776
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7187
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" 
+group-title="Canais: Esportes",Combate HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2318
+
+#EXTINF:-1 tvg-id="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png"  
+group-title="Canais: Esportes",ESPN + HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7099
+
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7172
+
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7430
+
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN Extra FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/espnextra.png" group-title="Canais: Esportes",ESPN Extra FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7136
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN FHD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group- 
+title="Canais: Esportes",ESPN FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7160
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png"  
+group-title="Canais: Esportes",ESPN HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7427
+
+#EXTINF:-1 tvg-id="ESPN+ HD [Alter]" tvg-name="ESPN + HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN + HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7432
+
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sport HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sport HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2286
+
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX Sportv 2 FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sportv 2 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7157
+
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7169
+
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2221
+
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7312
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13725
+
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7168
+
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2219
+
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7310
+
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13726
+
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7167
+
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2217
+
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7308
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13727
+
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7166
+
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2215
+
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7306
+
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13728
+
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7165
+
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7094
+
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7304
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13729
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" 
+group-title="Canais: Esportes",Premiere 7 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7164
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png"  
+group-title="Canais: Esportes",Premiere 7 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7095
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7302
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13730
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7170
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2223
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7300
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13424
+
+
+
+
+
+
+
+##### DOCUMENTARIOS #####
+#EXTINF:-1 tvg-
+
+logo="https://static.wixstatic.com/media/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png/v1/fill/w_290,h_190
+
+,al_c,usm_0.66_1.00_0.01/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png"group-title="DOCUMENTARIOS",[COLOR 
+
+orange] (FILMES & SERIES)[/COLOR]
+http://0.0.0.0
+
+
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet" tvg- 
+logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentários", Animal Planet
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7151
+
+
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg- 
+
+logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentários",Animal Planet HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2342
+
+
+#EXTINF:-1 tvg-id="Animal Planet HD [Alter]" tvg-name="Animal Planet HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentários",Animal Planet HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7490
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: Documentários",Discovery 
+
+Channel
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7163
+
+#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="Discovery Civilization HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoveryCivilization1.png" group-title="Canais:  
+Documentários",Discovery Civilization HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7455
+
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="Discovery Home Health FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoveryH&H1.png" group-title="Canais: Documentários",Discovery Home  
+Health FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7148
+
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoverySCience1.png" group-title="Canais: Documentários",Discovery  
+Science HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2129
+
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoveryTheater1.png" group-title="Canais: Documentários",Discovery  
+Theater HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2311
+
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="Canais: Documentários",Discovery  
+Turbo FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7146
+
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World  HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="Canais: Documentários",Discovery  
+World  HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7443
+
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group- 
+title="Canais: Documentários",H2 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2268
+
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/H21.png"  
+group-title="Canais: Documentários",H2 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7363
+
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png"  
+group-title="Canais: Filmes e Series",HBO 2 FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7182
+
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png"  
+group-title="Canais: Filmes e Series",HBO 2 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2265
+
+#EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: Documentários",The History Channel
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7139
+
+#EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: Documentários",The History Channel
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7350
+
+#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="ID - Investigação Discovery HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Investiga%C3%A7%C3%A3oDiscovery1.png" group-title="Canais:  
+Documentários",ID - Investigação Discovery HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2253
+
+#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="Investigacao Discovery HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Investiga%C3%A7%C3%A3oDiscovery1.png" group-title="Canais:  
+Documentários",Investigacao Discovery HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7348
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/NationalGeographic1.png" group-title="Canais: Documentários",National  
+Geographic HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7327
+
+#EXTINF:-1 tvg-id="NatGeoWild HD" tvg-name="Nat Geo Wild FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: Documentários",Nat Geo Wild FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7143
+
+#EXTINF:-1 tvg-id="NatGeoWild HD" tvg-name="NatGeoWild HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: Documentários",NatGeoWild HD  
+[Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7324
+
+#EXTINF:-1 tvg-id="NatGeoWild HD" tvg-name="NatGeoWild HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: Documentários",NatGeoWild HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2238
 
 
 
 
 ##### FILMES & SERIES #####
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png/v1/fill/w_290,h_190,al_c,usm_0.66_1.00_0.01/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png"group-title="FILMES & SERIES",[COLOR orange] (FILMES & SERIES)[/COLOR]
+#EXTINF:-1 tvg-
+
+logo="https://static.wixstatic.com/media/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png/v1/fill/w_290,h_190
+
+,al_c,usm_0.66_1.00_0.01/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png"group-title="FILMES & SERIES",
+
+[COLOR orange] (FILMES & SERIES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CINE SKY
@@ -376,21 +957,319 @@ http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES E SÉRIES", 24 HORAS
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL 
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-
+
+title="Canais: Filmes e Series",A&E HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7088
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [Alter]" tvg logo="http://logocanais.ddns.net/Logo/A&E.png" 
+
+group-title="Canais: Filmes e Series",A&E HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7494
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png"  
+group-title="Canais: Filmes e Series",A&E HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13682
+
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group- 
+title="Canais: Filmes e Series",AXN HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2337
+
+#EXTINF:-1 tvg-id="AXN HD [Alter]" tvg-name="AXN HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7486
+
+#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="Canal Sony HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2324
+
+#EXTINF:-1 tvg-id="Canal Sony HD [Alter]" tvg-name="Canal Sony HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7470
+
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony HD (LEG)" tvg- 
+logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Legendados",Canal Sony HD (LEG)
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/22159
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" 
+group-title="Canais: Filmes e Series",Cinemax HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7089
+
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX FHD" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group- 
+title="Canais: Filmes e Series",FOX FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7186
+
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="Fox Life HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/FoxLife1.png" group-title="Canais: Variedades e Músicas",Fox Life HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2289
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium.png"  
+group-title="Canais: Filmes e Series",Fox Premium 1 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2288
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 2  
+FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7144
+
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group- 
+title="Canais: Filmes e Series",FX HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2280
+
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series",HBO 2 HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7360
+
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series",HBO 2 HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13673
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2263
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7358
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13675
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group- 
+title="Canais: Filmes e Series",HBO FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7181
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group- 
+title="Canais: Filmes e Series",HBO HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2262
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png"  
+group-title="Canais: Filmes e Series",HBO HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7357
+
+#EXTINF:-1 tvg-id="HBO 2 [Alter]" tvg-name="HBO HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13671
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD (LEG)" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png"  
+group-title="Canais: Legendados",HBO HD (LEG)
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/22189
+
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Filmes e Series",HBO Plus HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2259
+
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Filmes e Series",HBO Plus HD  
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7354
+
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Filmes e Series",HBO Plus HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13677
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus HD (LEG)" tvg- 
+logo="http://logocanais.ddns.net/Logo/HBOPlus1.png" group-title="Canais: Legendados",HBO Plus HD (LEG)
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/22187
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series",HBO Signature
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2257
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series",HBO Signature 
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7352
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD [Alter 2]" tvg- 
+logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series",HBO Signature 
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13680
+
+#EXTINF:-1 tvg-id="MAX HD" tvg-name="MAX HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png"  
+group-title="Canais: Filmes e Series",MAX HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7342
+
+#EXTINF:-1 tvg-id="MAX Prime HD" tvg-name="Max Prime HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/MaxPrime1.png" group-title="Canais: Filmes e Series",Max Prime HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7092
+
+#EXTINF:-1 tvg-id="MAX Prime HD" tvg-name="Max Prime HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/MaxPrime1.png" group-title="Canais: Filmes e Series",Max Prime HD  
+[Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7339
+
+#EXTINF:-1 tvg-id="MAX UP HD" tvg-name="Max UP HD" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png"  
+group-title="Canais: Filmes e Series",Max UP HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7093
+
+#EXTINF:-1 tvg-id="MAX UP HD" tvg-name="MAX UP HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series",MAX UP HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7337
+
+#EXTINF:-1 tvg-id="MAX UP [Alter]" tvg-name="MAX UP HD (LEG)" tvg- 
+logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Legendados",MAX UP HD (LEG)
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/22169
+
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" 
+
+ 
+group-title="Canais: Filmes e Series",Megapix HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2245
+
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series",Megapix HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7335
+
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount  HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount  HD  
+[Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7314
+
 
 
 
 
 ##### DESENHOS #####
-#EXTINF:-1 tvg-logo="https://meiobit.com/wp-content/uploads/2017/03/20170309boomerang.jpg"group-title="FILMES & SERIES",[COLOR orange] (FILMES & SERIES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://meiobit.com/wp-content/uploads/2017/03/20170309boomerang.jpg"group-
+
+title="DESENHOS",[COLOR orange] (DESENHOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR" tvg-logo="" group-title="INFANTIL",DISNEY JR HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-
+
+uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.br" tvg-logo="" group-title="INFANTIL", DISNEY XD HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk
+
+3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang [Alter]" tvg-name="Boomerang HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil",Boomerang HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7474
+
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil",Cartoon Network HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2321
+
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil",Discovery Kids FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7147
+
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil",Disney Channel FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7161
+
+#EXTINF:-1 tvg-id="Disney Junior [Alter]" tvg-name="Disney Junior HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil",Disney Junior HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13795
+
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="Gloob FHD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png"  
+group-title="Canais: Infantil",Gloob FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7155
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Gloobinho HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/tvglobinho1.png" group-title="Canais: Infantil",TV Gloobinho HD  
+[Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7368
+
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NatGeo Kids HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil",NatGeo Kids HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7325
+
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NatGeo Kids HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil",NatGeo Kids HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2126
+
+#EXTINF:-1 tvg-id="NICK JR FHD" tvg-name="NICK JR FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil",NICK JR FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7142
+
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr HD" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png"  
+group-title="Canais: Infantil",Nick Jr HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2145
+
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil",Nick Jr HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7320
+
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON FHD" tvg- 
+logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil",NICKELODEON FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7141
+
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil",Nickelodeon HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2125
+
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil",Nickelodeon HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7318
+
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="http://logocanais.ddns.net/Logo/Playkids.png" group- 
+title="Canais: Infantil",PlayKids HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/16209
+
+
+
+##### ENTRETERIMENTO #####
+#EXTINF:-1 tvg-logo="https://meiobit.com/wp-content/uploads/2017/03/20170309boomerang.jpg"group-
+
+title="ENTRETERIMENTO ",[COLOR orange] (ENTRETERIMENTO [/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/amc.png"  
+group-title="Canais: Filmes e Series",AMC HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7492
+
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/amc.png"  
+group-title="Canais: Filmes e Series",AMC HD [Alter 2]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/13686
+
+#EXTINF:-1 tvg-id="Arte 1 HD [Alter]" tvg-name="Arte 1 HD [Alter]" tvg- 
+
+logo="http://logocanais.ddns.net/Logo/Arte1.png" group-title="Canais: Variedades e Músicas",Arte 1 HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7488
+
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS FHD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group- 
+title="Canais: Variedades e Músicas",BIS FHD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7162
+
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group- 
+title="Canais: Variedades e Músicas",BIS HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2329
+
+#EXTINF:-1 tvg-id="Canal Brasil HD [Alter]" tvg-name="Canal Brasil HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/CanalBrasil1.png" group-title="Canais: Filmes e Series",Canal Brasil  
+HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7472
+
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg- 
+logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: Variedades e Músicas",Comedy  
+Central HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7098
+
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! Entertainment Television HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/E!1.png" group-title="Canais: Variedades e Músicas",E! Entertainment  
+Television HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7435
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/fish.png" group-title="Canais: Esportes",Fish TV HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7419
+
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD [Alter]" tvg- 
+logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: Variedades e Músicas",Food  
+Network HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7417
+
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group- 
+title="Canais: Esportes",OFF HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2229
+
 
 
 
@@ -398,7 +1277,9 @@ http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8
 
 
 ##### INTERNACIONAIS #####
-#EXTINF:-1 tvg-logo="http://www.estaciocarreiras.com.br/wp-content/uploads/2015/10/Rela%C3%A7%C3%B5es-Internacionais.jpg"group-title="TV ABERTA",[COLOR orange] (INTERNACIONAIS)[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.estaciocarreiras.com.br/wp-content/uploads/2015/10/Rela%C3%A7%C3%B5es-
+
+Internacionais.jpg"group-title="TV ABERTA",[COLOR orange] (INTERNACIONAIS)[/COLOR]
 http://0.0.0.0
 
 
@@ -418,9 +1299,13 @@ http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1 group-title="Esportes",NBA TV 
-http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?
 
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/119710/logo_toplatino_300x300.jpg"group-title="Variedades" , MEX - Top Latino 
+token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/119710/logo_toplatino_300x300.jpg"group-
+
+title="Variedades" , MEX - Top Latino 
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
@@ -429,7 +1314,9 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
 ###### ALEMANHA ######
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYqE-qLssKjKLHyetclgqMbXQpcv4iqLqO5PcV79BdboREI3l"group-title="TV ABERTA",[COLOR orange] (ALEMANHA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYqE-
+
+qLssKjKLHyetclgqMbXQpcv4iqLqO5PcV79BdboREI3l"group-title="TV ABERTA",[COLOR orange] (ALEMANHA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",1-2-3 TV [Alemanha] 
@@ -458,7 +1345,9 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 
 
 ###### CHINA ######
-#EXTINF:-1 tvg-logo="https://besthqwallpapers.com/Uploads/21-12-2016/11259/thumb2-chinese-flag-4k-silk-peoples-republic-of-china-flag-of-china.jpg"group-title="TV ABERTA",[COLOR orange] (CHINA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://besthqwallpapers.com/Uploads/21-12-2016/11259/thumb2-chinese-flag-4k-silk-
+
+peoples-republic-of-china-flag-of-china.jpg"group-title="TV ABERTA",[COLOR orange] (CHINA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",China 8 [China] 
@@ -468,7 +1357,9 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 
 ###### EMIRADOS ARABES ######
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-dos-emirados-arabes-unidos-pais-oriente-medio-12x-D_NQ_NP_758987-MLB27228947317_042018-F.jpg"group-title="TV ABERTA",[COLOR orange] (EMIRADOS ARABES)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-dos-emirados-arabes-unidos-pais-oriente-medio-12x-
+
+D_NQ_NP_758987-MLB27228947317_042018-F.jpg"group-title="TV ABERTA",[COLOR orange] (EMIRADOS ARABES)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Al Hurra [Emirados Arabes] 
@@ -485,10 +1376,14 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
 ###### ESPANHA ######
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.eurodicas.com.br/wp-content/uploads/2018/09/bandeira-da-espanha.jpg?zoom=2.625&resize=372%2C241"group-title="TV ABERTA",[COLOR orange] (ESPANHA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.eurodicas.com.br/wp-content/uploads/2018/09/bandeira-da-
+
+espanha.jpg?zoom=2.625&resize=372%2C241"group-title="TV ABERTA",[COLOR orange] (ESPANHA)[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/X0rwGWK.png" group-title="Esportes Internacional",Real Madrid TV
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/X0rwGWK.png" group-title="Esportes 
+
+Internacional",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 group-title="Internacionais",Canal Extremadura [Espanha] 
@@ -505,7 +1400,9 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playli
 
 
 ###### ESTADOS UNIDOS ######
-#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/600x450/129/129579/produto/10014039/0df2f647a7.jpg"group-title="TV ABERTA",[COLOR orange] (ESTADOS UNIDOS)[/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/600x450/129/129579/produto/10014039/0df2f647a7.jpg"group-
+
+title="TV ABERTA",[COLOR orange] (ESTADOS UNIDOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",CBS News [Estados Unidos] 
@@ -516,7 +1413,9 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 group-title="Internacionais",Weather Nation [Estados Unidos] 
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/htt
+
+p/uiConfId/28428751/a.m3u8
 
 
 
@@ -524,7 +1423,9 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 ###### FRANCA ######
-#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/600x450/129/129579/produto/10014046/1506a9bf5f.jpg"group-title="TV ABERTA",[COLOR orange] (FRANCA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/600x450/129/129579/produto/10014046/1506a9bf5f.jpg"group-
+
+title="TV ABERTA",[COLOR orange] (FRANCA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",France 24 [Franca] 
@@ -538,7 +1439,11 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
 
 ###### GRECIA ######
-#EXTINF:-1 tvg-logo="https://www.sunnewsonline.com/wp-content/uploads/2018/06/national-flag-of-greece-animated-windy-greek-flag_blsqgpw8g_thumbnail-full01.png"group-title="TV ABERTA",[COLOR orange] (GRECIA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://www.sunnewsonline.com/wp-content/uploads/2018/06/national-flag-of-greece-
+
+animated-windy-greek-flag_blsqgpw8g_thumbnail-full01.png"group-title="TV ABERTA",[COLOR orange] (GRECIA)
+
+[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Kontra TV [Grecia] 
@@ -549,7 +1454,9 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
 
 ###### INDIA ######
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-india-cetim-alto-brilho-150m-x-90cm-pronta-entrega-D_NQ_NP_989141-MLB25696903119_062017-F.jpg"group-title="TV ABERTA",[COLOR orange] (INDIA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-india-cetim-alto-brilho-150m-x-90cm-pronta-
+
+entrega-D_NQ_NP_989141-MLB25696903119_062017-F.jpg"group-title="TV ABERTA",[COLOR orange] (INDIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",DD News [India] 
@@ -563,7 +1470,9 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
 
 ###### ISRAEL ######
-#EXTINF:-1 tvg-logo="https://ak9.picdn.net/shutterstock/videos/5371889/thumb/1.jpg"group-title="TV ABERTA",[COLOR orange] (ISRAEL)[/COLOR]
+#EXTINF:-1 tvg-logo="https://ak9.picdn.net/shutterstock/videos/5371889/thumb/1.jpg"group-title="TV ABERTA",
+
+[COLOR orange] (ISRAEL)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Knesset Channel [Israel] 
@@ -575,7 +1484,9 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 
 ###### ITALIA ######
-#EXTINF:-1 tvg-logo="https://morareviajar.net/wp-content/uploads/2018/03/bandeira-da-It%C3%A1lia-3.jpg"group-title="TV ABERTA",[COLOR orange] (ITALIA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://morareviajar.net/wp-content/uploads/2018/03/bandeira-da-It%C3%A1lia-
+
+3.jpg"group-title="TV ABERTA",[COLOR orange] (ITALIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Canale 7 [Italia] 
@@ -593,11 +1504,15 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
 
 ##### REINO UNIDO ######
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-do-reino-unido-em-tecido-grande-inglaterra-paises-D_NQ_NP_925097-MLB27225521923_042018-F.jpg"group-title="TV ABERTA",[COLOR orange] (REINO UNIDO)[/COLOR]
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandeira-do-reino-unido-em-tecido-grande-inglaterra-paises-
+
+D_NQ_NP_925097-MLB27225521923_042018-F.jpg"group-title="TV ABERTA",[COLOR orange] (REINO UNIDO)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Arise News [Reino Unido] 
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-
+
+SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="Internacionais",Sky News [Reino Unido] 
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -606,7 +1521,11 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
 ###### RUSSIA ######
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mOwHUF1eOmiO6z96hw74cjrOAVGgnv9ylOWTolGA6innvxkx"group-title="TV ABERTA",[COLOR orange] (RUSSIA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?
+
+q=tbn:ANd9GcT1mOwHUF1eOmiO6z96hw74cjrOAVGgnv9ylOWTolGA6innvxkx"group-title="TV ABERTA",[COLOR orange] 
+
+(RUSSIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",Mir 24 [Russia] 
@@ -616,7 +1535,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 ###### TURQUIA ######
-#EXTINF:-1 tvg-logo="https://image.freepik.com/fotos-gratis/bandeira-da-turquia_1401-245.jpg"group-title="TV ABERTA",[COLOR orange] (TURQUIA)[/COLOR]
+#EXTINF:-1 tvg-logo="https://image.freepik.com/fotos-gratis/bandeira-da-turquia_1401-245.jpg"group-title="TV 
+
+ABERTA",[COLOR orange] (TURQUIA)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Internacionais",CNN Turk [Turquia] 
@@ -634,7 +1555,9 @@ http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 
 
 ##### RADIOS #####
-#EXTINF:-1 tvg-logo="http://www.tudopraradios.com.br/wp-content/uploads/2016/06/Alysea-Old-Fashioned-font-b-Vintage-b-font-K-2213-font-b-Radio-b-font-Full.jpg"group-title="TV ABERTA",[COLOR orange] (RADIOS)[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.tudopraradios.com.br/wp-content/uploads/2016/06/Alysea-Old-Fashioned-font-
+
+b-Vintage-b-font-K-2213-font-b-Radio-b-font-Full.jpg"group-title="TV ABERTA",[COLOR orange] (RADIOS)[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2Z7uuqP.png" group-title="RÁDIOS",Rádio Globo FM
@@ -656,7 +1579,11 @@ http://transamerica.crossradio.com.br:9100/live.aac
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Wp8Ri9u.png" group-title="ESTÚDIO RÁDIOS" , Estudio FM O DIA TV
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+http://c2901-slbps-
+
+sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b8983
+
+04.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KVDWK8P.jpg" group-title="ESTÚDIO RÁDIOS" , Transamérica Pop
 http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
@@ -664,7 +1591,9 @@ http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.
 #EXTINF:-1 tvg-logo="http://i.imgur.com/h5AFAvg.png" group-title="RÁDIO" , BOA FM
 http://painel.amsolution.net.br:8080/boa
 
-#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="RÁDIO" , Mix FM
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" 
+
+group-title="RÁDIO" , Mix FM
 http://mixaac.crossradio.com.br:1100/live
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S1cWMRy.jpg" group-title="RÁDIO" , Saudade Anos 80
@@ -679,76 +1608,122 @@ http://192.99.150.31:8849/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fm1sMNV.jpg" group-title=" RÁDIO" , Axé Folia
 http://192.99.150.31:8305/stream
 
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Viva o Samba
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio 
+
+Viva o Samba
 http://servidor33.brlogic.com:8020/live
 
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Skate Metal
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio 
+
+Skate Metal
 http://stm32.streaminghd.net.br:12406//;stream.mp3
 
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Jukebox
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio 
+
+Jukebox
 http://streaming08.hstbr.net:8240/live
 
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Aloha Web Rádio
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Aloha 
+
+Web Rádio
 http://216.245.194.244:8156/live
 
-#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio Infantil
+#EXTINF:0 group-title="RADIO ONLINE" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true, Rádio 
+
+Infantil
 http://192.99.150.31:8371/;
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Modão
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio 
+
+Modão
 http://192.99.150.31:8105/;stream.mp3
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Brega
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio 
+
+Brega
 http://sk7.org:8090/;
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio Estações
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Rádio 
+
+Estações
 http://streaming08.hstbr.net:8240/live?1503535965776
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Smooth Jazz 
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Smooth 
+
+Jazz 
 http://wm02.warpradio.com:8010/;stream/1
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Classicos do Funk
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, 
+
+Classicos do Funk
 http://radio5.logicahost.com.br:9812/;
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Funk Capixaba
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Funk 
+
+Capixaba
 http://45.43.208.138:27854/;
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Funk Brasil
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Funk 
+
+Brasil
 http://player.srvstm.com/player/12206/iphone.m3u
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Eurodance 90
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, 
+
+Eurodance 90
 http://192.99.150.31:8056/stream?MWINFO
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Sertanejo Universitario
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, 
+
+Sertanejo Universitario
 http://192.99.150.31:9191/stream?MWINFO
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Sertanejo Raizes
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, 
+
+Sertanejo Raizes
 http://192.99.150.31:9155/stream?MWINFO
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Jovem Guarda
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, Jovem 
+
+Guarda
 http://192.99.150.31:8801/stream?MWINFO
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, ROBERTO CARLOS
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true, 
+
+ROBERTO CARLOS
 http://192.99.150.31:9137/stream
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Bossa Nova 
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Bossa 
+
+Nova 
 http://6d9a.webradio.upx.net.br:9974/stream
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pagode 
 http://6d9a.webradio.upx.net.br:9061/stream
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Anos 2000 
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Anos 
+
+2000 
 http://6d9a.webradio.upx.net.br:9940/stream
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop Rock 
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop 
+
+Rock 
 http://6d9a.webradio.upx.net.br:8016/stream
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop Hits 
+#EXTINF:0 tvg-logo="http://i.imgur.com/A1fpg6a.png" group-title="RADIO ONLINE" tvg-name=""radio=true,Pop 
+
+Hits 
 http://6d9a.webradio.upx.net.br:90
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="TV Musicas",VH1 MEGAHITS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" 
+
+group-title="TV Musicas",VH1 MEGAHITS
 http://stream.1music.hu/stream/1music.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-
+
+t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
