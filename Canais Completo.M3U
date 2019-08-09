@@ -410,9 +410,6 @@ http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2127
 #EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Mais Globosat HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/maisglobosat1.png" group-title="Canais: Variedades e Músicas",Mais Globosat HD [Alter]
 http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7344
 
-#EXTINF:-1 tvg-id="MAX HD" tvg-name="Max HD" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png" group-title="Canais: Filmes e Series",Max HD
-http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7091
-
 #EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV HD
 http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2140
 
@@ -430,12 +427,6 @@ http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7329
 
 #EXTINF:-1 tvg-id="SundanceTV HD" tvg-name="SundanceTV HD" tvg-logo="http://logocanais.ddns.net/Logo/sundance.png" group-title="Canais: Variedades e Músicas",SundanceTV HD
 http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7271
-
-#EXTINF:-1 tvg-id="Syfy HD" tvg-name="Syfy HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy HD [Alter]
-http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7283
-
-#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS HD
-http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2182
 
 #EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Variedades e Músicas",TBS HD [Alter]
 http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7269
@@ -509,6 +500,7 @@ http://assistirpainel.ddns.net:8880/TPkI1nxTzl/7aer3nVyfo/2273
 #EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="ESPORTES",[COLOR orange] (ESPORTES)[/COLOR]
 http://0.0.0.0
 
+
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
 http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 
@@ -527,8 +519,8 @@ http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/21776
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate FHD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate FHD
 http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7187
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate HD
-http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2318
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate FHD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate FHD
+http://assistirpainel.ddns.net:8880/TPkI1nxTzl/7aer3nVyfo/7187
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate HD
 http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2318
@@ -779,6 +771,7 @@ http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7237
 ##### FILMES & SERIES #####
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png/v1/fill/w_290,h_190,al_c,usm_0.66_1.00_0.01/50cb5a_00fcabe2c5b943ed85fed21e84de6db2~mv2.png"group-title="FILMES & SERIES",[COLOR orange] (FILMES & SERIES)[/COLOR]
 http://0.0.0.0
+
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="FILMES", CINE SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
@@ -1047,9 +1040,14 @@ http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7140
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner HD (LEG)" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Legendados",Warner HD (LEG)
 http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/22161
 
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="Syfy HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy HD [Alter]
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7283
 
+#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/2182
 
-
+#EXTINF:-1 tvg-id="MAX HD" tvg-name="Max HD" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png" group-title="Canais: Filmes e Series",Max HD
+http://assistirpainel.ddns.net:8880/cbXpFCCvru/cNmZmkmd1p/7091
 
 
 
