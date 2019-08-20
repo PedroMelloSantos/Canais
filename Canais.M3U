@@ -5,8 +5,6 @@
 http://0.0.0.0
 
 
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/17121.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
@@ -361,6 +359,15 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="ESPORTES",[COLOR orange] (ESPORTES)[/COLOR]
 http://0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="", [B]BAND SPORTS[/B] []
+http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]COMBATE[/B] []
+http://31.204.128.117:8081/live/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]COMBATE HD[/B] []
+http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
 http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
