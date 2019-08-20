@@ -4,6 +4,48 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
 http://0.0.0.0
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Século 21
+https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1136501536.m3u8
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Channels",TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w1656424896.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVE HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0 tvg-id="Terraviva.br" group-title="Channels",Terra Viva
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Channels",Canal do Boi
+http://189.86.89.116/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV na ilha
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",cine +
+https://live.sba1.com/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="Bandsportshd.br" group-title="Channels",Band Sports
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV 2
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",Fox Sports
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",Fox Sports 2
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
+#EXTINF:0 tvg-id="Eimaxx.br" group-title="Channels",EI Maxx
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8&
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo
+http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big brother Brasil 18
+http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
@@ -358,6 +400,27 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 ##### ESPORTES #####
 #EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="ESPORTES",[COLOR orange] (ESPORTES)[/COLOR]
 http://0.0.0.0
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",cine +
+https://live.sba1.com/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:0 tvg-id="Bandsportshd.br" group-title="Channels",Band Sports
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
+
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV 2
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",Fox Sports
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",Fox Sports 2
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:0 tvg-id="Eimaxx.br" group-title="Channels",EI Maxx
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8&
 
 #EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN
 http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
