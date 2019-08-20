@@ -5,6 +5,186 @@
 http://0.0.0.0
 
 
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1136501536.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="BR", Cine +
+http://189.86.89.116/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="BR", MKK
+http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BR", Mega tv
+http://www.megatv.com.br/u/2018/01/04/stone-in-box-1-30_657a660.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="BR", Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/chunklist_w158077684.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BR", Rede Seculo 21
+https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-b.m3u8?sd=10&rebase=on
+
+
+
+
+
+ 
+
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="canais digitalsbl 2",COMBATE 
+http://95.211.149.215:8081/look/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/XUfBr5" group-title="canais digitalsbl 2",BAND SPORTS 
+http://ev.mm.uol.com.br:1935/geobband/operadoras/chunklist_w1057155891.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/XUfBr5" group-title="canais digitalsbl 2",BAND SPORTS 
+http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8?bandsport
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="ESPORTES", ESPORTE INTERATIVO
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="ESPORTES", ESPORTE INTERATIVO 
+http://enlsso9vfh.singularcdn.net.br/live/canal_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes", EI MAX HD 
+http://5.79.68.138:8081/look/eimax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes", EI MAX HD 
+http://zip.net/bdtGR5
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes", EI MAX HD 
+http://m3u.me/ba0
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title=" group-title="ESPORTES", EI MAXX 02 
+http://m3u.me/bbw
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title=" group-title="ESPORTES", EI MAXX 02 
+http://enlsso9vfh.singularcdn.net.br/live/canal_11/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS SD
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS SD
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 SD 
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="ESPORTES",FOX SPORTS 2 SD 
+http://5.79.68.138:8081/look/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPORTES PARA TODOS 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+   
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fqjnl02p9/TV_Guarulhos.png" group-title="Esportes",TV GUARULHOS 
+http://flash1.crossdigital.com.br:1935/476_1/476_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/79k5a2y0d/TV_Guaruj.png" group-title="Esportes",TV GUARUJA 
+http://wse.transmissaodigital.com:1935/3880/3880/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eqtcpanjh/TV_Geral.png" group-title="Esportes",TV GERAL 
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="esportes", SPORTV 
+http://5.79.68.138:8081/look/sportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="",SPORTV 2
+http://5.79.68.138:8081/look/sportv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/PFC.png" group-title="ESPORTES",PFC - SD 
+http://bit.ly/2odi0KO
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier1.png" group-title="",PREMIER 
+http://95.211.149.215:8081/look/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL HD 
+http://zip.net/bxtJlR
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN 
+http://5.79.68.138:8081/look/espn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL 
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN + 
+http://5.79.68.138:8081/look/espn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES",ALL SPORTS TV 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/RooU5H" group-title="ESPORTES",ALL TV 
+http://api.new.livestream.com:80/accounts/4942128/events/6646853/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://alphachannel.tv.br/wp-content/uploads/2015/03/FISH.png",FISH PLUS 
+http://streamingbr.com.br:1935/st87-live/st87-live_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",HORSE BRASIL HD 
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/CPN5mJ" group-title="ESPORTES INTERNACIONAIS", SPORT 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/musmOsl.png" group-title="ESPORTES",NBA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqQlQ4O.gif" group-title="ESPORTES",MOTOR SPORTS 
+http://motorsport.hopto.org:8080/ 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1DwScuq.png" group-title="ESPORTES",VERSUS HD 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/Z2fMvcPllL/Uln7zzzHV8ip53wK.png" group-title="ESPORTES", VERSUS (ENG) 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, DXTV SPORTS 
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
+http://95.141.35.104:8081/looktvs/sptvn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP HD
+http://listaiptv.brcs.ml:8080/HD_GLOBO_SP/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo RJ
+http://158.58.172.5:8081/looktvs/0globo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo RJ HD
+http://listaiptv.brcs.ml:8080/HD_GLOBO_RJ/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
@@ -145,8 +325,8 @@ http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/dQv2mX8DSK/a6964W8xUin8LJs8.png" group-title="",TV Transamérica
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS",HOT MUSIC 
-http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Século 21
+https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="Variedades",GV News 
 http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
@@ -322,7 +502,8 @@ http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 tvg-id="VH1 MEGAHITS" tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="VARIEDADES", VH1 MEGAHITS 
 http://stream.1music.hu/stream/1music.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS",HOT MUSIC 
+http://wow01.105.net/live/rmc1/playlist.m3u8
 
 
 
@@ -360,6 +541,29 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/esportes-gerais-educacao-fisica.jpg"group-title="ESPORTES",[COLOR orange] (ESPORTES)[/COLOR]
 http://0.0.0.0
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",cine +
+https://live.sba1.com/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:0 tvg-id="Bandsportshd.br" group-title="Channels",Band Sports
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
+
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV 2
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",Fox Sports
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",Fox Sports 2
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:0 tvg-id="Eimaxx.br" group-title="Channels",EI Maxx
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8&
+
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="URL DA LOGO" group-title="SPORT", ALL SPORT
 http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
