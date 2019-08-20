@@ -116,7 +116,29 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RooU5H" group-title="ESPORTES",ALL TV 
 http://api.new.livestream.com:80/accounts/4942128/events/6646853/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://alphachannel.tv.br/wp-content/uploads/2015/03/FISH.png",FISH PLUS 
+http://streamingbr.com.br:1935/st87-live/st87-live_720p/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",HORSE BRASIL HD 
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/CPN5mJ" group-title="ESPORTES INTERNACIONAIS", SPORT 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/musmOsl.png" group-title="ESPORTES",NBA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqQlQ4O.gif" group-title="ESPORTES",MOTOR SPORTS 
+http://motorsport.hopto.org:8080/ 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1DwScuq.png" group-title="ESPORTES",VERSUS HD 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/Z2fMvcPllL/Uln7zzzHV8ip53wK.png" group-title="ESPORTES", VERSUS (ENG) 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 
 
