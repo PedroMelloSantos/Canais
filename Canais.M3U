@@ -140,6 +140,11 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/Z2fMvcPllL/Uln7zzzHV8ip53wK.png" group-title="ESPORTES", VERSUS (ENG) 
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
+#EXTINF:-1, SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, DXTV SPORTS 
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
 
 
 
