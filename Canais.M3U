@@ -5,9 +5,8 @@
 http://0.0.0.0
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="" group-title="TV Aberta",TV Senado
-https://www.youtube.com/watch?v=_TlEmu-V6W0
-
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/17121.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
