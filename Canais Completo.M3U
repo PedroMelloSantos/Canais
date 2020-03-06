@@ -1,62 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="TV ABERTA",[COLOR orange] (TV ABERTA)[/COLOR]
-http://0.0.0.0
-
-
-#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1136501536.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="BR", Cine +
-http://189.86.89.116/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="BR", MKK
-http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BR", Mega tv
-http://www.megatv.com.br/u/2018/01/04/stone-in-box-1-30_657a660.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="BR", Rede Brasil
-http://173.236.10.10:1935/rbtv/rbtv/chunklist_w158077684.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BR", Rede Seculo 21
-https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-b.m3u8?sd=10&rebase=on
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
-http://95.141.35.104:8081/looktvs/sptvn/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP HD
-http://listaiptv.brcs.ml:8080/HD_GLOBO_SP/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo RJ
-http://158.58.172.5:8081/looktvs/0globo/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo RJ HD
-http://listaiptv.brcs.ml:8080/HD_GLOBO_RJ/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-
-
-
-
-
-
-
-##### Canais #####
+##### CANAIS #####
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
